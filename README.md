@@ -1,1 +1,1 @@
-# Coding Practic and Challenges
+# Coding Practice and Challenges
