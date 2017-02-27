@@ -81,17 +81,147 @@ CMakeFiles/cpc.dir/main.cpp.o.provides: CMakeFiles/cpc.dir/main.cpp.o.requires
 CMakeFiles/cpc.dir/main.cpp.o.provides.build: CMakeFiles/cpc.dir/main.cpp.o
 
 
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o: ../hash_table/contains_duplicate_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate_2.cpp
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate_2.cpp > CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate_2.cpp -o CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o: ../hash_table/contains_duplicate.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate.cpp
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate.cpp > CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate.cpp -o CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o: ../hash_table/contains_duplicate_3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate_3.cpp
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate_3.cpp > CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate_3.cpp -o CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o: ../dynamic_programming/maximal_square.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/maximal_square.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/maximal_square.cpp > CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/maximal_square.cpp -o CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o
+
+
+CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o: ../tree/count_complete_tree_nodes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/tree/count_complete_tree_nodes.cpp
+
+CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/tree/count_complete_tree_nodes.cpp > CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.i
+
+CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/tree/count_complete_tree_nodes.cpp -o CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.s
+
+CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.requires
+
+CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.provides: CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.provides
+
+CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
-"CMakeFiles/cpc.dir/main.cpp.o"
+"CMakeFiles/cpc.dir/main.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o" \
+"CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
 
 cpc: CMakeFiles/cpc.dir/main.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o
+cpc: CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -100,6 +230,11 @@ CMakeFiles/cpc.dir/build: cpc
 .PHONY : CMakeFiles/cpc.dir/build
 
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/main.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

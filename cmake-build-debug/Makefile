@@ -123,6 +123,114 @@ cpc/fast:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/build
 .PHONY : cpc/fast
 
+dynamic_programming/maximal_square.o: dynamic_programming/maximal_square.cpp.o
+
+.PHONY : dynamic_programming/maximal_square.o
+
+# target to build an object file
+dynamic_programming/maximal_square.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o
+.PHONY : dynamic_programming/maximal_square.cpp.o
+
+dynamic_programming/maximal_square.i: dynamic_programming/maximal_square.cpp.i
+
+.PHONY : dynamic_programming/maximal_square.i
+
+# target to preprocess a source file
+dynamic_programming/maximal_square.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.i
+.PHONY : dynamic_programming/maximal_square.cpp.i
+
+dynamic_programming/maximal_square.s: dynamic_programming/maximal_square.cpp.s
+
+.PHONY : dynamic_programming/maximal_square.s
+
+# target to generate assembly for a file
+dynamic_programming/maximal_square.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.s
+.PHONY : dynamic_programming/maximal_square.cpp.s
+
+hash_table/contains_duplicate.o: hash_table/contains_duplicate.cpp.o
+
+.PHONY : hash_table/contains_duplicate.o
+
+# target to build an object file
+hash_table/contains_duplicate.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o
+.PHONY : hash_table/contains_duplicate.cpp.o
+
+hash_table/contains_duplicate.i: hash_table/contains_duplicate.cpp.i
+
+.PHONY : hash_table/contains_duplicate.i
+
+# target to preprocess a source file
+hash_table/contains_duplicate.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.i
+.PHONY : hash_table/contains_duplicate.cpp.i
+
+hash_table/contains_duplicate.s: hash_table/contains_duplicate.cpp.s
+
+.PHONY : hash_table/contains_duplicate.s
+
+# target to generate assembly for a file
+hash_table/contains_duplicate.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.s
+.PHONY : hash_table/contains_duplicate.cpp.s
+
+hash_table/contains_duplicate_2.o: hash_table/contains_duplicate_2.cpp.o
+
+.PHONY : hash_table/contains_duplicate_2.o
+
+# target to build an object file
+hash_table/contains_duplicate_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.o
+.PHONY : hash_table/contains_duplicate_2.cpp.o
+
+hash_table/contains_duplicate_2.i: hash_table/contains_duplicate_2.cpp.i
+
+.PHONY : hash_table/contains_duplicate_2.i
+
+# target to preprocess a source file
+hash_table/contains_duplicate_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.i
+.PHONY : hash_table/contains_duplicate_2.cpp.i
+
+hash_table/contains_duplicate_2.s: hash_table/contains_duplicate_2.cpp.s
+
+.PHONY : hash_table/contains_duplicate_2.s
+
+# target to generate assembly for a file
+hash_table/contains_duplicate_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_2.cpp.s
+.PHONY : hash_table/contains_duplicate_2.cpp.s
+
+hash_table/contains_duplicate_3.o: hash_table/contains_duplicate_3.cpp.o
+
+.PHONY : hash_table/contains_duplicate_3.o
+
+# target to build an object file
+hash_table/contains_duplicate_3.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o
+.PHONY : hash_table/contains_duplicate_3.cpp.o
+
+hash_table/contains_duplicate_3.i: hash_table/contains_duplicate_3.cpp.i
+
+.PHONY : hash_table/contains_duplicate_3.i
+
+# target to preprocess a source file
+hash_table/contains_duplicate_3.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.i
+.PHONY : hash_table/contains_duplicate_3.cpp.i
+
+hash_table/contains_duplicate_3.s: hash_table/contains_duplicate_3.cpp.s
+
+.PHONY : hash_table/contains_duplicate_3.s
+
+# target to generate assembly for a file
+hash_table/contains_duplicate_3.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.s
+.PHONY : hash_table/contains_duplicate_3.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -150,6 +258,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+tree/count_complete_tree_nodes.o: tree/count_complete_tree_nodes.cpp.o
+
+.PHONY : tree/count_complete_tree_nodes.o
+
+# target to build an object file
+tree/count_complete_tree_nodes.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o
+.PHONY : tree/count_complete_tree_nodes.cpp.o
+
+tree/count_complete_tree_nodes.i: tree/count_complete_tree_nodes.cpp.i
+
+.PHONY : tree/count_complete_tree_nodes.i
+
+# target to preprocess a source file
+tree/count_complete_tree_nodes.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.i
+.PHONY : tree/count_complete_tree_nodes.cpp.i
+
+tree/count_complete_tree_nodes.s: tree/count_complete_tree_nodes.cpp.s
+
+.PHONY : tree/count_complete_tree_nodes.s
+
+# target to generate assembly for a file
+tree/count_complete_tree_nodes.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.s
+.PHONY : tree/count_complete_tree_nodes.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -159,9 +294,24 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cpc"
+	@echo "... dynamic_programming/maximal_square.o"
+	@echo "... dynamic_programming/maximal_square.i"
+	@echo "... dynamic_programming/maximal_square.s"
+	@echo "... hash_table/contains_duplicate.o"
+	@echo "... hash_table/contains_duplicate.i"
+	@echo "... hash_table/contains_duplicate.s"
+	@echo "... hash_table/contains_duplicate_2.o"
+	@echo "... hash_table/contains_duplicate_2.i"
+	@echo "... hash_table/contains_duplicate_2.s"
+	@echo "... hash_table/contains_duplicate_3.o"
+	@echo "... hash_table/contains_duplicate_3.i"
+	@echo "... hash_table/contains_duplicate_3.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... tree/count_complete_tree_nodes.o"
+	@echo "... tree/count_complete_tree_nodes.i"
+	@echo "... tree/count_complete_tree_nodes.s"
 .PHONY : help
 
 
