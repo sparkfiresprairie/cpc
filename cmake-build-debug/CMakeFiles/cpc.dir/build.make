@@ -201,6 +201,102 @@ CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.provides: CMakeFiles/cpc
 CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o
 
 
+CMakeFiles/cpc.dir/math/rectangle_area.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/math/rectangle_area.cpp.o: ../math/rectangle_area.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cpc.dir/math/rectangle_area.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/math/rectangle_area.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/math/rectangle_area.cpp
+
+CMakeFiles/cpc.dir/math/rectangle_area.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/math/rectangle_area.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/math/rectangle_area.cpp > CMakeFiles/cpc.dir/math/rectangle_area.cpp.i
+
+CMakeFiles/cpc.dir/math/rectangle_area.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/math/rectangle_area.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/math/rectangle_area.cpp -o CMakeFiles/cpc.dir/math/rectangle_area.cpp.s
+
+CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.requires
+
+CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.provides: CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.provides
+
+CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.provides.build: CMakeFiles/cpc.dir/math/rectangle_area.cpp.o
+
+
+CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o: ../stack/basic_calculator.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/stack/basic_calculator.cpp
+
+CMakeFiles/cpc.dir/stack/basic_calculator.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/stack/basic_calculator.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/stack/basic_calculator.cpp > CMakeFiles/cpc.dir/stack/basic_calculator.cpp.i
+
+CMakeFiles/cpc.dir/stack/basic_calculator.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/stack/basic_calculator.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/stack/basic_calculator.cpp -o CMakeFiles/cpc.dir/stack/basic_calculator.cpp.s
+
+CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.requires
+
+CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.provides: CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.provides
+
+CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.provides.build: CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o
+
+
+CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o: ../design/implement_stack_using_queues.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/implement_stack_using_queues.cpp
+
+CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/implement_stack_using_queues.cpp > CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.i
+
+CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/implement_stack_using_queues.cpp -o CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s
+
+CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.provides: CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.provides.build: CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o
+
+
+CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o: ../tree/invert_binary_tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/tree/invert_binary_tree.cpp
+
+CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/tree/invert_binary_tree.cpp > CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.i
+
+CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/tree/invert_binary_tree.cpp -o CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.s
+
+CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.requires
+
+CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.provides: CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.provides
+
+CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -208,7 +304,11 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o" \
 "CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o" \
 "CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o" \
-"CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o"
+"CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o" \
+"CMakeFiles/cpc.dir/math/rectangle_area.cpp.o" \
+"CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o" \
+"CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o" \
+"CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -219,9 +319,13 @@ cpc: CMakeFiles/cpc.dir/hash_table/contains_duplicate.cpp.o
 cpc: CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o
 cpc: CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o
+cpc: CMakeFiles/cpc.dir/math/rectangle_area.cpp.o
+cpc: CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o
+cpc: CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o
+cpc: CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -235,6 +339,10 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/contains_duplicate.cp
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/rectangle_area.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

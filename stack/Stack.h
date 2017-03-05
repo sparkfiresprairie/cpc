@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 2/26/17.
+// Created by Xingyuan Wang on 3/1/17.
 //
 
-#ifndef CPC_TREE_H
-#define CPC_TREE_H
+#ifndef CPC_STACK_H
+#define CPC_STACK_H
 
 #include <iostream>
 #include <vector>
@@ -107,7 +107,6 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int countNodes(TreeNode* root);
-TreeNode* invertTree(TreeNode* root);
+int calculate(string s);
 
-#endif //CPC_TREE_H
+#endif //CPC_STACK_H

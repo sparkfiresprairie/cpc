@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 2/26/17.
+// Created by Xingyuan Wang on 3/1/17.
 //
 
-#ifndef CPC_TREE_H
-#define CPC_TREE_H
+#ifndef CPC_MATH_H
+#define CPC_MATH_H
 
 #include <iostream>
 #include <vector>
@@ -107,7 +107,6 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int countNodes(TreeNode* root);
-TreeNode* invertTree(TreeNode* root);
+int computeArea(int A, int B, int C, int D, int E, int F, int G, int H);
 
-#endif //CPC_TREE_H
+#endif //CPC_MATH_H

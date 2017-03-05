@@ -123,6 +123,33 @@ cpc/fast:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/build
 .PHONY : cpc/fast
 
+design/implement_stack_using_queues.o: design/implement_stack_using_queues.cpp.o
+
+.PHONY : design/implement_stack_using_queues.o
+
+# target to build an object file
+design/implement_stack_using_queues.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.o
+.PHONY : design/implement_stack_using_queues.cpp.o
+
+design/implement_stack_using_queues.i: design/implement_stack_using_queues.cpp.i
+
+.PHONY : design/implement_stack_using_queues.i
+
+# target to preprocess a source file
+design/implement_stack_using_queues.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.i
+.PHONY : design/implement_stack_using_queues.cpp.i
+
+design/implement_stack_using_queues.s: design/implement_stack_using_queues.cpp.s
+
+.PHONY : design/implement_stack_using_queues.s
+
+# target to generate assembly for a file
+design/implement_stack_using_queues.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s
+.PHONY : design/implement_stack_using_queues.cpp.s
+
 dynamic_programming/maximal_square.o: dynamic_programming/maximal_square.cpp.o
 
 .PHONY : dynamic_programming/maximal_square.o
@@ -258,6 +285,60 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+math/rectangle_area.o: math/rectangle_area.cpp.o
+
+.PHONY : math/rectangle_area.o
+
+# target to build an object file
+math/rectangle_area.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/rectangle_area.cpp.o
+.PHONY : math/rectangle_area.cpp.o
+
+math/rectangle_area.i: math/rectangle_area.cpp.i
+
+.PHONY : math/rectangle_area.i
+
+# target to preprocess a source file
+math/rectangle_area.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/rectangle_area.cpp.i
+.PHONY : math/rectangle_area.cpp.i
+
+math/rectangle_area.s: math/rectangle_area.cpp.s
+
+.PHONY : math/rectangle_area.s
+
+# target to generate assembly for a file
+math/rectangle_area.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/rectangle_area.cpp.s
+.PHONY : math/rectangle_area.cpp.s
+
+stack/basic_calculator.o: stack/basic_calculator.cpp.o
+
+.PHONY : stack/basic_calculator.o
+
+# target to build an object file
+stack/basic_calculator.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator.cpp.o
+.PHONY : stack/basic_calculator.cpp.o
+
+stack/basic_calculator.i: stack/basic_calculator.cpp.i
+
+.PHONY : stack/basic_calculator.i
+
+# target to preprocess a source file
+stack/basic_calculator.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator.cpp.i
+.PHONY : stack/basic_calculator.cpp.i
+
+stack/basic_calculator.s: stack/basic_calculator.cpp.s
+
+.PHONY : stack/basic_calculator.s
+
+# target to generate assembly for a file
+stack/basic_calculator.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator.cpp.s
+.PHONY : stack/basic_calculator.cpp.s
+
 tree/count_complete_tree_nodes.o: tree/count_complete_tree_nodes.cpp.o
 
 .PHONY : tree/count_complete_tree_nodes.o
@@ -285,6 +366,33 @@ tree/count_complete_tree_nodes.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.s
 .PHONY : tree/count_complete_tree_nodes.cpp.s
 
+tree/invert_binary_tree.o: tree/invert_binary_tree.cpp.o
+
+.PHONY : tree/invert_binary_tree.o
+
+# target to build an object file
+tree/invert_binary_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.o
+.PHONY : tree/invert_binary_tree.cpp.o
+
+tree/invert_binary_tree.i: tree/invert_binary_tree.cpp.i
+
+.PHONY : tree/invert_binary_tree.i
+
+# target to preprocess a source file
+tree/invert_binary_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.i
+.PHONY : tree/invert_binary_tree.cpp.i
+
+tree/invert_binary_tree.s: tree/invert_binary_tree.cpp.s
+
+.PHONY : tree/invert_binary_tree.s
+
+# target to generate assembly for a file
+tree/invert_binary_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/invert_binary_tree.cpp.s
+.PHONY : tree/invert_binary_tree.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -294,6 +402,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cpc"
+	@echo "... design/implement_stack_using_queues.o"
+	@echo "... design/implement_stack_using_queues.i"
+	@echo "... design/implement_stack_using_queues.s"
 	@echo "... dynamic_programming/maximal_square.o"
 	@echo "... dynamic_programming/maximal_square.i"
 	@echo "... dynamic_programming/maximal_square.s"
@@ -309,9 +420,18 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... math/rectangle_area.o"
+	@echo "... math/rectangle_area.i"
+	@echo "... math/rectangle_area.s"
+	@echo "... stack/basic_calculator.o"
+	@echo "... stack/basic_calculator.i"
+	@echo "... stack/basic_calculator.s"
 	@echo "... tree/count_complete_tree_nodes.o"
 	@echo "... tree/count_complete_tree_nodes.i"
 	@echo "... tree/count_complete_tree_nodes.s"
+	@echo "... tree/invert_binary_tree.o"
+	@echo "... tree/invert_binary_tree.i"
+	@echo "... tree/invert_binary_tree.s"
 .PHONY : help
 
 
