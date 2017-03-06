@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 3/1/17.
+// Created by Xingyuan Wang on 3/6/17.
 //
 
-#ifndef CPC_STACK_H
-#define CPC_STACK_H
+#ifndef CPC_BINARYSEARCH_H
+#define CPC_BINARYSEARCH_H
 
 #include <iostream>
 #include <vector>
@@ -107,7 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int calculate(string s);
-int calculate2(string s);
-
-#endif //CPC_STACK_H
+#endif //CPC_BINARYSEARCH_H

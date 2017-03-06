@@ -109,5 +109,6 @@ public:
 
 int countNodes(TreeNode* root);
 TreeNode* invertTree(TreeNode* root);
+TreeNode* lowestCommonAncestorBST(TreeNode* root, TreeNode* p, TreeNode* q);
 
 #endif //CPC_TREE_H
