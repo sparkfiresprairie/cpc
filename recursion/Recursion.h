@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 3/1/17.
+// Created by Xingyuan Wang on 3/6/17.
 //
 
-#ifndef CPC_DESIGN_H
-#define CPC_DESIGN_H
+#ifndef CPC_RECURSION_H
+#define CPC_RECURSION_H
 
 #include <iostream>
 #include <vector>
@@ -107,8 +107,7 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-class MyStack;
-class Vector2D;
-class MyQueue;
+vector<string> findStrobogrammatic2(int n)
+vector<string> findStrobogrammatic3(int n);
 
-#endif //CPC_DESIGN_H
+#endif //CPC_RECURSION_H

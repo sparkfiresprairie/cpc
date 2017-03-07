@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 3/1/17.
+// Created by Xingyuan Wang on 3/6/17.
 //
 
-#ifndef CPC_DESIGN_H
-#define CPC_DESIGN_H
+#ifndef CPC_SORT_H
+#define CPC_SORT_H
 
 #include <iostream>
 #include <vector>
@@ -107,8 +107,6 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-class MyStack;
-class Vector2D;
-class MyQueue;
+bool canAttendMeetings(vector<Interval>& intervals)
 
-#endif //CPC_DESIGN_H
+#endif //CPC_SORT_H

@@ -177,6 +177,60 @@ array/product_of_array_except_self.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/product_of_array_except_self.cpp.s
 .PHONY : array/product_of_array_except_self.cpp.s
 
+array/shortest_word_distance.o: array/shortest_word_distance.cpp.o
+
+.PHONY : array/shortest_word_distance.o
+
+# target to build an object file
+array/shortest_word_distance.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o
+.PHONY : array/shortest_word_distance.cpp.o
+
+array/shortest_word_distance.i: array/shortest_word_distance.cpp.i
+
+.PHONY : array/shortest_word_distance.i
+
+# target to preprocess a source file
+array/shortest_word_distance.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.i
+.PHONY : array/shortest_word_distance.cpp.i
+
+array/shortest_word_distance.s: array/shortest_word_distance.cpp.s
+
+.PHONY : array/shortest_word_distance.s
+
+# target to generate assembly for a file
+array/shortest_word_distance.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.s
+.PHONY : array/shortest_word_distance.cpp.s
+
+array/shortest_word_distance_3.o: array/shortest_word_distance_3.cpp.o
+
+.PHONY : array/shortest_word_distance_3.o
+
+# target to build an object file
+array/shortest_word_distance_3.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o
+.PHONY : array/shortest_word_distance_3.cpp.o
+
+array/shortest_word_distance_3.i: array/shortest_word_distance_3.cpp.i
+
+.PHONY : array/shortest_word_distance_3.i
+
+# target to preprocess a source file
+array/shortest_word_distance_3.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.i
+.PHONY : array/shortest_word_distance_3.cpp.i
+
+array/shortest_word_distance_3.s: array/shortest_word_distance_3.cpp.s
+
+.PHONY : array/shortest_word_distance_3.s
+
+# target to generate assembly for a file
+array/shortest_word_distance_3.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.s
+.PHONY : array/shortest_word_distance_3.cpp.s
+
 array/sliding_window_maximum.o: array/sliding_window_maximum.cpp.o
 
 .PHONY : array/sliding_window_maximum.o
@@ -258,6 +312,33 @@ binary_search/search_a_2d_matrix_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.s
 .PHONY : binary_search/search_a_2d_matrix_2.cpp.s
 
+design/flatten_2d_vector.o: design/flatten_2d_vector.cpp.o
+
+.PHONY : design/flatten_2d_vector.o
+
+# target to build an object file
+design/flatten_2d_vector.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o
+.PHONY : design/flatten_2d_vector.cpp.o
+
+design/flatten_2d_vector.i: design/flatten_2d_vector.cpp.i
+
+.PHONY : design/flatten_2d_vector.i
+
+# target to preprocess a source file
+design/flatten_2d_vector.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.i
+.PHONY : design/flatten_2d_vector.cpp.i
+
+design/flatten_2d_vector.s: design/flatten_2d_vector.cpp.s
+
+.PHONY : design/flatten_2d_vector.s
+
+# target to generate assembly for a file
+design/flatten_2d_vector.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.s
+.PHONY : design/flatten_2d_vector.cpp.s
+
 design/implement_queue_using_stacks.o: design/implement_queue_using_stacks.cpp.o
 
 .PHONY : design/implement_queue_using_stacks.o
@@ -311,6 +392,33 @@ design/implement_stack_using_queues.s: design/implement_stack_using_queues.cpp.s
 design/implement_stack_using_queues.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s
 .PHONY : design/implement_stack_using_queues.cpp.s
+
+divide_and_conquer/different_ways_to_add_parentheses.o: divide_and_conquer/different_ways_to_add_parentheses.cpp.o
+
+.PHONY : divide_and_conquer/different_ways_to_add_parentheses.o
+
+# target to build an object file
+divide_and_conquer/different_ways_to_add_parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o
+.PHONY : divide_and_conquer/different_ways_to_add_parentheses.cpp.o
+
+divide_and_conquer/different_ways_to_add_parentheses.i: divide_and_conquer/different_ways_to_add_parentheses.cpp.i
+
+.PHONY : divide_and_conquer/different_ways_to_add_parentheses.i
+
+# target to preprocess a source file
+divide_and_conquer/different_ways_to_add_parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.i
+.PHONY : divide_and_conquer/different_ways_to_add_parentheses.cpp.i
+
+divide_and_conquer/different_ways_to_add_parentheses.s: divide_and_conquer/different_ways_to_add_parentheses.cpp.s
+
+.PHONY : divide_and_conquer/different_ways_to_add_parentheses.s
+
+# target to generate assembly for a file
+divide_and_conquer/different_ways_to_add_parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.s
+.PHONY : divide_and_conquer/different_ways_to_add_parentheses.cpp.s
 
 dynamic_programming/maximal_square.o: dynamic_programming/maximal_square.cpp.o
 
@@ -419,6 +527,87 @@ hash_table/contains_duplicate_3.s: hash_table/contains_duplicate_3.cpp.s
 hash_table/contains_duplicate_3.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.s
 .PHONY : hash_table/contains_duplicate_3.cpp.s
+
+hash_table/shortest_word_distance_2.o: hash_table/shortest_word_distance_2.cpp.o
+
+.PHONY : hash_table/shortest_word_distance_2.o
+
+# target to build an object file
+hash_table/shortest_word_distance_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o
+.PHONY : hash_table/shortest_word_distance_2.cpp.o
+
+hash_table/shortest_word_distance_2.i: hash_table/shortest_word_distance_2.cpp.i
+
+.PHONY : hash_table/shortest_word_distance_2.i
+
+# target to preprocess a source file
+hash_table/shortest_word_distance_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.i
+.PHONY : hash_table/shortest_word_distance_2.cpp.i
+
+hash_table/shortest_word_distance_2.s: hash_table/shortest_word_distance_2.cpp.s
+
+.PHONY : hash_table/shortest_word_distance_2.s
+
+# target to generate assembly for a file
+hash_table/shortest_word_distance_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.s
+.PHONY : hash_table/shortest_word_distance_2.cpp.s
+
+hash_table/strobogrammatic_number.o: hash_table/strobogrammatic_number.cpp.o
+
+.PHONY : hash_table/strobogrammatic_number.o
+
+# target to build an object file
+hash_table/strobogrammatic_number.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o
+.PHONY : hash_table/strobogrammatic_number.cpp.o
+
+hash_table/strobogrammatic_number.i: hash_table/strobogrammatic_number.cpp.i
+
+.PHONY : hash_table/strobogrammatic_number.i
+
+# target to preprocess a source file
+hash_table/strobogrammatic_number.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.i
+.PHONY : hash_table/strobogrammatic_number.cpp.i
+
+hash_table/strobogrammatic_number.s: hash_table/strobogrammatic_number.cpp.s
+
+.PHONY : hash_table/strobogrammatic_number.s
+
+# target to generate assembly for a file
+hash_table/strobogrammatic_number.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.s
+.PHONY : hash_table/strobogrammatic_number.cpp.s
+
+hash_table/valid_anagram.o: hash_table/valid_anagram.cpp.o
+
+.PHONY : hash_table/valid_anagram.o
+
+# target to build an object file
+hash_table/valid_anagram.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o
+.PHONY : hash_table/valid_anagram.cpp.o
+
+hash_table/valid_anagram.i: hash_table/valid_anagram.cpp.i
+
+.PHONY : hash_table/valid_anagram.i
+
+# target to preprocess a source file
+hash_table/valid_anagram.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.i
+.PHONY : hash_table/valid_anagram.cpp.i
+
+hash_table/valid_anagram.s: hash_table/valid_anagram.cpp.s
+
+.PHONY : hash_table/valid_anagram.s
+
+# target to generate assembly for a file
+hash_table/valid_anagram.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.s
+.PHONY : hash_table/valid_anagram.cpp.s
 
 linked_list/palindrome_linked_list.o: linked_list/palindrome_linked_list.cpp.o
 
@@ -581,6 +770,114 @@ math/rectangle_area.s: math/rectangle_area.cpp.s
 math/rectangle_area.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/rectangle_area.cpp.s
 .PHONY : math/rectangle_area.cpp.s
+
+recursion/strobogrammatic_number_2.o: recursion/strobogrammatic_number_2.cpp.o
+
+.PHONY : recursion/strobogrammatic_number_2.o
+
+# target to build an object file
+recursion/strobogrammatic_number_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o
+.PHONY : recursion/strobogrammatic_number_2.cpp.o
+
+recursion/strobogrammatic_number_2.i: recursion/strobogrammatic_number_2.cpp.i
+
+.PHONY : recursion/strobogrammatic_number_2.i
+
+# target to preprocess a source file
+recursion/strobogrammatic_number_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.i
+.PHONY : recursion/strobogrammatic_number_2.cpp.i
+
+recursion/strobogrammatic_number_2.s: recursion/strobogrammatic_number_2.cpp.s
+
+.PHONY : recursion/strobogrammatic_number_2.s
+
+# target to generate assembly for a file
+recursion/strobogrammatic_number_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.s
+.PHONY : recursion/strobogrammatic_number_2.cpp.s
+
+recursion/strobogrammatic_number_3.o: recursion/strobogrammatic_number_3.cpp.o
+
+.PHONY : recursion/strobogrammatic_number_3.o
+
+# target to build an object file
+recursion/strobogrammatic_number_3.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o
+.PHONY : recursion/strobogrammatic_number_3.cpp.o
+
+recursion/strobogrammatic_number_3.i: recursion/strobogrammatic_number_3.cpp.i
+
+.PHONY : recursion/strobogrammatic_number_3.i
+
+# target to preprocess a source file
+recursion/strobogrammatic_number_3.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.i
+.PHONY : recursion/strobogrammatic_number_3.cpp.i
+
+recursion/strobogrammatic_number_3.s: recursion/strobogrammatic_number_3.cpp.s
+
+.PHONY : recursion/strobogrammatic_number_3.s
+
+# target to generate assembly for a file
+recursion/strobogrammatic_number_3.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.s
+.PHONY : recursion/strobogrammatic_number_3.cpp.s
+
+sort/meeting_rooms.o: sort/meeting_rooms.cpp.o
+
+.PHONY : sort/meeting_rooms.o
+
+# target to build an object file
+sort/meeting_rooms.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o
+.PHONY : sort/meeting_rooms.cpp.o
+
+sort/meeting_rooms.i: sort/meeting_rooms.cpp.i
+
+.PHONY : sort/meeting_rooms.i
+
+# target to preprocess a source file
+sort/meeting_rooms.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.i
+.PHONY : sort/meeting_rooms.cpp.i
+
+sort/meeting_rooms.s: sort/meeting_rooms.cpp.s
+
+.PHONY : sort/meeting_rooms.s
+
+# target to generate assembly for a file
+sort/meeting_rooms.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.s
+.PHONY : sort/meeting_rooms.cpp.s
+
+sort/meeting_rooms_2.o: sort/meeting_rooms_2.cpp.o
+
+.PHONY : sort/meeting_rooms_2.o
+
+# target to build an object file
+sort/meeting_rooms_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o
+.PHONY : sort/meeting_rooms_2.cpp.o
+
+sort/meeting_rooms_2.i: sort/meeting_rooms_2.cpp.i
+
+.PHONY : sort/meeting_rooms_2.i
+
+# target to preprocess a source file
+sort/meeting_rooms_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.i
+.PHONY : sort/meeting_rooms_2.cpp.i
+
+sort/meeting_rooms_2.s: sort/meeting_rooms_2.cpp.s
+
+.PHONY : sort/meeting_rooms_2.s
+
+# target to generate assembly for a file
+sort/meeting_rooms_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.s
+.PHONY : sort/meeting_rooms_2.cpp.s
 
 stack/basic_calculator.o: stack/basic_calculator.cpp.o
 
@@ -786,6 +1083,12 @@ help:
 	@echo "... array/product_of_array_except_self.o"
 	@echo "... array/product_of_array_except_self.i"
 	@echo "... array/product_of_array_except_self.s"
+	@echo "... array/shortest_word_distance.o"
+	@echo "... array/shortest_word_distance.i"
+	@echo "... array/shortest_word_distance.s"
+	@echo "... array/shortest_word_distance_3.o"
+	@echo "... array/shortest_word_distance_3.i"
+	@echo "... array/shortest_word_distance_3.s"
 	@echo "... array/sliding_window_maximum.o"
 	@echo "... array/sliding_window_maximum.i"
 	@echo "... array/sliding_window_maximum.s"
@@ -795,12 +1098,18 @@ help:
 	@echo "... binary_search/search_a_2d_matrix_2.o"
 	@echo "... binary_search/search_a_2d_matrix_2.i"
 	@echo "... binary_search/search_a_2d_matrix_2.s"
+	@echo "... design/flatten_2d_vector.o"
+	@echo "... design/flatten_2d_vector.i"
+	@echo "... design/flatten_2d_vector.s"
 	@echo "... design/implement_queue_using_stacks.o"
 	@echo "... design/implement_queue_using_stacks.i"
 	@echo "... design/implement_queue_using_stacks.s"
 	@echo "... design/implement_stack_using_queues.o"
 	@echo "... design/implement_stack_using_queues.i"
 	@echo "... design/implement_stack_using_queues.s"
+	@echo "... divide_and_conquer/different_ways_to_add_parentheses.o"
+	@echo "... divide_and_conquer/different_ways_to_add_parentheses.i"
+	@echo "... divide_and_conquer/different_ways_to_add_parentheses.s"
 	@echo "... dynamic_programming/maximal_square.o"
 	@echo "... dynamic_programming/maximal_square.i"
 	@echo "... dynamic_programming/maximal_square.s"
@@ -813,6 +1122,15 @@ help:
 	@echo "... hash_table/contains_duplicate_3.o"
 	@echo "... hash_table/contains_duplicate_3.i"
 	@echo "... hash_table/contains_duplicate_3.s"
+	@echo "... hash_table/shortest_word_distance_2.o"
+	@echo "... hash_table/shortest_word_distance_2.i"
+	@echo "... hash_table/shortest_word_distance_2.s"
+	@echo "... hash_table/strobogrammatic_number.o"
+	@echo "... hash_table/strobogrammatic_number.i"
+	@echo "... hash_table/strobogrammatic_number.s"
+	@echo "... hash_table/valid_anagram.o"
+	@echo "... hash_table/valid_anagram.i"
+	@echo "... hash_table/valid_anagram.s"
 	@echo "... linked_list/palindrome_linked_list.o"
 	@echo "... linked_list/palindrome_linked_list.i"
 	@echo "... linked_list/palindrome_linked_list.s"
@@ -831,6 +1149,18 @@ help:
 	@echo "... math/rectangle_area.o"
 	@echo "... math/rectangle_area.i"
 	@echo "... math/rectangle_area.s"
+	@echo "... recursion/strobogrammatic_number_2.o"
+	@echo "... recursion/strobogrammatic_number_2.i"
+	@echo "... recursion/strobogrammatic_number_2.s"
+	@echo "... recursion/strobogrammatic_number_3.o"
+	@echo "... recursion/strobogrammatic_number_3.i"
+	@echo "... recursion/strobogrammatic_number_3.s"
+	@echo "... sort/meeting_rooms.o"
+	@echo "... sort/meeting_rooms.i"
+	@echo "... sort/meeting_rooms.s"
+	@echo "... sort/meeting_rooms_2.o"
+	@echo "... sort/meeting_rooms_2.i"
+	@echo "... sort/meeting_rooms_2.s"
 	@echo "... stack/basic_calculator.o"
 	@echo "... stack/basic_calculator.i"
 	@echo "... stack/basic_calculator.s"

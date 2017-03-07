@@ -633,6 +633,270 @@ CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o.provides: CMakeFiles
 CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o.provides.build: CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o
 
 
+CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o: ../divide_and_conquer/different_ways_to_add_parentheses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/different_ways_to_add_parentheses.cpp
+
+CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/different_ways_to_add_parentheses.cpp > CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.i
+
+CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/different_ways_to_add_parentheses.cpp -o CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.s
+
+CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.requires
+
+CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.provides: CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.provides
+
+CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.provides.build: CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o: ../hash_table/valid_anagram.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/valid_anagram.cpp
+
+CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/valid_anagram.cpp > CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/valid_anagram.cpp -o CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o
+
+
+CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o: ../array/shortest_word_distance.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/shortest_word_distance.cpp
+
+CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/shortest_word_distance.cpp > CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.i
+
+CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/shortest_word_distance.cpp -o CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.s
+
+CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.provides: CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.provides.build: CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o: ../hash_table/shortest_word_distance_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/shortest_word_distance_2.cpp
+
+CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/shortest_word_distance_2.cpp > CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/shortest_word_distance_2.cpp -o CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o
+
+
+CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o: ../array/shortest_word_distance_3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/shortest_word_distance_3.cpp
+
+CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/shortest_word_distance_3.cpp > CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.i
+
+CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/shortest_word_distance_3.cpp -o CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.s
+
+CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.provides: CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.provides.build: CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o: ../hash_table/strobogrammatic_number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/strobogrammatic_number.cpp
+
+CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/strobogrammatic_number.cpp > CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/strobogrammatic_number.cpp -o CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o
+
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o: ../recursion/strobogrammatic_number_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/recursion/strobogrammatic_number_2.cpp
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/recursion/strobogrammatic_number_2.cpp > CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.i
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/recursion/strobogrammatic_number_2.cpp -o CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.s
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.provides: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.provides.build: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o
+
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o: ../recursion/strobogrammatic_number_3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/recursion/strobogrammatic_number_3.cpp
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/recursion/strobogrammatic_number_3.cpp > CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.i
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/recursion/strobogrammatic_number_3.cpp -o CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.s
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.requires
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.provides: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.provides
+
+CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.provides.build: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o
+
+
+CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o: ../design/flatten_2d_vector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/flatten_2d_vector.cpp
+
+CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/flatten_2d_vector.cpp > CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.i
+
+CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/flatten_2d_vector.cpp -o CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.s
+
+CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.provides: CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.provides.build: CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o
+
+
+CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o: ../sort/meeting_rooms.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/sort/meeting_rooms.cpp
+
+CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/sort/meeting_rooms.cpp > CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.i
+
+CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/sort/meeting_rooms.cpp -o CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.s
+
+CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.requires
+
+CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.provides: CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.provides
+
+CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.provides.build: CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o
+
+
+CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o: ../sort/meeting_rooms_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building CXX object CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/sort/meeting_rooms_2.cpp
+
+CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/sort/meeting_rooms_2.cpp > CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.i
+
+CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/sort/meeting_rooms_2.cpp -o CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.s
+
+CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.provides: CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.provides.build: CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -658,7 +922,18 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/tree/lowest_common_ancestor_of_a_binary_tree.cpp.o" \
 "CMakeFiles/cpc.dir/array/product_of_array_except_self.cpp.o" \
 "CMakeFiles/cpc.dir/array/sliding_window_maximum.cpp.o" \
-"CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o"
+"CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o" \
+"CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o" \
+"CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o" \
+"CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o" \
+"CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o" \
+"CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o" \
+"CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o" \
+"CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o" \
+"CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -687,9 +962,20 @@ cpc: CMakeFiles/cpc.dir/tree/lowest_common_ancestor_of_a_binary_tree.cpp.o
 cpc: CMakeFiles/cpc.dir/array/product_of_array_except_self.cpp.o
 cpc: CMakeFiles/cpc.dir/array/sliding_window_maximum.cpp.o
 cpc: CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o
+cpc: CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o
+cpc: CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o
+cpc: CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o
+cpc: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o
+cpc: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o
+cpc: CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o
+cpc: CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o
+cpc: CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -721,6 +1007,17 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/lowest_common_ancestor_of_a
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/product_of_array_except_self.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/sliding_window_maximum.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/shortest_word_distance.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/shortest_word_distance_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/shortest_word_distance_3.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/sort/meeting_rooms.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 
