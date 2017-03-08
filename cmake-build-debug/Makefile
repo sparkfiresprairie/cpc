@@ -123,6 +123,33 @@ cpc/fast:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/build
 .PHONY : cpc/fast
 
+array/3sum_smaller.o: array/3sum_smaller.cpp.o
+
+.PHONY : array/3sum_smaller.o
+
+# target to build an object file
+array/3sum_smaller.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum_smaller.cpp.o
+.PHONY : array/3sum_smaller.cpp.o
+
+array/3sum_smaller.i: array/3sum_smaller.cpp.i
+
+.PHONY : array/3sum_smaller.i
+
+# target to preprocess a source file
+array/3sum_smaller.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum_smaller.cpp.i
+.PHONY : array/3sum_smaller.cpp.i
+
+array/3sum_smaller.s: array/3sum_smaller.cpp.s
+
+.PHONY : array/3sum_smaller.s
+
+# target to generate assembly for a file
+array/3sum_smaller.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum_smaller.cpp.s
+.PHONY : array/3sum_smaller.cpp.s
+
 array/majority_element_2.o: array/majority_element_2.cpp.o
 
 .PHONY : array/majority_element_2.o
@@ -285,6 +312,60 @@ array/summary_ranges.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/summary_ranges.cpp.s
 .PHONY : array/summary_ranges.cpp.s
 
+backtracking/factor_combinations.o: backtracking/factor_combinations.cpp.o
+
+.PHONY : backtracking/factor_combinations.o
+
+# target to build an object file
+backtracking/factor_combinations.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/factor_combinations.cpp.o
+.PHONY : backtracking/factor_combinations.cpp.o
+
+backtracking/factor_combinations.i: backtracking/factor_combinations.cpp.i
+
+.PHONY : backtracking/factor_combinations.i
+
+# target to preprocess a source file
+backtracking/factor_combinations.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/factor_combinations.cpp.i
+.PHONY : backtracking/factor_combinations.cpp.i
+
+backtracking/factor_combinations.s: backtracking/factor_combinations.cpp.s
+
+.PHONY : backtracking/factor_combinations.s
+
+# target to generate assembly for a file
+backtracking/factor_combinations.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/factor_combinations.cpp.s
+.PHONY : backtracking/factor_combinations.cpp.s
+
+backtracking/palindrome_permutation_2.o: backtracking/palindrome_permutation_2.cpp.o
+
+.PHONY : backtracking/palindrome_permutation_2.o
+
+# target to build an object file
+backtracking/palindrome_permutation_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/palindrome_permutation_2.cpp.o
+.PHONY : backtracking/palindrome_permutation_2.cpp.o
+
+backtracking/palindrome_permutation_2.i: backtracking/palindrome_permutation_2.cpp.i
+
+.PHONY : backtracking/palindrome_permutation_2.i
+
+# target to preprocess a source file
+backtracking/palindrome_permutation_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/palindrome_permutation_2.cpp.i
+.PHONY : backtracking/palindrome_permutation_2.cpp.i
+
+backtracking/palindrome_permutation_2.s: backtracking/palindrome_permutation_2.cpp.s
+
+.PHONY : backtracking/palindrome_permutation_2.s
+
+# target to generate assembly for a file
+backtracking/palindrome_permutation_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/palindrome_permutation_2.cpp.s
+.PHONY : backtracking/palindrome_permutation_2.cpp.s
+
 binary_search/search_a_2d_matrix_2.o: binary_search/search_a_2d_matrix_2.cpp.o
 
 .PHONY : binary_search/search_a_2d_matrix_2.o
@@ -311,6 +392,33 @@ binary_search/search_a_2d_matrix_2.s: binary_search/search_a_2d_matrix_2.cpp.s
 binary_search/search_a_2d_matrix_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.s
 .PHONY : binary_search/search_a_2d_matrix_2.cpp.s
+
+bit_manipulation/single_number_3.o: bit_manipulation/single_number_3.cpp.o
+
+.PHONY : bit_manipulation/single_number_3.o
+
+# target to build an object file
+bit_manipulation/single_number_3.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/single_number_3.cpp.o
+.PHONY : bit_manipulation/single_number_3.cpp.o
+
+bit_manipulation/single_number_3.i: bit_manipulation/single_number_3.cpp.i
+
+.PHONY : bit_manipulation/single_number_3.i
+
+# target to preprocess a source file
+bit_manipulation/single_number_3.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/single_number_3.cpp.i
+.PHONY : bit_manipulation/single_number_3.cpp.i
+
+bit_manipulation/single_number_3.s: bit_manipulation/single_number_3.cpp.s
+
+.PHONY : bit_manipulation/single_number_3.s
+
+# target to generate assembly for a file
+bit_manipulation/single_number_3.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/single_number_3.cpp.s
+.PHONY : bit_manipulation/single_number_3.cpp.s
 
 design/flatten_2d_vector.o: design/flatten_2d_vector.cpp.o
 
@@ -447,6 +555,60 @@ dynamic_programming/maximal_square.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.s
 .PHONY : dynamic_programming/maximal_square.cpp.s
 
+dynamic_programming/paint_house.o: dynamic_programming/paint_house.cpp.o
+
+.PHONY : dynamic_programming/paint_house.o
+
+# target to build an object file
+dynamic_programming/paint_house.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/paint_house.cpp.o
+.PHONY : dynamic_programming/paint_house.cpp.o
+
+dynamic_programming/paint_house.i: dynamic_programming/paint_house.cpp.i
+
+.PHONY : dynamic_programming/paint_house.i
+
+# target to preprocess a source file
+dynamic_programming/paint_house.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/paint_house.cpp.i
+.PHONY : dynamic_programming/paint_house.cpp.i
+
+dynamic_programming/paint_house.s: dynamic_programming/paint_house.cpp.s
+
+.PHONY : dynamic_programming/paint_house.s
+
+# target to generate assembly for a file
+dynamic_programming/paint_house.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/paint_house.cpp.s
+.PHONY : dynamic_programming/paint_house.cpp.s
+
+dynamic_programming/paint_house_2.o: dynamic_programming/paint_house_2.cpp.o
+
+.PHONY : dynamic_programming/paint_house_2.o
+
+# target to build an object file
+dynamic_programming/paint_house_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/paint_house_2.cpp.o
+.PHONY : dynamic_programming/paint_house_2.cpp.o
+
+dynamic_programming/paint_house_2.i: dynamic_programming/paint_house_2.cpp.i
+
+.PHONY : dynamic_programming/paint_house_2.i
+
+# target to preprocess a source file
+dynamic_programming/paint_house_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/paint_house_2.cpp.i
+.PHONY : dynamic_programming/paint_house_2.cpp.i
+
+dynamic_programming/paint_house_2.s: dynamic_programming/paint_house_2.cpp.s
+
+.PHONY : dynamic_programming/paint_house_2.s
+
+# target to generate assembly for a file
+dynamic_programming/paint_house_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/paint_house_2.cpp.s
+.PHONY : dynamic_programming/paint_house_2.cpp.s
+
 hash_table/contains_duplicate.o: hash_table/contains_duplicate.cpp.o
 
 .PHONY : hash_table/contains_duplicate.o
@@ -527,6 +689,33 @@ hash_table/contains_duplicate_3.s: hash_table/contains_duplicate_3.cpp.s
 hash_table/contains_duplicate_3.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.s
 .PHONY : hash_table/contains_duplicate_3.cpp.s
+
+hash_table/palindrome_permutation.o: hash_table/palindrome_permutation.cpp.o
+
+.PHONY : hash_table/palindrome_permutation.o
+
+# target to build an object file
+hash_table/palindrome_permutation.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/palindrome_permutation.cpp.o
+.PHONY : hash_table/palindrome_permutation.cpp.o
+
+hash_table/palindrome_permutation.i: hash_table/palindrome_permutation.cpp.i
+
+.PHONY : hash_table/palindrome_permutation.i
+
+# target to preprocess a source file
+hash_table/palindrome_permutation.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/palindrome_permutation.cpp.i
+.PHONY : hash_table/palindrome_permutation.cpp.i
+
+hash_table/palindrome_permutation.s: hash_table/palindrome_permutation.cpp.s
+
+.PHONY : hash_table/palindrome_permutation.s
+
+# target to generate assembly for a file
+hash_table/palindrome_permutation.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/palindrome_permutation.cpp.s
+.PHONY : hash_table/palindrome_permutation.cpp.s
 
 hash_table/shortest_word_distance_2.o: hash_table/shortest_word_distance_2.cpp.o
 
@@ -663,6 +852,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+math/add_digits.o: math/add_digits.cpp.o
+
+.PHONY : math/add_digits.o
+
+# target to build an object file
+math/add_digits.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/add_digits.cpp.o
+.PHONY : math/add_digits.cpp.o
+
+math/add_digits.i: math/add_digits.cpp.i
+
+.PHONY : math/add_digits.i
+
+# target to preprocess a source file
+math/add_digits.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/add_digits.cpp.i
+.PHONY : math/add_digits.cpp.i
+
+math/add_digits.s: math/add_digits.cpp.s
+
+.PHONY : math/add_digits.s
+
+# target to generate assembly for a file
+math/add_digits.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/add_digits.cpp.s
+.PHONY : math/add_digits.cpp.s
+
 math/power_of_four.o: math/power_of_four.cpp.o
 
 .PHONY : math/power_of_four.o
@@ -770,6 +986,60 @@ math/rectangle_area.s: math/rectangle_area.cpp.s
 math/rectangle_area.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/rectangle_area.cpp.s
 .PHONY : math/rectangle_area.cpp.s
+
+math/ugly_number.o: math/ugly_number.cpp.o
+
+.PHONY : math/ugly_number.o
+
+# target to build an object file
+math/ugly_number.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/ugly_number.cpp.o
+.PHONY : math/ugly_number.cpp.o
+
+math/ugly_number.i: math/ugly_number.cpp.i
+
+.PHONY : math/ugly_number.i
+
+# target to preprocess a source file
+math/ugly_number.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/ugly_number.cpp.i
+.PHONY : math/ugly_number.cpp.i
+
+math/ugly_number.s: math/ugly_number.cpp.s
+
+.PHONY : math/ugly_number.s
+
+# target to generate assembly for a file
+math/ugly_number.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/ugly_number.cpp.s
+.PHONY : math/ugly_number.cpp.s
+
+math/ugly_number_2.o: math/ugly_number_2.cpp.o
+
+.PHONY : math/ugly_number_2.o
+
+# target to build an object file
+math/ugly_number_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/ugly_number_2.cpp.o
+.PHONY : math/ugly_number_2.cpp.o
+
+math/ugly_number_2.i: math/ugly_number_2.cpp.i
+
+.PHONY : math/ugly_number_2.i
+
+# target to preprocess a source file
+math/ugly_number_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/ugly_number_2.cpp.i
+.PHONY : math/ugly_number_2.cpp.i
+
+math/ugly_number_2.s: math/ugly_number_2.cpp.s
+
+.PHONY : math/ugly_number_2.s
+
+# target to generate assembly for a file
+math/ugly_number_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/ugly_number_2.cpp.s
+.PHONY : math/ugly_number_2.cpp.s
 
 recursion/strobogrammatic_number_2.o: recursion/strobogrammatic_number_2.cpp.o
 
@@ -933,6 +1203,33 @@ stack/basic_calculator_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator_2.cpp.s
 .PHONY : stack/basic_calculator_2.cpp.s
 
+tree/binary_tree_path.o: tree/binary_tree_path.cpp.o
+
+.PHONY : tree/binary_tree_path.o
+
+# target to build an object file
+tree/binary_tree_path.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_path.cpp.o
+.PHONY : tree/binary_tree_path.cpp.o
+
+tree/binary_tree_path.i: tree/binary_tree_path.cpp.i
+
+.PHONY : tree/binary_tree_path.i
+
+# target to preprocess a source file
+tree/binary_tree_path.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_path.cpp.i
+.PHONY : tree/binary_tree_path.cpp.i
+
+tree/binary_tree_path.s: tree/binary_tree_path.cpp.s
+
+.PHONY : tree/binary_tree_path.s
+
+# target to generate assembly for a file
+tree/binary_tree_path.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_path.cpp.s
+.PHONY : tree/binary_tree_path.cpp.s
+
 tree/count_complete_tree_nodes.o: tree/count_complete_tree_nodes.cpp.o
 
 .PHONY : tree/count_complete_tree_nodes.o
@@ -1068,6 +1365,60 @@ tree/lowest_common_ancestor_of_a_binary_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/lowest_common_ancestor_of_a_binary_tree.cpp.s
 .PHONY : tree/lowest_common_ancestor_of_a_binary_tree.cpp.s
 
+tree/verify_preorder_sequence_in_binary_search_tree.o: tree/verify_preorder_sequence_in_binary_search_tree.cpp.o
+
+.PHONY : tree/verify_preorder_sequence_in_binary_search_tree.o
+
+# target to build an object file
+tree/verify_preorder_sequence_in_binary_search_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_sequence_in_binary_search_tree.cpp.o
+.PHONY : tree/verify_preorder_sequence_in_binary_search_tree.cpp.o
+
+tree/verify_preorder_sequence_in_binary_search_tree.i: tree/verify_preorder_sequence_in_binary_search_tree.cpp.i
+
+.PHONY : tree/verify_preorder_sequence_in_binary_search_tree.i
+
+# target to preprocess a source file
+tree/verify_preorder_sequence_in_binary_search_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_sequence_in_binary_search_tree.cpp.i
+.PHONY : tree/verify_preorder_sequence_in_binary_search_tree.cpp.i
+
+tree/verify_preorder_sequence_in_binary_search_tree.s: tree/verify_preorder_sequence_in_binary_search_tree.cpp.s
+
+.PHONY : tree/verify_preorder_sequence_in_binary_search_tree.s
+
+# target to generate assembly for a file
+tree/verify_preorder_sequence_in_binary_search_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_sequence_in_binary_search_tree.cpp.s
+.PHONY : tree/verify_preorder_sequence_in_binary_search_tree.cpp.s
+
+union_find/graph_valid_tree.o: union_find/graph_valid_tree.cpp.o
+
+.PHONY : union_find/graph_valid_tree.o
+
+# target to build an object file
+union_find/graph_valid_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/graph_valid_tree.cpp.o
+.PHONY : union_find/graph_valid_tree.cpp.o
+
+union_find/graph_valid_tree.i: union_find/graph_valid_tree.cpp.i
+
+.PHONY : union_find/graph_valid_tree.i
+
+# target to preprocess a source file
+union_find/graph_valid_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/graph_valid_tree.cpp.i
+.PHONY : union_find/graph_valid_tree.cpp.i
+
+union_find/graph_valid_tree.s: union_find/graph_valid_tree.cpp.s
+
+.PHONY : union_find/graph_valid_tree.s
+
+# target to generate assembly for a file
+union_find/graph_valid_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/graph_valid_tree.cpp.s
+.PHONY : union_find/graph_valid_tree.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1077,6 +1428,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cpc"
+	@echo "... array/3sum_smaller.o"
+	@echo "... array/3sum_smaller.i"
+	@echo "... array/3sum_smaller.s"
 	@echo "... array/majority_element_2.o"
 	@echo "... array/majority_element_2.i"
 	@echo "... array/majority_element_2.s"
@@ -1095,9 +1449,18 @@ help:
 	@echo "... array/summary_ranges.o"
 	@echo "... array/summary_ranges.i"
 	@echo "... array/summary_ranges.s"
+	@echo "... backtracking/factor_combinations.o"
+	@echo "... backtracking/factor_combinations.i"
+	@echo "... backtracking/factor_combinations.s"
+	@echo "... backtracking/palindrome_permutation_2.o"
+	@echo "... backtracking/palindrome_permutation_2.i"
+	@echo "... backtracking/palindrome_permutation_2.s"
 	@echo "... binary_search/search_a_2d_matrix_2.o"
 	@echo "... binary_search/search_a_2d_matrix_2.i"
 	@echo "... binary_search/search_a_2d_matrix_2.s"
+	@echo "... bit_manipulation/single_number_3.o"
+	@echo "... bit_manipulation/single_number_3.i"
+	@echo "... bit_manipulation/single_number_3.s"
 	@echo "... design/flatten_2d_vector.o"
 	@echo "... design/flatten_2d_vector.i"
 	@echo "... design/flatten_2d_vector.s"
@@ -1113,6 +1476,12 @@ help:
 	@echo "... dynamic_programming/maximal_square.o"
 	@echo "... dynamic_programming/maximal_square.i"
 	@echo "... dynamic_programming/maximal_square.s"
+	@echo "... dynamic_programming/paint_house.o"
+	@echo "... dynamic_programming/paint_house.i"
+	@echo "... dynamic_programming/paint_house.s"
+	@echo "... dynamic_programming/paint_house_2.o"
+	@echo "... dynamic_programming/paint_house_2.i"
+	@echo "... dynamic_programming/paint_house_2.s"
 	@echo "... hash_table/contains_duplicate.o"
 	@echo "... hash_table/contains_duplicate.i"
 	@echo "... hash_table/contains_duplicate.s"
@@ -1122,6 +1491,9 @@ help:
 	@echo "... hash_table/contains_duplicate_3.o"
 	@echo "... hash_table/contains_duplicate_3.i"
 	@echo "... hash_table/contains_duplicate_3.s"
+	@echo "... hash_table/palindrome_permutation.o"
+	@echo "... hash_table/palindrome_permutation.i"
+	@echo "... hash_table/palindrome_permutation.s"
 	@echo "... hash_table/shortest_word_distance_2.o"
 	@echo "... hash_table/shortest_word_distance_2.i"
 	@echo "... hash_table/shortest_word_distance_2.s"
@@ -1137,6 +1509,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... math/add_digits.o"
+	@echo "... math/add_digits.i"
+	@echo "... math/add_digits.s"
 	@echo "... math/power_of_four.o"
 	@echo "... math/power_of_four.i"
 	@echo "... math/power_of_four.s"
@@ -1149,6 +1524,12 @@ help:
 	@echo "... math/rectangle_area.o"
 	@echo "... math/rectangle_area.i"
 	@echo "... math/rectangle_area.s"
+	@echo "... math/ugly_number.o"
+	@echo "... math/ugly_number.i"
+	@echo "... math/ugly_number.s"
+	@echo "... math/ugly_number_2.o"
+	@echo "... math/ugly_number_2.i"
+	@echo "... math/ugly_number_2.s"
 	@echo "... recursion/strobogrammatic_number_2.o"
 	@echo "... recursion/strobogrammatic_number_2.i"
 	@echo "... recursion/strobogrammatic_number_2.s"
@@ -1167,6 +1548,9 @@ help:
 	@echo "... stack/basic_calculator_2.o"
 	@echo "... stack/basic_calculator_2.i"
 	@echo "... stack/basic_calculator_2.s"
+	@echo "... tree/binary_tree_path.o"
+	@echo "... tree/binary_tree_path.i"
+	@echo "... tree/binary_tree_path.s"
 	@echo "... tree/count_complete_tree_nodes.o"
 	@echo "... tree/count_complete_tree_nodes.i"
 	@echo "... tree/count_complete_tree_nodes.s"
@@ -1182,6 +1566,12 @@ help:
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.o"
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.i"
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.s"
+	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.o"
+	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.i"
+	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.s"
+	@echo "... union_find/graph_valid_tree.o"
+	@echo "... union_find/graph_valid_tree.i"
+	@echo "... union_find/graph_valid_tree.s"
 .PHONY : help
 
 

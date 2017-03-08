@@ -107,4 +107,6 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
+bool searchMatrix(vector<vector<int>>& matrix, int target);
+
 #endif //CPC_BINARYSEARCH_H

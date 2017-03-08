@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 2/26/17.
+// Created by Xingyuan Wang on 3/7/17.
 //
 
-#ifndef CPC_DYNAMICPROGRAMMING_H
-#define CPC_DYNAMICPROGRAMMING_H
+#ifndef CPC_BACKTRACKING_H
+#define CPC_BACKTRACKING_H
 
 #include <iostream>
 #include <vector>
@@ -107,7 +107,7 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int maximalSquare(vector<vector<char>>& matrix);
-int minCost(vector<vector<int>>& costs);
+vector<string> generatePalindromes(string s);
+vector<vector<int>> getFactors(int n);
 
-#endif //CPC_DYNAMICPROGRAMMING_H
+#endif //CPC_BACKTRACKING_H

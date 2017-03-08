@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 2/26/17.
+// Created by Xingyuan Wang on 3/7/17.
 //
 
-#ifndef CPC_DYNAMICPROGRAMMING_H
-#define CPC_DYNAMICPROGRAMMING_H
+#ifndef CPC_BITMANIPULATION_H
+#define CPC_BITMANIPULATION_H
 
 #include <iostream>
 #include <vector>
@@ -20,6 +20,7 @@
 #include <deque>
 #include <fstream>
 #include <chrono>
+#include <numeric>
 
 
 using std::max;
@@ -40,6 +41,8 @@ using std::deque;
 using std::multiset;
 using std::stack;
 using std::ifstream;
+using std::accumulate;
+using std::bit_xor;
 
 // Definitions
 struct ListNode {
@@ -107,7 +110,6 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int maximalSquare(vector<vector<char>>& matrix);
-int minCost(vector<vector<int>>& costs);
+vector<int> singleNumber(vector<int>& nums);
 
-#endif //CPC_DYNAMICPROGRAMMING_H
+#endif //CPC_BITMANIPULATION_H

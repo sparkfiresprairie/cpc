@@ -109,6 +109,10 @@ public:
 
 int countNodes(TreeNode* root);
 TreeNode* invertTree(TreeNode* root);
+TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q);
 TreeNode* lowestCommonAncestorBST(TreeNode* root, TreeNode* p, TreeNode* q);
+bool verifyPreorder(vector<int>& preorder);
+int kthSmallest(TreeNode* root, int k);
+vector<string> binaryTreePaths(TreeNode* root);
 
 #endif //CPC_TREE_H

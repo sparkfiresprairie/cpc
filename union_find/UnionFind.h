@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 2/26/17.
+// Created by Xingyuan Wang on 3/7/17.
 //
 
-#ifndef CPC_DYNAMICPROGRAMMING_H
-#define CPC_DYNAMICPROGRAMMING_H
+#ifndef CPC_UNIONFIND_H
+#define CPC_UNIONFIND_H
 
 #include <iostream>
 #include <vector>
@@ -107,7 +107,6 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int maximalSquare(vector<vector<char>>& matrix);
-int minCost(vector<vector<int>>& costs);
+bool validTree(int n, vector<pair<int, int>>& edges)
 
-#endif //CPC_DYNAMICPROGRAMMING_H
+#endif //CPC_UNIONFIND_H
