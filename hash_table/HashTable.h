@@ -107,11 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-bool containsDuplicate(vector<int>& nums);
-bool containsNearbyDuplicate(vector<int>& nums, int k);
-bool containsNearbyAlmostDuplicate(vector<int>& nums, int k, int t);
-bool isAnagram(string s, string t);
-class WordDistance;
-bool isStrobogrammatic(string num);
-
 #endif //CPC_HASHTABLE_H

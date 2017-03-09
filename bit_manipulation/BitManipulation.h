@@ -110,6 +110,5 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-vector<int> singleNumber(vector<int>& nums);
 
 #endif //CPC_BITMANIPULATION_H

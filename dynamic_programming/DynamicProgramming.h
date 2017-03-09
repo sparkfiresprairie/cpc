@@ -107,7 +107,5 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int maximalSquare(vector<vector<char>>& matrix);
-int minCost(vector<vector<int>>& costs);
 
 #endif //CPC_DYNAMICPROGRAMMING_H

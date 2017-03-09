@@ -107,6 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-bool canAttendMeetings(vector<Interval>& intervals)
-
 #endif //CPC_SORT_H

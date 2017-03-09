@@ -107,7 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-vector<string> generatePalindromes(string s);
-vector<vector<int>> getFactors(int n);
-
 #endif //CPC_BACKTRACKING_H

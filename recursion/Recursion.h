@@ -107,7 +107,5 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-vector<string> findStrobogrammatic2(int n)
-vector<string> findStrobogrammatic3(int n);
 
 #endif //CPC_RECURSION_H

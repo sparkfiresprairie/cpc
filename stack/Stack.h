@@ -107,7 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int calculate(string s);
-int calculate2(string s);
-
 #endif //CPC_STACK_H

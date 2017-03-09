@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 3/7/17.
+// Created by Xingyuan Wang on 3/8/17.
 //
 
-#ifndef CPC_UNIONFIND_H
-#define CPC_UNIONFIND_H
+#ifndef CPC_TOPOLOGICALSORT_H
+#define CPC_TOPOLOGICALSORT_H
 
 #include <iostream>
 #include <vector>
@@ -107,4 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-#endif //CPC_UNIONFIND_H
+#endif //CPC_TOPOLOGICALSORT_H

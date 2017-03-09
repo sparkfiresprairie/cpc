@@ -107,11 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-int computeArea(int A, int B, int C, int D, int E, int F, int G, int H);
-bool isPowerOfTwo(int n);
-bool isPowerOfThree(int n);
-bool isPowerOfFour(int n);
-int addDigits(int num);
-bool isUgly(int num);
-
 #endif //CPC_MATH_H

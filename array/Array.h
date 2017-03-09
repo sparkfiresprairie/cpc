@@ -107,10 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-vector<string> summaryRanges(vector<int>& nums);
-vector<int> majorityElement(vector<int>& nums);
-vector<int> maxSlidingWindow(vector<int>& nums, int k);
-vector<int> productExceptSelf(vector<int>& nums);
-int shortestWordDistance3(vector<string>& words, string word1, string word2);
-
 #endif //CPC_ARRAY_H

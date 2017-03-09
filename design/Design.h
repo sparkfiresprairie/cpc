@@ -107,8 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-class MyStack;
-class Vector2D;
-class MyQueue;
-
 #endif //CPC_DESIGN_H
