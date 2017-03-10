@@ -177,6 +177,60 @@ array/find_the_celebrity.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/find_the_celebrity.cpp.s
 .PHONY : array/find_the_celebrity.cpp.s
 
+array/find_the_duplicate_number.o: array/find_the_duplicate_number.cpp.o
+
+.PHONY : array/find_the_duplicate_number.o
+
+# target to build an object file
+array/find_the_duplicate_number.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.o
+.PHONY : array/find_the_duplicate_number.cpp.o
+
+array/find_the_duplicate_number.i: array/find_the_duplicate_number.cpp.i
+
+.PHONY : array/find_the_duplicate_number.i
+
+# target to preprocess a source file
+array/find_the_duplicate_number.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.i
+.PHONY : array/find_the_duplicate_number.cpp.i
+
+array/find_the_duplicate_number.s: array/find_the_duplicate_number.cpp.s
+
+.PHONY : array/find_the_duplicate_number.s
+
+# target to generate assembly for a file
+array/find_the_duplicate_number.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.s
+.PHONY : array/find_the_duplicate_number.cpp.s
+
+array/game_of_life.o: array/game_of_life.cpp.o
+
+.PHONY : array/game_of_life.o
+
+# target to build an object file
+array/game_of_life.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/game_of_life.cpp.o
+.PHONY : array/game_of_life.cpp.o
+
+array/game_of_life.i: array/game_of_life.cpp.i
+
+.PHONY : array/game_of_life.i
+
+# target to preprocess a source file
+array/game_of_life.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/game_of_life.cpp.i
+.PHONY : array/game_of_life.cpp.i
+
+array/game_of_life.s: array/game_of_life.cpp.s
+
+.PHONY : array/game_of_life.s
+
+# target to generate assembly for a file
+array/game_of_life.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/game_of_life.cpp.s
+.PHONY : array/game_of_life.cpp.s
+
 array/majority_element_2.o: array/majority_element_2.cpp.o
 
 .PHONY : array/majority_element_2.o
@@ -230,6 +284,33 @@ array/missing_number.s: array/missing_number.cpp.s
 array/missing_number.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/missing_number.cpp.s
 .PHONY : array/missing_number.cpp.s
+
+array/move_zeroes.o: array/move_zeroes.cpp.o
+
+.PHONY : array/move_zeroes.o
+
+# target to build an object file
+array/move_zeroes.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/move_zeroes.cpp.o
+.PHONY : array/move_zeroes.cpp.o
+
+array/move_zeroes.i: array/move_zeroes.cpp.i
+
+.PHONY : array/move_zeroes.i
+
+# target to preprocess a source file
+array/move_zeroes.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/move_zeroes.cpp.i
+.PHONY : array/move_zeroes.cpp.i
+
+array/move_zeroes.s: array/move_zeroes.cpp.s
+
+.PHONY : array/move_zeroes.s
+
+# target to generate assembly for a file
+array/move_zeroes.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/move_zeroes.cpp.s
+.PHONY : array/move_zeroes.cpp.s
 
 array/product_of_array_except_self.o: array/product_of_array_except_self.cpp.o
 
@@ -447,6 +528,33 @@ backtracking/palindrome_permutation_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/palindrome_permutation_2.cpp.s
 .PHONY : backtracking/palindrome_permutation_2.cpp.s
 
+bfs/walls_and_gates.o: bfs/walls_and_gates.cpp.o
+
+.PHONY : bfs/walls_and_gates.o
+
+# target to build an object file
+bfs/walls_and_gates.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o
+.PHONY : bfs/walls_and_gates.cpp.o
+
+bfs/walls_and_gates.i: bfs/walls_and_gates.cpp.i
+
+.PHONY : bfs/walls_and_gates.i
+
+# target to preprocess a source file
+bfs/walls_and_gates.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.i
+.PHONY : bfs/walls_and_gates.cpp.i
+
+bfs/walls_and_gates.s: bfs/walls_and_gates.cpp.s
+
+.PHONY : bfs/walls_and_gates.s
+
+# target to generate assembly for a file
+bfs/walls_and_gates.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.s
+.PHONY : bfs/walls_and_gates.cpp.s
+
 binary_search/first_bad_version.o: binary_search/first_bad_version.cpp.o
 
 .PHONY : binary_search/first_bad_version.o
@@ -636,6 +744,33 @@ design/implement_stack_using_queues.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s
 .PHONY : design/implement_stack_using_queues.cpp.s
 
+design/peeking_iterator.o: design/peeking_iterator.cpp.o
+
+.PHONY : design/peeking_iterator.o
+
+# target to build an object file
+design/peeking_iterator.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/peeking_iterator.cpp.o
+.PHONY : design/peeking_iterator.cpp.o
+
+design/peeking_iterator.i: design/peeking_iterator.cpp.i
+
+.PHONY : design/peeking_iterator.i
+
+# target to preprocess a source file
+design/peeking_iterator.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/peeking_iterator.cpp.i
+.PHONY : design/peeking_iterator.cpp.i
+
+design/peeking_iterator.s: design/peeking_iterator.cpp.s
+
+.PHONY : design/peeking_iterator.s
+
+# target to generate assembly for a file
+design/peeking_iterator.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/peeking_iterator.cpp.s
+.PHONY : design/peeking_iterator.cpp.s
+
 design/zigzag_iterator.o: design/zigzag_iterator.cpp.o
 
 .PHONY : design/zigzag_iterator.o
@@ -689,6 +824,33 @@ divide_and_conquer/different_ways_to_add_parentheses.s: divide_and_conquer/diffe
 divide_and_conquer/different_ways_to_add_parentheses.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/different_ways_to_add_parentheses.cpp.s
 .PHONY : divide_and_conquer/different_ways_to_add_parentheses.cpp.s
+
+divide_and_conquer/expression_add_operators.o: divide_and_conquer/expression_add_operators.cpp.o
+
+.PHONY : divide_and_conquer/expression_add_operators.o
+
+# target to build an object file
+divide_and_conquer/expression_add_operators.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.o
+.PHONY : divide_and_conquer/expression_add_operators.cpp.o
+
+divide_and_conquer/expression_add_operators.i: divide_and_conquer/expression_add_operators.cpp.i
+
+.PHONY : divide_and_conquer/expression_add_operators.i
+
+# target to preprocess a source file
+divide_and_conquer/expression_add_operators.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.i
+.PHONY : divide_and_conquer/expression_add_operators.cpp.i
+
+divide_and_conquer/expression_add_operators.s: divide_and_conquer/expression_add_operators.cpp.s
+
+.PHONY : divide_and_conquer/expression_add_operators.s
+
+# target to generate assembly for a file
+divide_and_conquer/expression_add_operators.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.s
+.PHONY : divide_and_conquer/expression_add_operators.cpp.s
 
 dynamic_programming/maximal_square.o: dynamic_programming/maximal_square.cpp.o
 
@@ -824,6 +986,33 @@ dynamic_programming/perfect_squares.s: dynamic_programming/perfect_squares.cpp.s
 dynamic_programming/perfect_squares.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/perfect_squares.cpp.s
 .PHONY : dynamic_programming/perfect_squares.cpp.s
+
+hash_table/bulls_and_cows.o: hash_table/bulls_and_cows.cpp.o
+
+.PHONY : hash_table/bulls_and_cows.o
+
+# target to build an object file
+hash_table/bulls_and_cows.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.o
+.PHONY : hash_table/bulls_and_cows.cpp.o
+
+hash_table/bulls_and_cows.i: hash_table/bulls_and_cows.cpp.i
+
+.PHONY : hash_table/bulls_and_cows.i
+
+# target to preprocess a source file
+hash_table/bulls_and_cows.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.i
+.PHONY : hash_table/bulls_and_cows.cpp.i
+
+hash_table/bulls_and_cows.s: hash_table/bulls_and_cows.cpp.s
+
+.PHONY : hash_table/bulls_and_cows.s
+
+# target to generate assembly for a file
+hash_table/bulls_and_cows.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.s
+.PHONY : hash_table/bulls_and_cows.cpp.s
 
 hash_table/contains_duplicate.o: hash_table/contains_duplicate.cpp.o
 
@@ -1014,6 +1203,33 @@ hash_table/strobogrammatic_number.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.s
 .PHONY : hash_table/strobogrammatic_number.cpp.s
 
+hash_table/unique_word_abbreviation.o: hash_table/unique_word_abbreviation.cpp.o
+
+.PHONY : hash_table/unique_word_abbreviation.o
+
+# target to build an object file
+hash_table/unique_word_abbreviation.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/unique_word_abbreviation.cpp.o
+.PHONY : hash_table/unique_word_abbreviation.cpp.o
+
+hash_table/unique_word_abbreviation.i: hash_table/unique_word_abbreviation.cpp.i
+
+.PHONY : hash_table/unique_word_abbreviation.i
+
+# target to preprocess a source file
+hash_table/unique_word_abbreviation.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/unique_word_abbreviation.cpp.i
+.PHONY : hash_table/unique_word_abbreviation.cpp.i
+
+hash_table/unique_word_abbreviation.s: hash_table/unique_word_abbreviation.cpp.s
+
+.PHONY : hash_table/unique_word_abbreviation.s
+
+# target to generate assembly for a file
+hash_table/unique_word_abbreviation.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/unique_word_abbreviation.cpp.s
+.PHONY : hash_table/unique_word_abbreviation.cpp.s
+
 hash_table/valid_anagram.o: hash_table/valid_anagram.cpp.o
 
 .PHONY : hash_table/valid_anagram.o
@@ -1040,6 +1256,33 @@ hash_table/valid_anagram.s: hash_table/valid_anagram.cpp.s
 hash_table/valid_anagram.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/valid_anagram.cpp.s
 .PHONY : hash_table/valid_anagram.cpp.s
+
+hash_table/word_pattern.o: hash_table/word_pattern.cpp.o
+
+.PHONY : hash_table/word_pattern.o
+
+# target to build an object file
+hash_table/word_pattern.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.o
+.PHONY : hash_table/word_pattern.cpp.o
+
+hash_table/word_pattern.i: hash_table/word_pattern.cpp.i
+
+.PHONY : hash_table/word_pattern.i
+
+# target to preprocess a source file
+hash_table/word_pattern.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.i
+.PHONY : hash_table/word_pattern.cpp.i
+
+hash_table/word_pattern.s: hash_table/word_pattern.cpp.s
+
+.PHONY : hash_table/word_pattern.s
+
+# target to generate assembly for a file
+hash_table/word_pattern.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.s
+.PHONY : hash_table/word_pattern.cpp.s
 
 linked_list/palindrome_linked_list.o: linked_list/palindrome_linked_list.cpp.o
 
@@ -1581,6 +1824,33 @@ tree/count_complete_tree_nodes.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.s
 .PHONY : tree/count_complete_tree_nodes.cpp.s
 
+tree/inorder_successor_in_bst.o: tree/inorder_successor_in_bst.cpp.o
+
+.PHONY : tree/inorder_successor_in_bst.o
+
+# target to build an object file
+tree/inorder_successor_in_bst.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.o
+.PHONY : tree/inorder_successor_in_bst.cpp.o
+
+tree/inorder_successor_in_bst.i: tree/inorder_successor_in_bst.cpp.i
+
+.PHONY : tree/inorder_successor_in_bst.i
+
+# target to preprocess a source file
+tree/inorder_successor_in_bst.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.i
+.PHONY : tree/inorder_successor_in_bst.cpp.i
+
+tree/inorder_successor_in_bst.s: tree/inorder_successor_in_bst.cpp.s
+
+.PHONY : tree/inorder_successor_in_bst.s
+
+# target to generate assembly for a file
+tree/inorder_successor_in_bst.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.s
+.PHONY : tree/inorder_successor_in_bst.cpp.s
+
 tree/invert_binary_tree.o: tree/invert_binary_tree.cpp.o
 
 .PHONY : tree/invert_binary_tree.o
@@ -1689,6 +1959,33 @@ tree/lowest_common_ancestor_of_a_binary_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/lowest_common_ancestor_of_a_binary_tree.cpp.s
 .PHONY : tree/lowest_common_ancestor_of_a_binary_tree.cpp.s
 
+tree/serialize_and_deserialize_binary_tree.o: tree/serialize_and_deserialize_binary_tree.cpp.o
+
+.PHONY : tree/serialize_and_deserialize_binary_tree.o
+
+# target to build an object file
+tree/serialize_and_deserialize_binary_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o
+.PHONY : tree/serialize_and_deserialize_binary_tree.cpp.o
+
+tree/serialize_and_deserialize_binary_tree.i: tree/serialize_and_deserialize_binary_tree.cpp.i
+
+.PHONY : tree/serialize_and_deserialize_binary_tree.i
+
+# target to preprocess a source file
+tree/serialize_and_deserialize_binary_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.i
+.PHONY : tree/serialize_and_deserialize_binary_tree.cpp.i
+
+tree/serialize_and_deserialize_binary_tree.s: tree/serialize_and_deserialize_binary_tree.cpp.s
+
+.PHONY : tree/serialize_and_deserialize_binary_tree.s
+
+# target to generate assembly for a file
+tree/serialize_and_deserialize_binary_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.s
+.PHONY : tree/serialize_and_deserialize_binary_tree.cpp.s
+
 tree/verify_preorder_sequence_in_binary_search_tree.o: tree/verify_preorder_sequence_in_binary_search_tree.cpp.o
 
 .PHONY : tree/verify_preorder_sequence_in_binary_search_tree.o
@@ -1758,12 +2055,21 @@ help:
 	@echo "... array/find_the_celebrity.o"
 	@echo "... array/find_the_celebrity.i"
 	@echo "... array/find_the_celebrity.s"
+	@echo "... array/find_the_duplicate_number.o"
+	@echo "... array/find_the_duplicate_number.i"
+	@echo "... array/find_the_duplicate_number.s"
+	@echo "... array/game_of_life.o"
+	@echo "... array/game_of_life.i"
+	@echo "... array/game_of_life.s"
 	@echo "... array/majority_element_2.o"
 	@echo "... array/majority_element_2.i"
 	@echo "... array/majority_element_2.s"
 	@echo "... array/missing_number.o"
 	@echo "... array/missing_number.i"
 	@echo "... array/missing_number.s"
+	@echo "... array/move_zeroes.o"
+	@echo "... array/move_zeroes.i"
+	@echo "... array/move_zeroes.s"
 	@echo "... array/product_of_array_except_self.o"
 	@echo "... array/product_of_array_except_self.i"
 	@echo "... array/product_of_array_except_self.s"
@@ -1788,6 +2094,9 @@ help:
 	@echo "... backtracking/palindrome_permutation_2.o"
 	@echo "... backtracking/palindrome_permutation_2.i"
 	@echo "... backtracking/palindrome_permutation_2.s"
+	@echo "... bfs/walls_and_gates.o"
+	@echo "... bfs/walls_and_gates.i"
+	@echo "... bfs/walls_and_gates.s"
 	@echo "... binary_search/first_bad_version.o"
 	@echo "... binary_search/first_bad_version.i"
 	@echo "... binary_search/first_bad_version.s"
@@ -1809,12 +2118,18 @@ help:
 	@echo "... design/implement_stack_using_queues.o"
 	@echo "... design/implement_stack_using_queues.i"
 	@echo "... design/implement_stack_using_queues.s"
+	@echo "... design/peeking_iterator.o"
+	@echo "... design/peeking_iterator.i"
+	@echo "... design/peeking_iterator.s"
 	@echo "... design/zigzag_iterator.o"
 	@echo "... design/zigzag_iterator.i"
 	@echo "... design/zigzag_iterator.s"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.o"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.i"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.s"
+	@echo "... divide_and_conquer/expression_add_operators.o"
+	@echo "... divide_and_conquer/expression_add_operators.i"
+	@echo "... divide_and_conquer/expression_add_operators.s"
 	@echo "... dynamic_programming/maximal_square.o"
 	@echo "... dynamic_programming/maximal_square.i"
 	@echo "... dynamic_programming/maximal_square.s"
@@ -1830,6 +2145,9 @@ help:
 	@echo "... dynamic_programming/perfect_squares.o"
 	@echo "... dynamic_programming/perfect_squares.i"
 	@echo "... dynamic_programming/perfect_squares.s"
+	@echo "... hash_table/bulls_and_cows.o"
+	@echo "... hash_table/bulls_and_cows.i"
+	@echo "... hash_table/bulls_and_cows.s"
 	@echo "... hash_table/contains_duplicate.o"
 	@echo "... hash_table/contains_duplicate.i"
 	@echo "... hash_table/contains_duplicate.s"
@@ -1851,9 +2169,15 @@ help:
 	@echo "... hash_table/strobogrammatic_number.o"
 	@echo "... hash_table/strobogrammatic_number.i"
 	@echo "... hash_table/strobogrammatic_number.s"
+	@echo "... hash_table/unique_word_abbreviation.o"
+	@echo "... hash_table/unique_word_abbreviation.i"
+	@echo "... hash_table/unique_word_abbreviation.s"
 	@echo "... hash_table/valid_anagram.o"
 	@echo "... hash_table/valid_anagram.i"
 	@echo "... hash_table/valid_anagram.s"
+	@echo "... hash_table/word_pattern.o"
+	@echo "... hash_table/word_pattern.i"
+	@echo "... hash_table/word_pattern.s"
 	@echo "... linked_list/palindrome_linked_list.o"
 	@echo "... linked_list/palindrome_linked_list.i"
 	@echo "... linked_list/palindrome_linked_list.s"
@@ -1914,6 +2238,9 @@ help:
 	@echo "... tree/count_complete_tree_nodes.o"
 	@echo "... tree/count_complete_tree_nodes.i"
 	@echo "... tree/count_complete_tree_nodes.s"
+	@echo "... tree/inorder_successor_in_bst.o"
+	@echo "... tree/inorder_successor_in_bst.i"
+	@echo "... tree/inorder_successor_in_bst.s"
 	@echo "... tree/invert_binary_tree.o"
 	@echo "... tree/invert_binary_tree.i"
 	@echo "... tree/invert_binary_tree.s"
@@ -1926,6 +2253,9 @@ help:
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.o"
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.i"
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.s"
+	@echo "... tree/serialize_and_deserialize_binary_tree.o"
+	@echo "... tree/serialize_and_deserialize_binary_tree.i"
+	@echo "... tree/serialize_and_deserialize_binary_tree.s"
 	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.o"
 	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.i"
 	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.s"

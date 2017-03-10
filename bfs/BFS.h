@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 3/1/17.
+// Created by Xingyuan Wang on 3/9/17.
 //
 
-#ifndef CPC_DESIGN_H
-#define CPC_DESIGN_H
+#ifndef CPC_BFS_H
+#define CPC_BFS_H
 
 #include <iostream>
 #include <vector>
@@ -90,4 +90,21 @@ struct Point {
     Point(int a, int b) : x(a), y(b) {}
 };
 
-#endif //CPC_DESIGN_H
+class Iterator {
+    using IT = vector<int>::const_iterator;
+    IT b;
+    IT e;
+public:
+    bool hasNext() {
+        return b != e;
+    }
+    int next() {
+        return *b++;
+    }
+    int peek() const {
+        return *b;
+    };
+    Iterator(IT b, IT e) : b(b), e(e) {}
+};
+
+#endif //CPC_BFS_H

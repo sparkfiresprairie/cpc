@@ -36,6 +36,8 @@
     encode/decode algorithm.
  */
 
+#include "Design.h"
+
 class Codec {
 public:
     // Encodes a list of strings to a single string.

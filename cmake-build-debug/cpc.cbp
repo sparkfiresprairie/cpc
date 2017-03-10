@@ -89,10 +89,19 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/find_the_celebrity.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/find_the_duplicate_number.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/game_of_life.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/majority_element_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/missing_number.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/move_zeroes.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/product_of_array_except_self.cpp">
@@ -120,6 +129,12 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/backtracking/palindrome_permutation_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bfs/BFS.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bfs/walls_and_gates.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/BinarySearch.h">
@@ -152,6 +167,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/implement_stack_using_queues.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/peeking_iterator.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/zigzag_iterator.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -159,6 +177,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/different_ways_to_add_parentheses.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/expression_add_operators.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/DynamicProgramming.h">
@@ -182,6 +203,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/HashTable.h">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/bulls_and_cows.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -203,7 +227,13 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/strobogrammatic_number.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/unique_word_abbreviation.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/valid_anagram.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/word_pattern.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/LinkedList.h">
@@ -290,6 +320,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/count_complete_tree_nodes.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/inorder_successor_in_bst.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/invert_binary_tree.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -300,6 +333,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/lowest_common_ancestor_of_a_binary_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/serialize_and_deserialize_binary_tree.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/verify_preorder_sequence_in_binary_search_tree.cpp">
