@@ -528,6 +528,33 @@ backtracking/palindrome_permutation_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/palindrome_permutation_2.cpp.s
 .PHONY : backtracking/palindrome_permutation_2.cpp.s
 
+backtracking/word_pattern_2.o: backtracking/word_pattern_2.cpp.o
+
+.PHONY : backtracking/word_pattern_2.o
+
+# target to build an object file
+backtracking/word_pattern_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o
+.PHONY : backtracking/word_pattern_2.cpp.o
+
+backtracking/word_pattern_2.i: backtracking/word_pattern_2.cpp.i
+
+.PHONY : backtracking/word_pattern_2.i
+
+# target to preprocess a source file
+backtracking/word_pattern_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.i
+.PHONY : backtracking/word_pattern_2.cpp.i
+
+backtracking/word_pattern_2.s: backtracking/word_pattern_2.cpp.s
+
+.PHONY : backtracking/word_pattern_2.s
+
+# target to generate assembly for a file
+backtracking/word_pattern_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.s
+.PHONY : backtracking/word_pattern_2.cpp.s
+
 bfs/walls_and_gates.o: bfs/walls_and_gates.cpp.o
 
 .PHONY : bfs/walls_and_gates.o
@@ -852,6 +879,33 @@ divide_and_conquer/expression_add_operators.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.s
 .PHONY : divide_and_conquer/expression_add_operators.cpp.s
 
+dynamic_programming/flip_game_2.o: dynamic_programming/flip_game_2.cpp.o
+
+.PHONY : dynamic_programming/flip_game_2.o
+
+# target to build an object file
+dynamic_programming/flip_game_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o
+.PHONY : dynamic_programming/flip_game_2.cpp.o
+
+dynamic_programming/flip_game_2.i: dynamic_programming/flip_game_2.cpp.i
+
+.PHONY : dynamic_programming/flip_game_2.i
+
+# target to preprocess a source file
+dynamic_programming/flip_game_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.i
+.PHONY : dynamic_programming/flip_game_2.cpp.i
+
+dynamic_programming/flip_game_2.s: dynamic_programming/flip_game_2.cpp.s
+
+.PHONY : dynamic_programming/flip_game_2.s
+
+# target to generate assembly for a file
+dynamic_programming/flip_game_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.s
+.PHONY : dynamic_programming/flip_game_2.cpp.s
+
 dynamic_programming/maximal_square.o: dynamic_programming/maximal_square.cpp.o
 
 .PHONY : dynamic_programming/maximal_square.o
@@ -878,6 +932,33 @@ dynamic_programming/maximal_square.s: dynamic_programming/maximal_square.cpp.s
 dynamic_programming/maximal_square.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/maximal_square.cpp.s
 .PHONY : dynamic_programming/maximal_square.cpp.s
+
+dynamic_programming/nim_game.o: dynamic_programming/nim_game.cpp.o
+
+.PHONY : dynamic_programming/nim_game.o
+
+# target to build an object file
+dynamic_programming/nim_game.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o
+.PHONY : dynamic_programming/nim_game.cpp.o
+
+dynamic_programming/nim_game.i: dynamic_programming/nim_game.cpp.i
+
+.PHONY : dynamic_programming/nim_game.i
+
+# target to preprocess a source file
+dynamic_programming/nim_game.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.i
+.PHONY : dynamic_programming/nim_game.cpp.i
+
+dynamic_programming/nim_game.s: dynamic_programming/nim_game.cpp.s
+
+.PHONY : dynamic_programming/nim_game.s
+
+# target to generate assembly for a file
+dynamic_programming/nim_game.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.s
+.PHONY : dynamic_programming/nim_game.cpp.s
 
 dynamic_programming/paint_fence.o: dynamic_programming/paint_fence.cpp.o
 
@@ -1284,6 +1365,33 @@ hash_table/word_pattern.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.s
 .PHONY : hash_table/word_pattern.cpp.s
 
+heap/find_median_from_data_stream.o: heap/find_median_from_data_stream.cpp.o
+
+.PHONY : heap/find_median_from_data_stream.o
+
+# target to build an object file
+heap/find_median_from_data_stream.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o
+.PHONY : heap/find_median_from_data_stream.cpp.o
+
+heap/find_median_from_data_stream.i: heap/find_median_from_data_stream.cpp.i
+
+.PHONY : heap/find_median_from_data_stream.i
+
+# target to preprocess a source file
+heap/find_median_from_data_stream.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.i
+.PHONY : heap/find_median_from_data_stream.cpp.i
+
+heap/find_median_from_data_stream.s: heap/find_median_from_data_stream.cpp.s
+
+.PHONY : heap/find_median_from_data_stream.s
+
+# target to generate assembly for a file
+heap/find_median_from_data_stream.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.s
+.PHONY : heap/find_median_from_data_stream.cpp.s
+
 linked_list/palindrome_linked_list.o: linked_list/palindrome_linked_list.cpp.o
 
 .PHONY : linked_list/palindrome_linked_list.o
@@ -1364,6 +1472,33 @@ math/add_digits.s: math/add_digits.cpp.s
 math/add_digits.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/add_digits.cpp.s
 .PHONY : math/add_digits.cpp.s
+
+math/best_meeting_point.o: math/best_meeting_point.cpp.o
+
+.PHONY : math/best_meeting_point.o
+
+# target to build an object file
+math/best_meeting_point.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o
+.PHONY : math/best_meeting_point.cpp.o
+
+math/best_meeting_point.i: math/best_meeting_point.cpp.i
+
+.PHONY : math/best_meeting_point.i
+
+# target to preprocess a source file
+math/best_meeting_point.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/best_meeting_point.cpp.i
+.PHONY : math/best_meeting_point.cpp.i
+
+math/best_meeting_point.s: math/best_meeting_point.cpp.s
+
+.PHONY : math/best_meeting_point.s
+
+# target to generate assembly for a file
+math/best_meeting_point.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/best_meeting_point.cpp.s
+.PHONY : math/best_meeting_point.cpp.s
 
 math/power_of_four.o: math/power_of_four.cpp.o
 
@@ -1689,6 +1824,33 @@ stack/basic_calculator_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator_2.cpp.s
 .PHONY : stack/basic_calculator_2.cpp.s
 
+string/flip_game.o: string/flip_game.cpp.o
+
+.PHONY : string/flip_game.o
+
+# target to build an object file
+string/flip_game.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/flip_game.cpp.o
+.PHONY : string/flip_game.cpp.o
+
+string/flip_game.i: string/flip_game.cpp.i
+
+.PHONY : string/flip_game.i
+
+# target to preprocess a source file
+string/flip_game.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/flip_game.cpp.i
+.PHONY : string/flip_game.cpp.i
+
+string/flip_game.s: string/flip_game.cpp.s
+
+.PHONY : string/flip_game.s
+
+# target to generate assembly for a file
+string/flip_game.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/flip_game.cpp.s
+.PHONY : string/flip_game.cpp.s
+
 string/integer_to_english_words.o: string/integer_to_english_words.cpp.o
 
 .PHONY : string/integer_to_english_words.o
@@ -1742,6 +1904,33 @@ topological_sort/alien_dictionary.s: topological_sort/alien_dictionary.cpp.s
 topological_sort/alien_dictionary.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/alien_dictionary.cpp.s
 .PHONY : topological_sort/alien_dictionary.cpp.s
+
+tree/binary_tree_longest_consecutive_sequence.o: tree/binary_tree_longest_consecutive_sequence.cpp.o
+
+.PHONY : tree/binary_tree_longest_consecutive_sequence.o
+
+# target to build an object file
+tree/binary_tree_longest_consecutive_sequence.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o
+.PHONY : tree/binary_tree_longest_consecutive_sequence.cpp.o
+
+tree/binary_tree_longest_consecutive_sequence.i: tree/binary_tree_longest_consecutive_sequence.cpp.i
+
+.PHONY : tree/binary_tree_longest_consecutive_sequence.i
+
+# target to preprocess a source file
+tree/binary_tree_longest_consecutive_sequence.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.i
+.PHONY : tree/binary_tree_longest_consecutive_sequence.cpp.i
+
+tree/binary_tree_longest_consecutive_sequence.s: tree/binary_tree_longest_consecutive_sequence.cpp.s
+
+.PHONY : tree/binary_tree_longest_consecutive_sequence.s
+
+# target to generate assembly for a file
+tree/binary_tree_longest_consecutive_sequence.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.s
+.PHONY : tree/binary_tree_longest_consecutive_sequence.cpp.s
 
 tree/binary_tree_path.o: tree/binary_tree_path.cpp.o
 
@@ -2094,6 +2283,9 @@ help:
 	@echo "... backtracking/palindrome_permutation_2.o"
 	@echo "... backtracking/palindrome_permutation_2.i"
 	@echo "... backtracking/palindrome_permutation_2.s"
+	@echo "... backtracking/word_pattern_2.o"
+	@echo "... backtracking/word_pattern_2.i"
+	@echo "... backtracking/word_pattern_2.s"
 	@echo "... bfs/walls_and_gates.o"
 	@echo "... bfs/walls_and_gates.i"
 	@echo "... bfs/walls_and_gates.s"
@@ -2130,9 +2322,15 @@ help:
 	@echo "... divide_and_conquer/expression_add_operators.o"
 	@echo "... divide_and_conquer/expression_add_operators.i"
 	@echo "... divide_and_conquer/expression_add_operators.s"
+	@echo "... dynamic_programming/flip_game_2.o"
+	@echo "... dynamic_programming/flip_game_2.i"
+	@echo "... dynamic_programming/flip_game_2.s"
 	@echo "... dynamic_programming/maximal_square.o"
 	@echo "... dynamic_programming/maximal_square.i"
 	@echo "... dynamic_programming/maximal_square.s"
+	@echo "... dynamic_programming/nim_game.o"
+	@echo "... dynamic_programming/nim_game.i"
+	@echo "... dynamic_programming/nim_game.s"
 	@echo "... dynamic_programming/paint_fence.o"
 	@echo "... dynamic_programming/paint_fence.i"
 	@echo "... dynamic_programming/paint_fence.s"
@@ -2178,6 +2376,9 @@ help:
 	@echo "... hash_table/word_pattern.o"
 	@echo "... hash_table/word_pattern.i"
 	@echo "... hash_table/word_pattern.s"
+	@echo "... heap/find_median_from_data_stream.o"
+	@echo "... heap/find_median_from_data_stream.i"
+	@echo "... heap/find_median_from_data_stream.s"
 	@echo "... linked_list/palindrome_linked_list.o"
 	@echo "... linked_list/palindrome_linked_list.i"
 	@echo "... linked_list/palindrome_linked_list.s"
@@ -2187,6 +2388,9 @@ help:
 	@echo "... math/add_digits.o"
 	@echo "... math/add_digits.i"
 	@echo "... math/add_digits.s"
+	@echo "... math/best_meeting_point.o"
+	@echo "... math/best_meeting_point.i"
+	@echo "... math/best_meeting_point.s"
 	@echo "... math/power_of_four.o"
 	@echo "... math/power_of_four.i"
 	@echo "... math/power_of_four.s"
@@ -2223,12 +2427,18 @@ help:
 	@echo "... stack/basic_calculator_2.o"
 	@echo "... stack/basic_calculator_2.i"
 	@echo "... stack/basic_calculator_2.s"
+	@echo "... string/flip_game.o"
+	@echo "... string/flip_game.i"
+	@echo "... string/flip_game.s"
 	@echo "... string/integer_to_english_words.o"
 	@echo "... string/integer_to_english_words.i"
 	@echo "... string/integer_to_english_words.s"
 	@echo "... topological_sort/alien_dictionary.o"
 	@echo "... topological_sort/alien_dictionary.i"
 	@echo "... topological_sort/alien_dictionary.s"
+	@echo "... tree/binary_tree_longest_consecutive_sequence.o"
+	@echo "... tree/binary_tree_longest_consecutive_sequence.i"
+	@echo "... tree/binary_tree_longest_consecutive_sequence.s"
 	@echo "... tree/binary_tree_path.o"
 	@echo "... tree/binary_tree_path.i"
 	@echo "... tree/binary_tree_path.s"

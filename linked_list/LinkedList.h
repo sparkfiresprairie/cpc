@@ -21,7 +21,6 @@
 #include <fstream>
 #include <chrono>
 
-
 using std::max;
 using std::min;
 using std::string;

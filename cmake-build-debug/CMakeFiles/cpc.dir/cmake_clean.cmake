@@ -70,6 +70,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.o"
   "CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.o"
   "CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o"
+  "CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o"
+  "CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o"
+  "CMakeFiles/cpc.dir/string/flip_game.cpp.o"
+  "CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o"
+  "CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o"
+  "CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o"
+  "CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o"
   "cpc.pdb"
   "cpc"
 )

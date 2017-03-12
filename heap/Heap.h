@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 2/26/17.
+// Created by Xingyuan Wang on 3/11/17.
 //
 
-#ifndef CPC_HASHTABLE_H
-#define CPC_HASHTABLE_H
+#ifndef CPC_HEAP_H
+#define CPC_HEAP_H
 
 #include <iostream>
 #include <vector>
@@ -19,9 +19,7 @@
 #include <stack>
 #include <deque>
 #include <fstream>
-#include <sstream>
 #include <chrono>
-
 
 using std::max;
 using std::min;
@@ -41,7 +39,6 @@ using std::deque;
 using std::multiset;
 using std::stack;
 using std::ifstream;
-using std::stringstream;
 
 // Definitions
 struct ListNode {
@@ -109,4 +106,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-#endif //CPC_HASHTABLE_H
+#endif //CPC_HEAP_H

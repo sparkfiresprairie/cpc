@@ -1761,6 +1761,174 @@ CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o.provides: CM
 CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o
 
 
+CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o: ../backtracking/word_pattern_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Building CXX object CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/backtracking/word_pattern_2.cpp
+
+CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/backtracking/word_pattern_2.cpp > CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.i
+
+CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/backtracking/word_pattern_2.cpp -o CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.s
+
+CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.provides: CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.provides.build: CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o: ../dynamic_programming/nim_game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_73) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/nim_game.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/nim_game.cpp > CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/nim_game.cpp -o CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o
+
+
+CMakeFiles/cpc.dir/string/flip_game.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/string/flip_game.cpp.o: ../string/flip_game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_74) "Building CXX object CMakeFiles/cpc.dir/string/flip_game.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/string/flip_game.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/string/flip_game.cpp
+
+CMakeFiles/cpc.dir/string/flip_game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/string/flip_game.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/string/flip_game.cpp > CMakeFiles/cpc.dir/string/flip_game.cpp.i
+
+CMakeFiles/cpc.dir/string/flip_game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/string/flip_game.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/string/flip_game.cpp -o CMakeFiles/cpc.dir/string/flip_game.cpp.s
+
+CMakeFiles/cpc.dir/string/flip_game.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/string/flip_game.cpp.o.requires
+
+CMakeFiles/cpc.dir/string/flip_game.cpp.o.provides: CMakeFiles/cpc.dir/string/flip_game.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/flip_game.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/string/flip_game.cpp.o.provides
+
+CMakeFiles/cpc.dir/string/flip_game.cpp.o.provides.build: CMakeFiles/cpc.dir/string/flip_game.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o: ../dynamic_programming/flip_game_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_75) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/flip_game_2.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/flip_game_2.cpp > CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/flip_game_2.cpp -o CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o
+
+
+CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o: ../heap/find_median_from_data_stream.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_76) "Building CXX object CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/heap/find_median_from_data_stream.cpp
+
+CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/heap/find_median_from_data_stream.cpp > CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.i
+
+CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/heap/find_median_from_data_stream.cpp -o CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.s
+
+CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.requires
+
+CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.provides: CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.provides
+
+CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.provides.build: CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o
+
+
+CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o: ../math/best_meeting_point.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_77) "Building CXX object CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/math/best_meeting_point.cpp
+
+CMakeFiles/cpc.dir/math/best_meeting_point.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/math/best_meeting_point.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/math/best_meeting_point.cpp > CMakeFiles/cpc.dir/math/best_meeting_point.cpp.i
+
+CMakeFiles/cpc.dir/math/best_meeting_point.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/math/best_meeting_point.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/math/best_meeting_point.cpp -o CMakeFiles/cpc.dir/math/best_meeting_point.cpp.s
+
+CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.requires
+
+CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.provides: CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.provides
+
+CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.provides.build: CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o
+
+
+CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o: ../tree/binary_tree_longest_consecutive_sequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_78) "Building CXX object CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_longest_consecutive_sequence.cpp
+
+CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_longest_consecutive_sequence.cpp > CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.i
+
+CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_longest_consecutive_sequence.cpp -o CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.s
+
+CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.requires
+
+CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.provides: CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.provides
+
+CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -1833,7 +2001,14 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/array/game_of_life.cpp.o" \
 "CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.o" \
 "CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.o" \
-"CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o"
+"CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o" \
+"CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o" \
+"CMakeFiles/cpc.dir/string/flip_game.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o" \
+"CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o" \
+"CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o" \
+"CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -1909,9 +2084,16 @@ cpc: CMakeFiles/cpc.dir/array/game_of_life.cpp.o
 cpc: CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.o
 cpc: CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o
+cpc: CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o
+cpc: CMakeFiles/cpc.dir/string/flip_game.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o
+cpc: CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o
+cpc: CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o
+cpc: CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_72) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -1990,6 +2172,13 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/game_of_life.cpp.o.require
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/word_pattern.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/nim_game.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/string/flip_game.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

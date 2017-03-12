@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 2/26/17.
+// Created by Xingyuan Wang on 3/10/17.
 //
 
-#ifndef CPC_HASHTABLE_H
-#define CPC_HASHTABLE_H
+#ifndef CPC_BRAIN_TEASER_H
+#define CPC_BRAIN_TEASER_H
 
 #include <iostream>
 #include <vector>
@@ -19,7 +19,6 @@
 #include <stack>
 #include <deque>
 #include <fstream>
-#include <sstream>
 #include <chrono>
 
 
@@ -41,7 +40,6 @@ using std::deque;
 using std::multiset;
 using std::stack;
 using std::ifstream;
-using std::stringstream;
 
 // Definitions
 struct ListNode {
@@ -92,21 +90,4 @@ struct Point {
     Point(int a, int b) : x(a), y(b) {}
 };
 
-class Iterator {
-    using IT = vector<int>::const_iterator;
-    IT b;
-    IT e;
-public:
-    bool hasNext() {
-        return b != e;
-    }
-    int next() {
-        return *b++;
-    }
-    int peek() const {
-        return *b;
-    };
-    Iterator(IT b, IT e) : b(b), e(e) {}
-};
-
-#endif //CPC_HASHTABLE_H
+#endif //CPC_BRAIN_TEASER_H

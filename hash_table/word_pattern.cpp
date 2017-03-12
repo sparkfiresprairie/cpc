@@ -18,3 +18,26 @@
     letters separated by a single space.
  */
 
+#include "HashTable.h"
+
+bool wordPattern(string pattern, string str) {
+    unordered_map<char, string> ctos;
+    unordered_map<string, char> stoc;
+    stringstream ss(str);
+    string token;
+    int i = 0;
+    while(std::getline(ss, token, ' ')) {
+        if (i >= pattern.size()) return false;
+        if (ctos.find(pattern[i]) == ctos.end() && stoc.find(token) == stoc.end()) {
+            ctos.insert({pattern[i], token});
+            stoc.insert({token, pattern[i]});
+        } else if (ctos[pattern[i]] != token) {
+            return false;
+        }
+        ++i;
+    }
+    return i == pattern.size();
+}
+
+// time: O(n)
+// space: O(n)
