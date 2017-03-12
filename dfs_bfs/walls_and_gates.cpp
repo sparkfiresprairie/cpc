@@ -26,7 +26,7 @@
     Hide Tags
  */
 
-#include "BFS.h"
+#include "DFSBFS.h"
 
 void bfs(vector<vector<int>>& rooms, int row, int col) {
     int m = rooms.size(), n = rooms[0].size();
@@ -63,5 +63,35 @@ void wallsAndGates(vector<vector<int>>& rooms) {
         }
     }
 }
+
+// time: O(mn)
+// space: O(m + n)
+
+//void wallsAndGates(vector<vector<int>>& rooms) {
+//    if (rooms.empty() || rooms[0].empty()) return;
+//    int m = rooms.size(), n = rooms[0].size();
+//    for (int i = 0; i < m; ++i) {
+//        for (int j = 0; j < n; ++j) {
+//            if (rooms[i][j] == 0) {
+//                dfs(rooms, i, j, 0);
+//            }
+//        }
+//    }
+//}
+//
+//void dfs(vector<vector<int>>& rooms, int i, int j, int dist) {
+//    int m = rooms.size(), n = rooms[0].size();
+//    vector<int> dirs{0, 1, 0, -1, 0};
+//    rooms[i][j] = dist;
+//    for (int k = 0; k < 4; ++k) {
+//        int x = i + dirs[k];
+//        int y = j + dirs[k + 1];
+//        if (x < 0 || x >= m || y < 0 || y >= n || rooms[x][y] <= dist + 1) continue;
+//        dfs(rooms, x, y, dist + 1);
+//    }
+//}
+
+
+
 
 

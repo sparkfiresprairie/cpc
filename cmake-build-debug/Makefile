@@ -339,6 +339,33 @@ array/product_of_array_except_self.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/product_of_array_except_self.cpp.s
 .PHONY : array/product_of_array_except_self.cpp.s
 
+array/rotate_image.o: array/rotate_image.cpp.o
+
+.PHONY : array/rotate_image.o
+
+# target to build an object file
+array/rotate_image.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/rotate_image.cpp.o
+.PHONY : array/rotate_image.cpp.o
+
+array/rotate_image.i: array/rotate_image.cpp.i
+
+.PHONY : array/rotate_image.i
+
+# target to preprocess a source file
+array/rotate_image.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/rotate_image.cpp.i
+.PHONY : array/rotate_image.cpp.i
+
+array/rotate_image.s: array/rotate_image.cpp.s
+
+.PHONY : array/rotate_image.s
+
+# target to generate assembly for a file
+array/rotate_image.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/rotate_image.cpp.s
+.PHONY : array/rotate_image.cpp.s
+
 array/shortest_word_distance.o: array/shortest_word_distance.cpp.o
 
 .PHONY : array/shortest_word_distance.o
@@ -447,6 +474,33 @@ array/summary_ranges.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/summary_ranges.cpp.s
 .PHONY : array/summary_ranges.cpp.s
 
+array/two_sum_2_input_array_is_sorted.o: array/two_sum_2_input_array_is_sorted.cpp.o
+
+.PHONY : array/two_sum_2_input_array_is_sorted.o
+
+# target to build an object file
+array/two_sum_2_input_array_is_sorted.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o
+.PHONY : array/two_sum_2_input_array_is_sorted.cpp.o
+
+array/two_sum_2_input_array_is_sorted.i: array/two_sum_2_input_array_is_sorted.cpp.i
+
+.PHONY : array/two_sum_2_input_array_is_sorted.i
+
+# target to preprocess a source file
+array/two_sum_2_input_array_is_sorted.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.i
+.PHONY : array/two_sum_2_input_array_is_sorted.cpp.i
+
+array/two_sum_2_input_array_is_sorted.s: array/two_sum_2_input_array_is_sorted.cpp.s
+
+.PHONY : array/two_sum_2_input_array_is_sorted.s
+
+# target to generate assembly for a file
+array/two_sum_2_input_array_is_sorted.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.s
+.PHONY : array/two_sum_2_input_array_is_sorted.cpp.s
+
 array/wiggle_sort.o: array/wiggle_sort.cpp.o
 
 .PHONY : array/wiggle_sort.o
@@ -554,33 +608,6 @@ backtracking/word_pattern_2.s: backtracking/word_pattern_2.cpp.s
 backtracking/word_pattern_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/word_pattern_2.cpp.s
 .PHONY : backtracking/word_pattern_2.cpp.s
-
-bfs/walls_and_gates.o: bfs/walls_and_gates.cpp.o
-
-.PHONY : bfs/walls_and_gates.o
-
-# target to build an object file
-bfs/walls_and_gates.cpp.o:
-	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o
-.PHONY : bfs/walls_and_gates.cpp.o
-
-bfs/walls_and_gates.i: bfs/walls_and_gates.cpp.i
-
-.PHONY : bfs/walls_and_gates.i
-
-# target to preprocess a source file
-bfs/walls_and_gates.cpp.i:
-	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.i
-.PHONY : bfs/walls_and_gates.cpp.i
-
-bfs/walls_and_gates.s: bfs/walls_and_gates.cpp.s
-
-.PHONY : bfs/walls_and_gates.s
-
-# target to generate assembly for a file
-bfs/walls_and_gates.cpp.s:
-	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.s
-.PHONY : bfs/walls_and_gates.cpp.s
 
 binary_search/first_bad_version.o: binary_search/first_bad_version.cpp.o
 
@@ -771,6 +798,60 @@ design/implement_stack_using_queues.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s
 .PHONY : design/implement_stack_using_queues.cpp.s
 
+design/lfu_cache.o: design/lfu_cache.cpp.o
+
+.PHONY : design/lfu_cache.o
+
+# target to build an object file
+design/lfu_cache.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lfu_cache.cpp.o
+.PHONY : design/lfu_cache.cpp.o
+
+design/lfu_cache.i: design/lfu_cache.cpp.i
+
+.PHONY : design/lfu_cache.i
+
+# target to preprocess a source file
+design/lfu_cache.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lfu_cache.cpp.i
+.PHONY : design/lfu_cache.cpp.i
+
+design/lfu_cache.s: design/lfu_cache.cpp.s
+
+.PHONY : design/lfu_cache.s
+
+# target to generate assembly for a file
+design/lfu_cache.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lfu_cache.cpp.s
+.PHONY : design/lfu_cache.cpp.s
+
+design/lru_cache.o: design/lru_cache.cpp.o
+
+.PHONY : design/lru_cache.o
+
+# target to build an object file
+design/lru_cache.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lru_cache.cpp.o
+.PHONY : design/lru_cache.cpp.o
+
+design/lru_cache.i: design/lru_cache.cpp.i
+
+.PHONY : design/lru_cache.i
+
+# target to preprocess a source file
+design/lru_cache.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lru_cache.cpp.i
+.PHONY : design/lru_cache.cpp.i
+
+design/lru_cache.s: design/lru_cache.cpp.s
+
+.PHONY : design/lru_cache.s
+
+# target to generate assembly for a file
+design/lru_cache.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lru_cache.cpp.s
+.PHONY : design/lru_cache.cpp.s
+
 design/peeking_iterator.o: design/peeking_iterator.cpp.o
 
 .PHONY : design/peeking_iterator.o
@@ -798,6 +879,33 @@ design/peeking_iterator.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/peeking_iterator.cpp.s
 .PHONY : design/peeking_iterator.cpp.s
 
+design/two_sum_3_data_structure_design.o: design/two_sum_3_data_structure_design.cpp.o
+
+.PHONY : design/two_sum_3_data_structure_design.o
+
+# target to build an object file
+design/two_sum_3_data_structure_design.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o
+.PHONY : design/two_sum_3_data_structure_design.cpp.o
+
+design/two_sum_3_data_structure_design.i: design/two_sum_3_data_structure_design.cpp.i
+
+.PHONY : design/two_sum_3_data_structure_design.i
+
+# target to preprocess a source file
+design/two_sum_3_data_structure_design.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.i
+.PHONY : design/two_sum_3_data_structure_design.cpp.i
+
+design/two_sum_3_data_structure_design.s: design/two_sum_3_data_structure_design.cpp.s
+
+.PHONY : design/two_sum_3_data_structure_design.s
+
+# target to generate assembly for a file
+design/two_sum_3_data_structure_design.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.s
+.PHONY : design/two_sum_3_data_structure_design.cpp.s
+
 design/zigzag_iterator.o: design/zigzag_iterator.cpp.o
 
 .PHONY : design/zigzag_iterator.o
@@ -824,6 +932,60 @@ design/zigzag_iterator.s: design/zigzag_iterator.cpp.s
 design/zigzag_iterator.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/zigzag_iterator.cpp.s
 .PHONY : design/zigzag_iterator.cpp.s
+
+dfs_bfs/number_of_islands.o: dfs_bfs/number_of_islands.cpp.o
+
+.PHONY : dfs_bfs/number_of_islands.o
+
+# target to build an object file
+dfs_bfs/number_of_islands.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o
+.PHONY : dfs_bfs/number_of_islands.cpp.o
+
+dfs_bfs/number_of_islands.i: dfs_bfs/number_of_islands.cpp.i
+
+.PHONY : dfs_bfs/number_of_islands.i
+
+# target to preprocess a source file
+dfs_bfs/number_of_islands.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.i
+.PHONY : dfs_bfs/number_of_islands.cpp.i
+
+dfs_bfs/number_of_islands.s: dfs_bfs/number_of_islands.cpp.s
+
+.PHONY : dfs_bfs/number_of_islands.s
+
+# target to generate assembly for a file
+dfs_bfs/number_of_islands.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.s
+.PHONY : dfs_bfs/number_of_islands.cpp.s
+
+dfs_bfs/walls_and_gates.o: dfs_bfs/walls_and_gates.cpp.o
+
+.PHONY : dfs_bfs/walls_and_gates.o
+
+# target to build an object file
+dfs_bfs/walls_and_gates.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o
+.PHONY : dfs_bfs/walls_and_gates.cpp.o
+
+dfs_bfs/walls_and_gates.i: dfs_bfs/walls_and_gates.cpp.i
+
+.PHONY : dfs_bfs/walls_and_gates.i
+
+# target to preprocess a source file
+dfs_bfs/walls_and_gates.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.i
+.PHONY : dfs_bfs/walls_and_gates.cpp.i
+
+dfs_bfs/walls_and_gates.s: dfs_bfs/walls_and_gates.cpp.s
+
+.PHONY : dfs_bfs/walls_and_gates.s
+
+# target to generate assembly for a file
+dfs_bfs/walls_and_gates.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.s
+.PHONY : dfs_bfs/walls_and_gates.cpp.s
 
 divide_and_conquer/different_ways_to_add_parentheses.o: divide_and_conquer/different_ways_to_add_parentheses.cpp.o
 
@@ -1176,6 +1338,33 @@ hash_table/contains_duplicate_3.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/contains_duplicate_3.cpp.s
 .PHONY : hash_table/contains_duplicate_3.cpp.s
 
+hash_table/find_all_anagrams_in_a_string.o: hash_table/find_all_anagrams_in_a_string.cpp.o
+
+.PHONY : hash_table/find_all_anagrams_in_a_string.o
+
+# target to build an object file
+hash_table/find_all_anagrams_in_a_string.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o
+.PHONY : hash_table/find_all_anagrams_in_a_string.cpp.o
+
+hash_table/find_all_anagrams_in_a_string.i: hash_table/find_all_anagrams_in_a_string.cpp.i
+
+.PHONY : hash_table/find_all_anagrams_in_a_string.i
+
+# target to preprocess a source file
+hash_table/find_all_anagrams_in_a_string.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.i
+.PHONY : hash_table/find_all_anagrams_in_a_string.cpp.i
+
+hash_table/find_all_anagrams_in_a_string.s: hash_table/find_all_anagrams_in_a_string.cpp.s
+
+.PHONY : hash_table/find_all_anagrams_in_a_string.s
+
+# target to generate assembly for a file
+hash_table/find_all_anagrams_in_a_string.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.s
+.PHONY : hash_table/find_all_anagrams_in_a_string.cpp.s
+
 hash_table/h_index.o: hash_table/h_index.cpp.o
 
 .PHONY : hash_table/h_index.o
@@ -1284,6 +1473,33 @@ hash_table/strobogrammatic_number.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.s
 .PHONY : hash_table/strobogrammatic_number.cpp.s
 
+hash_table/two_sum.o: hash_table/two_sum.cpp.o
+
+.PHONY : hash_table/two_sum.o
+
+# target to build an object file
+hash_table/two_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o
+.PHONY : hash_table/two_sum.cpp.o
+
+hash_table/two_sum.i: hash_table/two_sum.cpp.i
+
+.PHONY : hash_table/two_sum.i
+
+# target to preprocess a source file
+hash_table/two_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/two_sum.cpp.i
+.PHONY : hash_table/two_sum.cpp.i
+
+hash_table/two_sum.s: hash_table/two_sum.cpp.s
+
+.PHONY : hash_table/two_sum.s
+
+# target to generate assembly for a file
+hash_table/two_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/two_sum.cpp.s
+.PHONY : hash_table/two_sum.cpp.s
+
 hash_table/unique_word_abbreviation.o: hash_table/unique_word_abbreviation.cpp.o
 
 .PHONY : hash_table/unique_word_abbreviation.o
@@ -1391,6 +1607,33 @@ heap/find_median_from_data_stream.s: heap/find_median_from_data_stream.cpp.s
 heap/find_median_from_data_stream.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.s
 .PHONY : heap/find_median_from_data_stream.cpp.s
+
+linked_list/copy_list_with_random_pointer.o: linked_list/copy_list_with_random_pointer.cpp.o
+
+.PHONY : linked_list/copy_list_with_random_pointer.o
+
+# target to build an object file
+linked_list/copy_list_with_random_pointer.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o
+.PHONY : linked_list/copy_list_with_random_pointer.cpp.o
+
+linked_list/copy_list_with_random_pointer.i: linked_list/copy_list_with_random_pointer.cpp.i
+
+.PHONY : linked_list/copy_list_with_random_pointer.i
+
+# target to preprocess a source file
+linked_list/copy_list_with_random_pointer.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.i
+.PHONY : linked_list/copy_list_with_random_pointer.cpp.i
+
+linked_list/copy_list_with_random_pointer.s: linked_list/copy_list_with_random_pointer.cpp.s
+
+.PHONY : linked_list/copy_list_with_random_pointer.s
+
+# target to generate assembly for a file
+linked_list/copy_list_with_random_pointer.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.s
+.PHONY : linked_list/copy_list_with_random_pointer.cpp.s
 
 linked_list/palindrome_linked_list.o: linked_list/palindrome_linked_list.cpp.o
 
@@ -1824,6 +2067,33 @@ stack/basic_calculator_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator_2.cpp.s
 .PHONY : stack/basic_calculator_2.cpp.s
 
+stack/valid_parentheses.o: stack/valid_parentheses.cpp.o
+
+.PHONY : stack/valid_parentheses.o
+
+# target to build an object file
+stack/valid_parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o
+.PHONY : stack/valid_parentheses.cpp.o
+
+stack/valid_parentheses.i: stack/valid_parentheses.cpp.i
+
+.PHONY : stack/valid_parentheses.i
+
+# target to preprocess a source file
+stack/valid_parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.i
+.PHONY : stack/valid_parentheses.cpp.i
+
+stack/valid_parentheses.s: stack/valid_parentheses.cpp.s
+
+.PHONY : stack/valid_parentheses.s
+
+# target to generate assembly for a file
+stack/valid_parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.s
+.PHONY : stack/valid_parentheses.cpp.s
+
 string/flip_game.o: string/flip_game.cpp.o
 
 .PHONY : string/flip_game.o
@@ -1877,6 +2147,33 @@ string/integer_to_english_words.s: string/integer_to_english_words.cpp.s
 string/integer_to_english_words.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/integer_to_english_words.cpp.s
 .PHONY : string/integer_to_english_words.cpp.s
+
+string/longest_palindromic_substring.o: string/longest_palindromic_substring.cpp.o
+
+.PHONY : string/longest_palindromic_substring.o
+
+# target to build an object file
+string/longest_palindromic_substring.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o
+.PHONY : string/longest_palindromic_substring.cpp.o
+
+string/longest_palindromic_substring.i: string/longest_palindromic_substring.cpp.i
+
+.PHONY : string/longest_palindromic_substring.i
+
+# target to preprocess a source file
+string/longest_palindromic_substring.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.i
+.PHONY : string/longest_palindromic_substring.cpp.i
+
+string/longest_palindromic_substring.s: string/longest_palindromic_substring.cpp.s
+
+.PHONY : string/longest_palindromic_substring.s
+
+# target to generate assembly for a file
+string/longest_palindromic_substring.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.s
+.PHONY : string/longest_palindromic_substring.cpp.s
 
 topological_sort/alien_dictionary.o: topological_sort/alien_dictionary.cpp.o
 
@@ -2262,6 +2559,9 @@ help:
 	@echo "... array/product_of_array_except_self.o"
 	@echo "... array/product_of_array_except_self.i"
 	@echo "... array/product_of_array_except_self.s"
+	@echo "... array/rotate_image.o"
+	@echo "... array/rotate_image.i"
+	@echo "... array/rotate_image.s"
 	@echo "... array/shortest_word_distance.o"
 	@echo "... array/shortest_word_distance.i"
 	@echo "... array/shortest_word_distance.s"
@@ -2274,6 +2574,9 @@ help:
 	@echo "... array/summary_ranges.o"
 	@echo "... array/summary_ranges.i"
 	@echo "... array/summary_ranges.s"
+	@echo "... array/two_sum_2_input_array_is_sorted.o"
+	@echo "... array/two_sum_2_input_array_is_sorted.i"
+	@echo "... array/two_sum_2_input_array_is_sorted.s"
 	@echo "... array/wiggle_sort.o"
 	@echo "... array/wiggle_sort.i"
 	@echo "... array/wiggle_sort.s"
@@ -2286,9 +2589,6 @@ help:
 	@echo "... backtracking/word_pattern_2.o"
 	@echo "... backtracking/word_pattern_2.i"
 	@echo "... backtracking/word_pattern_2.s"
-	@echo "... bfs/walls_and_gates.o"
-	@echo "... bfs/walls_and_gates.i"
-	@echo "... bfs/walls_and_gates.s"
 	@echo "... binary_search/first_bad_version.o"
 	@echo "... binary_search/first_bad_version.i"
 	@echo "... binary_search/first_bad_version.s"
@@ -2310,12 +2610,27 @@ help:
 	@echo "... design/implement_stack_using_queues.o"
 	@echo "... design/implement_stack_using_queues.i"
 	@echo "... design/implement_stack_using_queues.s"
+	@echo "... design/lfu_cache.o"
+	@echo "... design/lfu_cache.i"
+	@echo "... design/lfu_cache.s"
+	@echo "... design/lru_cache.o"
+	@echo "... design/lru_cache.i"
+	@echo "... design/lru_cache.s"
 	@echo "... design/peeking_iterator.o"
 	@echo "... design/peeking_iterator.i"
 	@echo "... design/peeking_iterator.s"
+	@echo "... design/two_sum_3_data_structure_design.o"
+	@echo "... design/two_sum_3_data_structure_design.i"
+	@echo "... design/two_sum_3_data_structure_design.s"
 	@echo "... design/zigzag_iterator.o"
 	@echo "... design/zigzag_iterator.i"
 	@echo "... design/zigzag_iterator.s"
+	@echo "... dfs_bfs/number_of_islands.o"
+	@echo "... dfs_bfs/number_of_islands.i"
+	@echo "... dfs_bfs/number_of_islands.s"
+	@echo "... dfs_bfs/walls_and_gates.o"
+	@echo "... dfs_bfs/walls_and_gates.i"
+	@echo "... dfs_bfs/walls_and_gates.s"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.o"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.i"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.s"
@@ -2355,6 +2670,9 @@ help:
 	@echo "... hash_table/contains_duplicate_3.o"
 	@echo "... hash_table/contains_duplicate_3.i"
 	@echo "... hash_table/contains_duplicate_3.s"
+	@echo "... hash_table/find_all_anagrams_in_a_string.o"
+	@echo "... hash_table/find_all_anagrams_in_a_string.i"
+	@echo "... hash_table/find_all_anagrams_in_a_string.s"
 	@echo "... hash_table/h_index.o"
 	@echo "... hash_table/h_index.i"
 	@echo "... hash_table/h_index.s"
@@ -2367,6 +2685,9 @@ help:
 	@echo "... hash_table/strobogrammatic_number.o"
 	@echo "... hash_table/strobogrammatic_number.i"
 	@echo "... hash_table/strobogrammatic_number.s"
+	@echo "... hash_table/two_sum.o"
+	@echo "... hash_table/two_sum.i"
+	@echo "... hash_table/two_sum.s"
 	@echo "... hash_table/unique_word_abbreviation.o"
 	@echo "... hash_table/unique_word_abbreviation.i"
 	@echo "... hash_table/unique_word_abbreviation.s"
@@ -2379,6 +2700,9 @@ help:
 	@echo "... heap/find_median_from_data_stream.o"
 	@echo "... heap/find_median_from_data_stream.i"
 	@echo "... heap/find_median_from_data_stream.s"
+	@echo "... linked_list/copy_list_with_random_pointer.o"
+	@echo "... linked_list/copy_list_with_random_pointer.i"
+	@echo "... linked_list/copy_list_with_random_pointer.s"
 	@echo "... linked_list/palindrome_linked_list.o"
 	@echo "... linked_list/palindrome_linked_list.i"
 	@echo "... linked_list/palindrome_linked_list.s"
@@ -2427,12 +2751,18 @@ help:
 	@echo "... stack/basic_calculator_2.o"
 	@echo "... stack/basic_calculator_2.i"
 	@echo "... stack/basic_calculator_2.s"
+	@echo "... stack/valid_parentheses.o"
+	@echo "... stack/valid_parentheses.i"
+	@echo "... stack/valid_parentheses.s"
 	@echo "... string/flip_game.o"
 	@echo "... string/flip_game.i"
 	@echo "... string/flip_game.s"
 	@echo "... string/integer_to_english_words.o"
 	@echo "... string/integer_to_english_words.i"
 	@echo "... string/integer_to_english_words.s"
+	@echo "... string/longest_palindromic_substring.o"
+	@echo "... string/longest_palindromic_substring.i"
+	@echo "... string/longest_palindromic_substring.s"
 	@echo "... topological_sort/alien_dictionary.o"
 	@echo "... topological_sort/alien_dictionary.i"
 	@echo "... topological_sort/alien_dictionary.s"

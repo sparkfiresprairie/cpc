@@ -2,8 +2,8 @@
 // Created by Xingyuan Wang on 3/9/17.
 //
 
-#ifndef CPC_BFS_H
-#define CPC_BFS_H
+#ifndef CPC_DFS_BFS_H
+#define CPC_DFS_BFS_H
 
 #include <iostream>
 #include <vector>
@@ -107,4 +107,4 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-#endif //CPC_BFS_H
+#endif //CPC_DFS_BFS_H

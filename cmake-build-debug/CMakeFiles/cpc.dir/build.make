@@ -1593,28 +1593,28 @@ CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.o.provides: CMakeFiles/cpc.
 CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.o
 
 
-CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o: CMakeFiles/cpc.dir/flags.make
-CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o: ../bfs/walls_and_gates.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/bfs/walls_and_gates.cpp
+CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o: ../dfs_bfs/walls_and_gates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_65) "Building CXX object CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/walls_and_gates.cpp
 
-CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/bfs/walls_and_gates.cpp > CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.i
+CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/walls_and_gates.cpp > CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.i
 
-CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/bfs/walls_and_gates.cpp -o CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.s
+CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/walls_and_gates.cpp -o CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.s
 
-CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.requires:
+CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.requires:
 
-.PHONY : CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.requires
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.requires
 
-CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.provides: CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.requires
-	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.provides.build
-.PHONY : CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.provides
+CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.provides: CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.provides
 
-CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.provides.build: CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o
+CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o
 
 
 CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.o: CMakeFiles/cpc.dir/flags.make
@@ -1929,6 +1929,270 @@ CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.provides:
 CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o
 
 
+CMakeFiles/cpc.dir/design/lru_cache.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/lru_cache.cpp.o: ../design/lru_cache.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Building CXX object CMakeFiles/cpc.dir/design/lru_cache.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/lru_cache.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/lru_cache.cpp
+
+CMakeFiles/cpc.dir/design/lru_cache.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/lru_cache.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/lru_cache.cpp > CMakeFiles/cpc.dir/design/lru_cache.cpp.i
+
+CMakeFiles/cpc.dir/design/lru_cache.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/lru_cache.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/lru_cache.cpp -o CMakeFiles/cpc.dir/design/lru_cache.cpp.s
+
+CMakeFiles/cpc.dir/design/lru_cache.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/lru_cache.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/lru_cache.cpp.o.provides: CMakeFiles/cpc.dir/design/lru_cache.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lru_cache.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/lru_cache.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/lru_cache.cpp.o.provides.build: CMakeFiles/cpc.dir/design/lru_cache.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o: ../hash_table/two_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_80) "Building CXX object CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/two_sum.cpp
+
+CMakeFiles/cpc.dir/hash_table/two_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/two_sum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/two_sum.cpp > CMakeFiles/cpc.dir/hash_table/two_sum.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/two_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/two_sum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/two_sum.cpp -o CMakeFiles/cpc.dir/hash_table/two_sum.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o
+
+
+CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o: ../array/two_sum_2_input_array_is_sorted.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_81) "Building CXX object CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/two_sum_2_input_array_is_sorted.cpp
+
+CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/two_sum_2_input_array_is_sorted.cpp > CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.i
+
+CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/two_sum_2_input_array_is_sorted.cpp -o CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.s
+
+CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.provides: CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.provides.build: CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o
+
+
+CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o: ../design/two_sum_3_data_structure_design.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_82) "Building CXX object CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/two_sum_3_data_structure_design.cpp
+
+CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/two_sum_3_data_structure_design.cpp > CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.i
+
+CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/two_sum_3_data_structure_design.cpp -o CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.s
+
+CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.provides: CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.provides.build: CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o
+
+
+CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o: ../dfs_bfs/number_of_islands.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_83) "Building CXX object CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/number_of_islands.cpp
+
+CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/number_of_islands.cpp > CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.i
+
+CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/number_of_islands.cpp -o CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.s
+
+CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.requires
+
+CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.provides: CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.provides
+
+CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o
+
+
+CMakeFiles/cpc.dir/design/lfu_cache.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/lfu_cache.cpp.o: ../design/lfu_cache.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_84) "Building CXX object CMakeFiles/cpc.dir/design/lfu_cache.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/lfu_cache.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/lfu_cache.cpp
+
+CMakeFiles/cpc.dir/design/lfu_cache.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/lfu_cache.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/lfu_cache.cpp > CMakeFiles/cpc.dir/design/lfu_cache.cpp.i
+
+CMakeFiles/cpc.dir/design/lfu_cache.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/lfu_cache.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/lfu_cache.cpp -o CMakeFiles/cpc.dir/design/lfu_cache.cpp.s
+
+CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.provides: CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.provides.build: CMakeFiles/cpc.dir/design/lfu_cache.cpp.o
+
+
+CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o: ../stack/valid_parentheses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_85) "Building CXX object CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/stack/valid_parentheses.cpp
+
+CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/stack/valid_parentheses.cpp > CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.i
+
+CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/stack/valid_parentheses.cpp -o CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.s
+
+CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.requires
+
+CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.provides: CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.provides
+
+CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.provides.build: CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o
+
+
+CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o: ../linked_list/copy_list_with_random_pointer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_86) "Building CXX object CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/linked_list/copy_list_with_random_pointer.cpp
+
+CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/linked_list/copy_list_with_random_pointer.cpp > CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.i
+
+CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/linked_list/copy_list_with_random_pointer.cpp -o CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.s
+
+CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.requires
+
+CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.provides: CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.provides
+
+CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.provides.build: CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o
+
+
+CMakeFiles/cpc.dir/array/rotate_image.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/rotate_image.cpp.o: ../array/rotate_image.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_87) "Building CXX object CMakeFiles/cpc.dir/array/rotate_image.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/rotate_image.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/rotate_image.cpp
+
+CMakeFiles/cpc.dir/array/rotate_image.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/rotate_image.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/rotate_image.cpp > CMakeFiles/cpc.dir/array/rotate_image.cpp.i
+
+CMakeFiles/cpc.dir/array/rotate_image.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/rotate_image.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/rotate_image.cpp -o CMakeFiles/cpc.dir/array/rotate_image.cpp.s
+
+CMakeFiles/cpc.dir/array/rotate_image.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/rotate_image.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/rotate_image.cpp.o.provides: CMakeFiles/cpc.dir/array/rotate_image.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/rotate_image.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/rotate_image.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/rotate_image.cpp.o.provides.build: CMakeFiles/cpc.dir/array/rotate_image.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o: ../hash_table/find_all_anagrams_in_a_string.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_88) "Building CXX object CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/find_all_anagrams_in_a_string.cpp
+
+CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/find_all_anagrams_in_a_string.cpp > CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/find_all_anagrams_in_a_string.cpp -o CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o
+
+
+CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o: ../string/longest_palindromic_substring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_89) "Building CXX object CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/string/longest_palindromic_substring.cpp
+
+CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/string/longest_palindromic_substring.cpp > CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.i
+
+CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/string/longest_palindromic_substring.cpp -o CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.s
+
+CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.requires
+
+CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.provides: CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.provides
+
+CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.provides.build: CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -1995,7 +2259,7 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.o" \
 "CMakeFiles/cpc.dir/design/peeking_iterator.cpp.o" \
 "CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.o" \
-"CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o" \
+"CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o" \
 "CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.o" \
 "CMakeFiles/cpc.dir/hash_table/unique_word_abbreviation.cpp.o" \
 "CMakeFiles/cpc.dir/array/game_of_life.cpp.o" \
@@ -2008,7 +2272,18 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o" \
 "CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o" \
 "CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o" \
-"CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o"
+"CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o" \
+"CMakeFiles/cpc.dir/design/lru_cache.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o" \
+"CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o" \
+"CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o" \
+"CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o" \
+"CMakeFiles/cpc.dir/design/lfu_cache.cpp.o" \
+"CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o" \
+"CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o" \
+"CMakeFiles/cpc.dir/array/rotate_image.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o" \
+"CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -2077,7 +2352,7 @@ cpc: CMakeFiles/cpc.dir/array/move_zeroes.cpp.o
 cpc: CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.o
 cpc: CMakeFiles/cpc.dir/design/peeking_iterator.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.o
-cpc: CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o
+cpc: CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o
 cpc: CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.o
 cpc: CMakeFiles/cpc.dir/hash_table/unique_word_abbreviation.cpp.o
 cpc: CMakeFiles/cpc.dir/array/game_of_life.cpp.o
@@ -2091,9 +2366,20 @@ cpc: CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.o
 cpc: CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o
 cpc: CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o
+cpc: CMakeFiles/cpc.dir/design/lru_cache.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o
+cpc: CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o
+cpc: CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o
+cpc: CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o
+cpc: CMakeFiles/cpc.dir/design/lfu_cache.cpp.o
+cpc: CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o
+cpc: CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o
+cpc: CMakeFiles/cpc.dir/array/rotate_image.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o
+cpc: CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_79) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_90) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -2165,7 +2451,7 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/move_zeroes.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/peeking_iterator.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/inorder_successor_in_bst.cpp.o.requires
-CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/bfs/walls_and_gates.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/unique_word_abbreviation.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/game_of_life.cpp.o.requires
@@ -2179,6 +2465,17 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/best_meeting_point.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/lru_cache.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/two_sum.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/two_sum_2_input_array_is_sorted.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/two_sum_3_data_structure_design.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/lfu_cache.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/rotate_image.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

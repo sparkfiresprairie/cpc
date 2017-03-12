@@ -107,6 +107,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/product_of_array_except_self.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/rotate_image.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/shortest_word_distance.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -117,6 +120,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/summary_ranges.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/two_sum_2_input_array_is_sorted.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/wiggle_sort.cpp">
@@ -132,12 +138,6 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/backtracking/word_pattern_2.cpp">
-			<Option target="cpc"/>
-		</Unit>
-		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bfs/BFS.h">
-			<Option target="cpc"/>
-		</Unit>
-		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bfs/walls_and_gates.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/BinarySearch.h">
@@ -173,10 +173,28 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/implement_stack_using_queues.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/lfu_cache.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/lru_cache.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/peeking_iterator.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/two_sum_3_data_structure_design.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/zigzag_iterator.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/DFSBFS.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/number_of_islands.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/walls_and_gates.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/DivideAndConquer.h">
@@ -227,6 +245,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/contains_duplicate_3.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/find_all_anagrams_in_a_string.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/h_index.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -237,6 +258,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/strobogrammatic_number.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/two_sum.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/unique_word_abbreviation.cpp">
@@ -255,6 +279,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/LinkedList.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/copy_list_with_random_pointer.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/palindrome_linked_list.cpp">
@@ -317,6 +344,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/stack/basic_calculator_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/stack/valid_parentheses.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/String.h">
 			<Option target="cpc"/>
 		</Unit>
@@ -324,6 +354,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/integer_to_english_words.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/longest_palindromic_substring.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/topological_sort/TopologicalSort.h">
