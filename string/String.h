@@ -40,6 +40,7 @@ using std::deque;
 using std::multiset;
 using std::stack;
 using std::ifstream;
+using std::istringstream
 
 // Definitions
 struct ListNode {

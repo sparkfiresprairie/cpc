@@ -123,6 +123,33 @@ cpc/fast:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/build
 .PHONY : cpc/fast
 
+array/3sum.o: array/3sum.cpp.o
+
+.PHONY : array/3sum.o
+
+# target to build an object file
+array/3sum.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum.cpp.o
+.PHONY : array/3sum.cpp.o
+
+array/3sum.i: array/3sum.cpp.i
+
+.PHONY : array/3sum.i
+
+# target to preprocess a source file
+array/3sum.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum.cpp.i
+.PHONY : array/3sum.cpp.i
+
+array/3sum.s: array/3sum.cpp.s
+
+.PHONY : array/3sum.s
+
+# target to generate assembly for a file
+array/3sum.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum.cpp.s
+.PHONY : array/3sum.cpp.s
+
 array/3sum_smaller.o: array/3sum_smaller.cpp.o
 
 .PHONY : array/3sum_smaller.o
@@ -231,6 +258,33 @@ array/find_the_duplicate_number.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/find_the_duplicate_number.cpp.s
 .PHONY : array/find_the_duplicate_number.cpp.s
 
+array/fizz_buzz.o: array/fizz_buzz.cpp.o
+
+.PHONY : array/fizz_buzz.o
+
+# target to build an object file
+array/fizz_buzz.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/fizz_buzz.cpp.o
+.PHONY : array/fizz_buzz.cpp.o
+
+array/fizz_buzz.i: array/fizz_buzz.cpp.i
+
+.PHONY : array/fizz_buzz.i
+
+# target to preprocess a source file
+array/fizz_buzz.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/fizz_buzz.cpp.i
+.PHONY : array/fizz_buzz.cpp.i
+
+array/fizz_buzz.s: array/fizz_buzz.cpp.s
+
+.PHONY : array/fizz_buzz.s
+
+# target to generate assembly for a file
+array/fizz_buzz.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/fizz_buzz.cpp.s
+.PHONY : array/fizz_buzz.cpp.s
+
 array/game_of_life.o: array/game_of_life.cpp.o
 
 .PHONY : array/game_of_life.o
@@ -284,6 +338,33 @@ array/kth_largest_element_in_an_array.s: array/kth_largest_element_in_an_array.c
 array/kth_largest_element_in_an_array.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/kth_largest_element_in_an_array.cpp.s
 .PHONY : array/kth_largest_element_in_an_array.cpp.s
+
+array/majority_element.o: array/majority_element.cpp.o
+
+.PHONY : array/majority_element.o
+
+# target to build an object file
+array/majority_element.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/majority_element.cpp.o
+.PHONY : array/majority_element.cpp.o
+
+array/majority_element.i: array/majority_element.cpp.i
+
+.PHONY : array/majority_element.i
+
+# target to preprocess a source file
+array/majority_element.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/majority_element.cpp.i
+.PHONY : array/majority_element.cpp.i
+
+array/majority_element.s: array/majority_element.cpp.s
+
+.PHONY : array/majority_element.s
+
+# target to generate assembly for a file
+array/majority_element.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/majority_element.cpp.s
+.PHONY : array/majority_element.cpp.s
 
 array/majority_element_2.o: array/majority_element_2.cpp.o
 
@@ -825,6 +906,33 @@ design/flatten_2d_vector.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.s
 .PHONY : design/flatten_2d_vector.cpp.s
 
+design/flatten_nested_list_iterator.o: design/flatten_nested_list_iterator.cpp.o
+
+.PHONY : design/flatten_nested_list_iterator.o
+
+# target to build an object file
+design/flatten_nested_list_iterator.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_nested_list_iterator.cpp.o
+.PHONY : design/flatten_nested_list_iterator.cpp.o
+
+design/flatten_nested_list_iterator.i: design/flatten_nested_list_iterator.cpp.i
+
+.PHONY : design/flatten_nested_list_iterator.i
+
+# target to preprocess a source file
+design/flatten_nested_list_iterator.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_nested_list_iterator.cpp.i
+.PHONY : design/flatten_nested_list_iterator.cpp.i
+
+design/flatten_nested_list_iterator.s: design/flatten_nested_list_iterator.cpp.s
+
+.PHONY : design/flatten_nested_list_iterator.s
+
+# target to generate assembly for a file
+design/flatten_nested_list_iterator.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/flatten_nested_list_iterator.cpp.s
+.PHONY : design/flatten_nested_list_iterator.cpp.s
+
 design/implement_queue_using_stacks.o: design/implement_queue_using_stacks.cpp.o
 
 .PHONY : design/implement_queue_using_stacks.o
@@ -1013,6 +1121,33 @@ design/peeking_iterator.s: design/peeking_iterator.cpp.s
 design/peeking_iterator.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/peeking_iterator.cpp.s
 .PHONY : design/peeking_iterator.cpp.s
+
+design/shuffle_an_array.o: design/shuffle_an_array.cpp.o
+
+.PHONY : design/shuffle_an_array.o
+
+# target to build an object file
+design/shuffle_an_array.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/shuffle_an_array.cpp.o
+.PHONY : design/shuffle_an_array.cpp.o
+
+design/shuffle_an_array.i: design/shuffle_an_array.cpp.i
+
+.PHONY : design/shuffle_an_array.i
+
+# target to preprocess a source file
+design/shuffle_an_array.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/shuffle_an_array.cpp.i
+.PHONY : design/shuffle_an_array.cpp.i
+
+design/shuffle_an_array.s: design/shuffle_an_array.cpp.s
+
+.PHONY : design/shuffle_an_array.s
+
+# target to generate assembly for a file
+design/shuffle_an_array.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/shuffle_an_array.cpp.s
+.PHONY : design/shuffle_an_array.cpp.s
 
 design/two_sum_3_data_structure_design.o: design/two_sum_3_data_structure_design.cpp.o
 
@@ -1229,6 +1364,33 @@ divide_and_conquer/expression_add_operators.s: divide_and_conquer/expression_add
 divide_and_conquer/expression_add_operators.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.s
 .PHONY : divide_and_conquer/expression_add_operators.cpp.s
+
+dynamic_programming/edit_distance.o: dynamic_programming/edit_distance.cpp.o
+
+.PHONY : dynamic_programming/edit_distance.o
+
+# target to build an object file
+dynamic_programming/edit_distance.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/edit_distance.cpp.o
+.PHONY : dynamic_programming/edit_distance.cpp.o
+
+dynamic_programming/edit_distance.i: dynamic_programming/edit_distance.cpp.i
+
+.PHONY : dynamic_programming/edit_distance.i
+
+# target to preprocess a source file
+dynamic_programming/edit_distance.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/edit_distance.cpp.i
+.PHONY : dynamic_programming/edit_distance.cpp.i
+
+dynamic_programming/edit_distance.s: dynamic_programming/edit_distance.cpp.s
+
+.PHONY : dynamic_programming/edit_distance.s
+
+# target to generate assembly for a file
+dynamic_programming/edit_distance.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/edit_distance.cpp.s
+.PHONY : dynamic_programming/edit_distance.cpp.s
 
 dynamic_programming/flip_game_2.o: dynamic_programming/flip_game_2.cpp.o
 
@@ -2337,6 +2499,33 @@ recursion/strobogrammatic_number_3.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/recursion/strobogrammatic_number_3.cpp.s
 .PHONY : recursion/strobogrammatic_number_3.cpp.s
 
+sort/insert_interval.o: sort/insert_interval.cpp.o
+
+.PHONY : sort/insert_interval.o
+
+# target to build an object file
+sort/insert_interval.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/insert_interval.cpp.o
+.PHONY : sort/insert_interval.cpp.o
+
+sort/insert_interval.i: sort/insert_interval.cpp.i
+
+.PHONY : sort/insert_interval.i
+
+# target to preprocess a source file
+sort/insert_interval.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/insert_interval.cpp.i
+.PHONY : sort/insert_interval.cpp.i
+
+sort/insert_interval.s: sort/insert_interval.cpp.s
+
+.PHONY : sort/insert_interval.s
+
+# target to generate assembly for a file
+sort/insert_interval.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/insert_interval.cpp.s
+.PHONY : sort/insert_interval.cpp.s
+
 sort/meeting_rooms.o: sort/meeting_rooms.cpp.o
 
 .PHONY : sort/meeting_rooms.o
@@ -2553,6 +2742,33 @@ string/longest_palindromic_substring.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/longest_palindromic_substring.cpp.s
 .PHONY : string/longest_palindromic_substring.cpp.s
 
+string/reverse_words_in_a_string.o: string/reverse_words_in_a_string.cpp.o
+
+.PHONY : string/reverse_words_in_a_string.o
+
+# target to build an object file
+string/reverse_words_in_a_string.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_words_in_a_string.cpp.o
+.PHONY : string/reverse_words_in_a_string.cpp.o
+
+string/reverse_words_in_a_string.i: string/reverse_words_in_a_string.cpp.i
+
+.PHONY : string/reverse_words_in_a_string.i
+
+# target to preprocess a source file
+string/reverse_words_in_a_string.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_words_in_a_string.cpp.i
+.PHONY : string/reverse_words_in_a_string.cpp.i
+
+string/reverse_words_in_a_string.s: string/reverse_words_in_a_string.cpp.s
+
+.PHONY : string/reverse_words_in_a_string.s
+
+# target to generate assembly for a file
+string/reverse_words_in_a_string.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_words_in_a_string.cpp.s
+.PHONY : string/reverse_words_in_a_string.cpp.s
+
 topological_sort/alien_dictionary.o: topological_sort/alien_dictionary.cpp.o
 
 .PHONY : topological_sort/alien_dictionary.o
@@ -2579,6 +2795,33 @@ topological_sort/alien_dictionary.s: topological_sort/alien_dictionary.cpp.s
 topological_sort/alien_dictionary.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/alien_dictionary.cpp.s
 .PHONY : topological_sort/alien_dictionary.cpp.s
+
+topological_sort/course_schedule.o: topological_sort/course_schedule.cpp.o
+
+.PHONY : topological_sort/course_schedule.o
+
+# target to build an object file
+topological_sort/course_schedule.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/course_schedule.cpp.o
+.PHONY : topological_sort/course_schedule.cpp.o
+
+topological_sort/course_schedule.i: topological_sort/course_schedule.cpp.i
+
+.PHONY : topological_sort/course_schedule.i
+
+# target to preprocess a source file
+topological_sort/course_schedule.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/course_schedule.cpp.i
+.PHONY : topological_sort/course_schedule.cpp.i
+
+topological_sort/course_schedule.s: topological_sort/course_schedule.cpp.s
+
+.PHONY : topological_sort/course_schedule.s
+
+# target to generate assembly for a file
+topological_sort/course_schedule.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/course_schedule.cpp.s
+.PHONY : topological_sort/course_schedule.cpp.s
 
 tree/binary_tree_longest_consecutive_sequence.o: tree/binary_tree_longest_consecutive_sequence.cpp.o
 
@@ -2607,6 +2850,33 @@ tree/binary_tree_longest_consecutive_sequence.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_longest_consecutive_sequence.cpp.s
 .PHONY : tree/binary_tree_longest_consecutive_sequence.cpp.s
 
+tree/binary_tree_maximum_path_sum.o: tree/binary_tree_maximum_path_sum.cpp.o
+
+.PHONY : tree/binary_tree_maximum_path_sum.o
+
+# target to build an object file
+tree/binary_tree_maximum_path_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_maximum_path_sum.cpp.o
+.PHONY : tree/binary_tree_maximum_path_sum.cpp.o
+
+tree/binary_tree_maximum_path_sum.i: tree/binary_tree_maximum_path_sum.cpp.i
+
+.PHONY : tree/binary_tree_maximum_path_sum.i
+
+# target to preprocess a source file
+tree/binary_tree_maximum_path_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_maximum_path_sum.cpp.i
+.PHONY : tree/binary_tree_maximum_path_sum.cpp.i
+
+tree/binary_tree_maximum_path_sum.s: tree/binary_tree_maximum_path_sum.cpp.s
+
+.PHONY : tree/binary_tree_maximum_path_sum.s
+
+# target to generate assembly for a file
+tree/binary_tree_maximum_path_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_maximum_path_sum.cpp.s
+.PHONY : tree/binary_tree_maximum_path_sum.cpp.s
+
 tree/binary_tree_path.o: tree/binary_tree_path.cpp.o
 
 .PHONY : tree/binary_tree_path.o
@@ -2633,6 +2903,60 @@ tree/binary_tree_path.s: tree/binary_tree_path.cpp.s
 tree/binary_tree_path.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_path.cpp.s
 .PHONY : tree/binary_tree_path.cpp.s
+
+tree/binary_tree_right_side_view.o: tree/binary_tree_right_side_view.cpp.o
+
+.PHONY : tree/binary_tree_right_side_view.o
+
+# target to build an object file
+tree/binary_tree_right_side_view.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_right_side_view.cpp.o
+.PHONY : tree/binary_tree_right_side_view.cpp.o
+
+tree/binary_tree_right_side_view.i: tree/binary_tree_right_side_view.cpp.i
+
+.PHONY : tree/binary_tree_right_side_view.i
+
+# target to preprocess a source file
+tree/binary_tree_right_side_view.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_right_side_view.cpp.i
+.PHONY : tree/binary_tree_right_side_view.cpp.i
+
+tree/binary_tree_right_side_view.s: tree/binary_tree_right_side_view.cpp.s
+
+.PHONY : tree/binary_tree_right_side_view.s
+
+# target to generate assembly for a file
+tree/binary_tree_right_side_view.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_right_side_view.cpp.s
+.PHONY : tree/binary_tree_right_side_view.cpp.s
+
+tree/binary_tree_zigzag_level_order_traversal.o: tree/binary_tree_zigzag_level_order_traversal.cpp.o
+
+.PHONY : tree/binary_tree_zigzag_level_order_traversal.o
+
+# target to build an object file
+tree/binary_tree_zigzag_level_order_traversal.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_zigzag_level_order_traversal.cpp.o
+.PHONY : tree/binary_tree_zigzag_level_order_traversal.cpp.o
+
+tree/binary_tree_zigzag_level_order_traversal.i: tree/binary_tree_zigzag_level_order_traversal.cpp.i
+
+.PHONY : tree/binary_tree_zigzag_level_order_traversal.i
+
+# target to preprocess a source file
+tree/binary_tree_zigzag_level_order_traversal.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_zigzag_level_order_traversal.cpp.i
+.PHONY : tree/binary_tree_zigzag_level_order_traversal.cpp.i
+
+tree/binary_tree_zigzag_level_order_traversal.s: tree/binary_tree_zigzag_level_order_traversal.cpp.s
+
+.PHONY : tree/binary_tree_zigzag_level_order_traversal.s
+
+# target to generate assembly for a file
+tree/binary_tree_zigzag_level_order_traversal.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_zigzag_level_order_traversal.cpp.s
+.PHONY : tree/binary_tree_zigzag_level_order_traversal.cpp.s
 
 tree/closest_binary_search_tree_value.o: tree/closest_binary_search_tree_value.cpp.o
 
@@ -2687,6 +3011,33 @@ tree/count_complete_tree_nodes.s: tree/count_complete_tree_nodes.cpp.s
 tree/count_complete_tree_nodes.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/count_complete_tree_nodes.cpp.s
 .PHONY : tree/count_complete_tree_nodes.cpp.s
+
+tree/distance_between_two_nodes_in_binary_tree.o: tree/distance_between_two_nodes_in_binary_tree.cpp.o
+
+.PHONY : tree/distance_between_two_nodes_in_binary_tree.o
+
+# target to build an object file
+tree/distance_between_two_nodes_in_binary_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o
+.PHONY : tree/distance_between_two_nodes_in_binary_tree.cpp.o
+
+tree/distance_between_two_nodes_in_binary_tree.i: tree/distance_between_two_nodes_in_binary_tree.cpp.i
+
+.PHONY : tree/distance_between_two_nodes_in_binary_tree.i
+
+# target to preprocess a source file
+tree/distance_between_two_nodes_in_binary_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.i
+.PHONY : tree/distance_between_two_nodes_in_binary_tree.cpp.i
+
+tree/distance_between_two_nodes_in_binary_tree.s: tree/distance_between_two_nodes_in_binary_tree.cpp.s
+
+.PHONY : tree/distance_between_two_nodes_in_binary_tree.s
+
+# target to generate assembly for a file
+tree/distance_between_two_nodes_in_binary_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.s
+.PHONY : tree/distance_between_two_nodes_in_binary_tree.cpp.s
 
 tree/inorder_successor_in_bst.o: tree/inorder_successor_in_bst.cpp.o
 
@@ -2913,6 +3264,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... cpc"
+	@echo "... array/3sum.o"
+	@echo "... array/3sum.i"
+	@echo "... array/3sum.s"
 	@echo "... array/3sum_smaller.o"
 	@echo "... array/3sum_smaller.i"
 	@echo "... array/3sum_smaller.s"
@@ -2925,12 +3279,18 @@ help:
 	@echo "... array/find_the_duplicate_number.o"
 	@echo "... array/find_the_duplicate_number.i"
 	@echo "... array/find_the_duplicate_number.s"
+	@echo "... array/fizz_buzz.o"
+	@echo "... array/fizz_buzz.i"
+	@echo "... array/fizz_buzz.s"
 	@echo "... array/game_of_life.o"
 	@echo "... array/game_of_life.i"
 	@echo "... array/game_of_life.s"
 	@echo "... array/kth_largest_element_in_an_array.o"
 	@echo "... array/kth_largest_element_in_an_array.i"
 	@echo "... array/kth_largest_element_in_an_array.s"
+	@echo "... array/majority_element.o"
+	@echo "... array/majority_element.i"
+	@echo "... array/majority_element.s"
 	@echo "... array/majority_element_2.o"
 	@echo "... array/majority_element_2.i"
 	@echo "... array/majority_element_2.s"
@@ -2991,6 +3351,9 @@ help:
 	@echo "... design/flatten_2d_vector.o"
 	@echo "... design/flatten_2d_vector.i"
 	@echo "... design/flatten_2d_vector.s"
+	@echo "... design/flatten_nested_list_iterator.o"
+	@echo "... design/flatten_nested_list_iterator.i"
+	@echo "... design/flatten_nested_list_iterator.s"
 	@echo "... design/implement_queue_using_stacks.o"
 	@echo "... design/implement_queue_using_stacks.i"
 	@echo "... design/implement_queue_using_stacks.s"
@@ -3012,6 +3375,9 @@ help:
 	@echo "... design/peeking_iterator.o"
 	@echo "... design/peeking_iterator.i"
 	@echo "... design/peeking_iterator.s"
+	@echo "... design/shuffle_an_array.o"
+	@echo "... design/shuffle_an_array.i"
+	@echo "... design/shuffle_an_array.s"
 	@echo "... design/two_sum_3_data_structure_design.o"
 	@echo "... design/two_sum_3_data_structure_design.i"
 	@echo "... design/two_sum_3_data_structure_design.s"
@@ -3036,6 +3402,9 @@ help:
 	@echo "... divide_and_conquer/expression_add_operators.o"
 	@echo "... divide_and_conquer/expression_add_operators.i"
 	@echo "... divide_and_conquer/expression_add_operators.s"
+	@echo "... dynamic_programming/edit_distance.o"
+	@echo "... dynamic_programming/edit_distance.i"
+	@echo "... dynamic_programming/edit_distance.s"
 	@echo "... dynamic_programming/flip_game_2.o"
 	@echo "... dynamic_programming/flip_game_2.i"
 	@echo "... dynamic_programming/flip_game_2.s"
@@ -3159,6 +3528,9 @@ help:
 	@echo "... recursion/strobogrammatic_number_3.o"
 	@echo "... recursion/strobogrammatic_number_3.i"
 	@echo "... recursion/strobogrammatic_number_3.s"
+	@echo "... sort/insert_interval.o"
+	@echo "... sort/insert_interval.i"
+	@echo "... sort/insert_interval.s"
 	@echo "... sort/meeting_rooms.o"
 	@echo "... sort/meeting_rooms.i"
 	@echo "... sort/meeting_rooms.s"
@@ -3183,21 +3555,39 @@ help:
 	@echo "... string/longest_palindromic_substring.o"
 	@echo "... string/longest_palindromic_substring.i"
 	@echo "... string/longest_palindromic_substring.s"
+	@echo "... string/reverse_words_in_a_string.o"
+	@echo "... string/reverse_words_in_a_string.i"
+	@echo "... string/reverse_words_in_a_string.s"
 	@echo "... topological_sort/alien_dictionary.o"
 	@echo "... topological_sort/alien_dictionary.i"
 	@echo "... topological_sort/alien_dictionary.s"
+	@echo "... topological_sort/course_schedule.o"
+	@echo "... topological_sort/course_schedule.i"
+	@echo "... topological_sort/course_schedule.s"
 	@echo "... tree/binary_tree_longest_consecutive_sequence.o"
 	@echo "... tree/binary_tree_longest_consecutive_sequence.i"
 	@echo "... tree/binary_tree_longest_consecutive_sequence.s"
+	@echo "... tree/binary_tree_maximum_path_sum.o"
+	@echo "... tree/binary_tree_maximum_path_sum.i"
+	@echo "... tree/binary_tree_maximum_path_sum.s"
 	@echo "... tree/binary_tree_path.o"
 	@echo "... tree/binary_tree_path.i"
 	@echo "... tree/binary_tree_path.s"
+	@echo "... tree/binary_tree_right_side_view.o"
+	@echo "... tree/binary_tree_right_side_view.i"
+	@echo "... tree/binary_tree_right_side_view.s"
+	@echo "... tree/binary_tree_zigzag_level_order_traversal.o"
+	@echo "... tree/binary_tree_zigzag_level_order_traversal.i"
+	@echo "... tree/binary_tree_zigzag_level_order_traversal.s"
 	@echo "... tree/closest_binary_search_tree_value.o"
 	@echo "... tree/closest_binary_search_tree_value.i"
 	@echo "... tree/closest_binary_search_tree_value.s"
 	@echo "... tree/count_complete_tree_nodes.o"
 	@echo "... tree/count_complete_tree_nodes.i"
 	@echo "... tree/count_complete_tree_nodes.s"
+	@echo "... tree/distance_between_two_nodes_in_binary_tree.o"
+	@echo "... tree/distance_between_two_nodes_in_binary_tree.i"
+	@echo "... tree/distance_between_two_nodes_in_binary_tree.s"
 	@echo "... tree/inorder_successor_in_bst.o"
 	@echo "... tree/inorder_successor_in_bst.i"
 	@echo "... tree/inorder_successor_in_bst.s"
