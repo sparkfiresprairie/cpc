@@ -150,6 +150,33 @@ array/3sum_smaller.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum_smaller.cpp.s
 .PHONY : array/3sum_smaller.cpp.s
 
+array/best_time_to_buy_and_sell_stock.o: array/best_time_to_buy_and_sell_stock.cpp.o
+
+.PHONY : array/best_time_to_buy_and_sell_stock.o
+
+# target to build an object file
+array/best_time_to_buy_and_sell_stock.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock.cpp.o
+.PHONY : array/best_time_to_buy_and_sell_stock.cpp.o
+
+array/best_time_to_buy_and_sell_stock.i: array/best_time_to_buy_and_sell_stock.cpp.i
+
+.PHONY : array/best_time_to_buy_and_sell_stock.i
+
+# target to preprocess a source file
+array/best_time_to_buy_and_sell_stock.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock.cpp.i
+.PHONY : array/best_time_to_buy_and_sell_stock.cpp.i
+
+array/best_time_to_buy_and_sell_stock.s: array/best_time_to_buy_and_sell_stock.cpp.s
+
+.PHONY : array/best_time_to_buy_and_sell_stock.s
+
+# target to generate assembly for a file
+array/best_time_to_buy_and_sell_stock.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock.cpp.s
+.PHONY : array/best_time_to_buy_and_sell_stock.cpp.s
+
 array/find_the_celebrity.o: array/find_the_celebrity.cpp.o
 
 .PHONY : array/find_the_celebrity.o
@@ -230,6 +257,33 @@ array/game_of_life.s: array/game_of_life.cpp.s
 array/game_of_life.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/game_of_life.cpp.s
 .PHONY : array/game_of_life.cpp.s
+
+array/kth_largest_element_in_an_array.o: array/kth_largest_element_in_an_array.cpp.o
+
+.PHONY : array/kth_largest_element_in_an_array.o
+
+# target to build an object file
+array/kth_largest_element_in_an_array.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/kth_largest_element_in_an_array.cpp.o
+.PHONY : array/kth_largest_element_in_an_array.cpp.o
+
+array/kth_largest_element_in_an_array.i: array/kth_largest_element_in_an_array.cpp.i
+
+.PHONY : array/kth_largest_element_in_an_array.i
+
+# target to preprocess a source file
+array/kth_largest_element_in_an_array.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/kth_largest_element_in_an_array.cpp.i
+.PHONY : array/kth_largest_element_in_an_array.cpp.i
+
+array/kth_largest_element_in_an_array.s: array/kth_largest_element_in_an_array.cpp.s
+
+.PHONY : array/kth_largest_element_in_an_array.s
+
+# target to generate assembly for a file
+array/kth_largest_element_in_an_array.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/kth_largest_element_in_an_array.cpp.s
+.PHONY : array/kth_largest_element_in_an_array.cpp.s
 
 array/majority_element_2.o: array/majority_element_2.cpp.o
 
@@ -473,6 +527,33 @@ array/summary_ranges.s: array/summary_ranges.cpp.s
 array/summary_ranges.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/summary_ranges.cpp.s
 .PHONY : array/summary_ranges.cpp.s
+
+array/trapping_rain_water.o: array/trapping_rain_water.cpp.o
+
+.PHONY : array/trapping_rain_water.o
+
+# target to build an object file
+array/trapping_rain_water.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/trapping_rain_water.cpp.o
+.PHONY : array/trapping_rain_water.cpp.o
+
+array/trapping_rain_water.i: array/trapping_rain_water.cpp.i
+
+.PHONY : array/trapping_rain_water.i
+
+# target to preprocess a source file
+array/trapping_rain_water.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/trapping_rain_water.cpp.i
+.PHONY : array/trapping_rain_water.cpp.i
+
+array/trapping_rain_water.s: array/trapping_rain_water.cpp.s
+
+.PHONY : array/trapping_rain_water.s
+
+# target to generate assembly for a file
+array/trapping_rain_water.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/trapping_rain_water.cpp.s
+.PHONY : array/trapping_rain_water.cpp.s
 
 array/two_sum_2_input_array_is_sorted.o: array/two_sum_2_input_array_is_sorted.cpp.o
 
@@ -798,6 +879,33 @@ design/implement_stack_using_queues.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/implement_stack_using_queues.cpp.s
 .PHONY : design/implement_stack_using_queues.cpp.s
 
+design/insert_delete_getrandom_o1.o: design/insert_delete_getrandom_o1.cpp.o
+
+.PHONY : design/insert_delete_getrandom_o1.o
+
+# target to build an object file
+design/insert_delete_getrandom_o1.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/insert_delete_getrandom_o1.cpp.o
+.PHONY : design/insert_delete_getrandom_o1.cpp.o
+
+design/insert_delete_getrandom_o1.i: design/insert_delete_getrandom_o1.cpp.i
+
+.PHONY : design/insert_delete_getrandom_o1.i
+
+# target to preprocess a source file
+design/insert_delete_getrandom_o1.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/insert_delete_getrandom_o1.cpp.i
+.PHONY : design/insert_delete_getrandom_o1.cpp.i
+
+design/insert_delete_getrandom_o1.s: design/insert_delete_getrandom_o1.cpp.s
+
+.PHONY : design/insert_delete_getrandom_o1.s
+
+# target to generate assembly for a file
+design/insert_delete_getrandom_o1.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/insert_delete_getrandom_o1.cpp.s
+.PHONY : design/insert_delete_getrandom_o1.cpp.s
+
 design/lfu_cache.o: design/lfu_cache.cpp.o
 
 .PHONY : design/lfu_cache.o
@@ -851,6 +959,33 @@ design/lru_cache.s: design/lru_cache.cpp.s
 design/lru_cache.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lru_cache.cpp.s
 .PHONY : design/lru_cache.cpp.s
+
+design/min_stack.o: design/min_stack.cpp.o
+
+.PHONY : design/min_stack.o
+
+# target to build an object file
+design/min_stack.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/min_stack.cpp.o
+.PHONY : design/min_stack.cpp.o
+
+design/min_stack.i: design/min_stack.cpp.i
+
+.PHONY : design/min_stack.i
+
+# target to preprocess a source file
+design/min_stack.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/min_stack.cpp.i
+.PHONY : design/min_stack.cpp.i
+
+design/min_stack.s: design/min_stack.cpp.s
+
+.PHONY : design/min_stack.s
+
+# target to generate assembly for a file
+design/min_stack.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/min_stack.cpp.s
+.PHONY : design/min_stack.cpp.s
 
 design/peeking_iterator.o: design/peeking_iterator.cpp.o
 
@@ -933,6 +1068,33 @@ design/zigzag_iterator.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/zigzag_iterator.cpp.s
 .PHONY : design/zigzag_iterator.cpp.s
 
+dfs_bfs/letter_combinations_of_a_phone_number.o: dfs_bfs/letter_combinations_of_a_phone_number.cpp.o
+
+.PHONY : dfs_bfs/letter_combinations_of_a_phone_number.o
+
+# target to build an object file
+dfs_bfs/letter_combinations_of_a_phone_number.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/letter_combinations_of_a_phone_number.cpp.o
+.PHONY : dfs_bfs/letter_combinations_of_a_phone_number.cpp.o
+
+dfs_bfs/letter_combinations_of_a_phone_number.i: dfs_bfs/letter_combinations_of_a_phone_number.cpp.i
+
+.PHONY : dfs_bfs/letter_combinations_of_a_phone_number.i
+
+# target to preprocess a source file
+dfs_bfs/letter_combinations_of_a_phone_number.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/letter_combinations_of_a_phone_number.cpp.i
+.PHONY : dfs_bfs/letter_combinations_of_a_phone_number.cpp.i
+
+dfs_bfs/letter_combinations_of_a_phone_number.s: dfs_bfs/letter_combinations_of_a_phone_number.cpp.s
+
+.PHONY : dfs_bfs/letter_combinations_of_a_phone_number.s
+
+# target to generate assembly for a file
+dfs_bfs/letter_combinations_of_a_phone_number.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/letter_combinations_of_a_phone_number.cpp.s
+.PHONY : dfs_bfs/letter_combinations_of_a_phone_number.cpp.s
+
 dfs_bfs/number_of_islands.o: dfs_bfs/number_of_islands.cpp.o
 
 .PHONY : dfs_bfs/number_of_islands.o
@@ -986,6 +1148,33 @@ dfs_bfs/walls_and_gates.s: dfs_bfs/walls_and_gates.cpp.s
 dfs_bfs/walls_and_gates.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/walls_and_gates.cpp.s
 .PHONY : dfs_bfs/walls_and_gates.cpp.s
+
+dfs_bfs/word_ladder.o: dfs_bfs/word_ladder.cpp.o
+
+.PHONY : dfs_bfs/word_ladder.o
+
+# target to build an object file
+dfs_bfs/word_ladder.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_ladder.cpp.o
+.PHONY : dfs_bfs/word_ladder.cpp.o
+
+dfs_bfs/word_ladder.i: dfs_bfs/word_ladder.cpp.i
+
+.PHONY : dfs_bfs/word_ladder.i
+
+# target to preprocess a source file
+dfs_bfs/word_ladder.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_ladder.cpp.i
+.PHONY : dfs_bfs/word_ladder.cpp.i
+
+dfs_bfs/word_ladder.s: dfs_bfs/word_ladder.cpp.s
+
+.PHONY : dfs_bfs/word_ladder.s
+
+# target to generate assembly for a file
+dfs_bfs/word_ladder.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_ladder.cpp.s
+.PHONY : dfs_bfs/word_ladder.cpp.s
 
 divide_and_conquer/different_ways_to_add_parentheses.o: divide_and_conquer/different_ways_to_add_parentheses.cpp.o
 
@@ -1365,6 +1554,60 @@ hash_table/find_all_anagrams_in_a_string.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/find_all_anagrams_in_a_string.cpp.s
 .PHONY : hash_table/find_all_anagrams_in_a_string.cpp.s
 
+hash_table/first_unique_character_in_a_string.o: hash_table/first_unique_character_in_a_string.cpp.o
+
+.PHONY : hash_table/first_unique_character_in_a_string.o
+
+# target to build an object file
+hash_table/first_unique_character_in_a_string.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/first_unique_character_in_a_string.cpp.o
+.PHONY : hash_table/first_unique_character_in_a_string.cpp.o
+
+hash_table/first_unique_character_in_a_string.i: hash_table/first_unique_character_in_a_string.cpp.i
+
+.PHONY : hash_table/first_unique_character_in_a_string.i
+
+# target to preprocess a source file
+hash_table/first_unique_character_in_a_string.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/first_unique_character_in_a_string.cpp.i
+.PHONY : hash_table/first_unique_character_in_a_string.cpp.i
+
+hash_table/first_unique_character_in_a_string.s: hash_table/first_unique_character_in_a_string.cpp.s
+
+.PHONY : hash_table/first_unique_character_in_a_string.s
+
+# target to generate assembly for a file
+hash_table/first_unique_character_in_a_string.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/first_unique_character_in_a_string.cpp.s
+.PHONY : hash_table/first_unique_character_in_a_string.cpp.s
+
+hash_table/group_anagrams.o: hash_table/group_anagrams.cpp.o
+
+.PHONY : hash_table/group_anagrams.o
+
+# target to build an object file
+hash_table/group_anagrams.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/group_anagrams.cpp.o
+.PHONY : hash_table/group_anagrams.cpp.o
+
+hash_table/group_anagrams.i: hash_table/group_anagrams.cpp.i
+
+.PHONY : hash_table/group_anagrams.i
+
+# target to preprocess a source file
+hash_table/group_anagrams.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/group_anagrams.cpp.i
+.PHONY : hash_table/group_anagrams.cpp.i
+
+hash_table/group_anagrams.s: hash_table/group_anagrams.cpp.s
+
+.PHONY : hash_table/group_anagrams.s
+
+# target to generate assembly for a file
+hash_table/group_anagrams.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/group_anagrams.cpp.s
+.PHONY : hash_table/group_anagrams.cpp.s
+
 hash_table/h_index.o: hash_table/h_index.cpp.o
 
 .PHONY : hash_table/h_index.o
@@ -1608,6 +1851,33 @@ heap/find_median_from_data_stream.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.s
 .PHONY : heap/find_median_from_data_stream.cpp.s
 
+linked_list/add_two_numbers.o: linked_list/add_two_numbers.cpp.o
+
+.PHONY : linked_list/add_two_numbers.o
+
+# target to build an object file
+linked_list/add_two_numbers.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/add_two_numbers.cpp.o
+.PHONY : linked_list/add_two_numbers.cpp.o
+
+linked_list/add_two_numbers.i: linked_list/add_two_numbers.cpp.i
+
+.PHONY : linked_list/add_two_numbers.i
+
+# target to preprocess a source file
+linked_list/add_two_numbers.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/add_two_numbers.cpp.i
+.PHONY : linked_list/add_two_numbers.cpp.i
+
+linked_list/add_two_numbers.s: linked_list/add_two_numbers.cpp.s
+
+.PHONY : linked_list/add_two_numbers.s
+
+# target to generate assembly for a file
+linked_list/add_two_numbers.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/add_two_numbers.cpp.s
+.PHONY : linked_list/add_two_numbers.cpp.s
+
 linked_list/copy_list_with_random_pointer.o: linked_list/copy_list_with_random_pointer.cpp.o
 
 .PHONY : linked_list/copy_list_with_random_pointer.o
@@ -1635,6 +1905,87 @@ linked_list/copy_list_with_random_pointer.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/copy_list_with_random_pointer.cpp.s
 .PHONY : linked_list/copy_list_with_random_pointer.cpp.s
 
+linked_list/intersection_of_two_linked_lists.o: linked_list/intersection_of_two_linked_lists.cpp.o
+
+.PHONY : linked_list/intersection_of_two_linked_lists.o
+
+# target to build an object file
+linked_list/intersection_of_two_linked_lists.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/intersection_of_two_linked_lists.cpp.o
+.PHONY : linked_list/intersection_of_two_linked_lists.cpp.o
+
+linked_list/intersection_of_two_linked_lists.i: linked_list/intersection_of_two_linked_lists.cpp.i
+
+.PHONY : linked_list/intersection_of_two_linked_lists.i
+
+# target to preprocess a source file
+linked_list/intersection_of_two_linked_lists.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/intersection_of_two_linked_lists.cpp.i
+.PHONY : linked_list/intersection_of_two_linked_lists.cpp.i
+
+linked_list/intersection_of_two_linked_lists.s: linked_list/intersection_of_two_linked_lists.cpp.s
+
+.PHONY : linked_list/intersection_of_two_linked_lists.s
+
+# target to generate assembly for a file
+linked_list/intersection_of_two_linked_lists.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/intersection_of_two_linked_lists.cpp.s
+.PHONY : linked_list/intersection_of_two_linked_lists.cpp.s
+
+linked_list/linked_list_cycle.o: linked_list/linked_list_cycle.cpp.o
+
+.PHONY : linked_list/linked_list_cycle.o
+
+# target to build an object file
+linked_list/linked_list_cycle.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/linked_list_cycle.cpp.o
+.PHONY : linked_list/linked_list_cycle.cpp.o
+
+linked_list/linked_list_cycle.i: linked_list/linked_list_cycle.cpp.i
+
+.PHONY : linked_list/linked_list_cycle.i
+
+# target to preprocess a source file
+linked_list/linked_list_cycle.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/linked_list_cycle.cpp.i
+.PHONY : linked_list/linked_list_cycle.cpp.i
+
+linked_list/linked_list_cycle.s: linked_list/linked_list_cycle.cpp.s
+
+.PHONY : linked_list/linked_list_cycle.s
+
+# target to generate assembly for a file
+linked_list/linked_list_cycle.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/linked_list_cycle.cpp.s
+.PHONY : linked_list/linked_list_cycle.cpp.s
+
+linked_list/linked_list_cycle_2.o: linked_list/linked_list_cycle_2.cpp.o
+
+.PHONY : linked_list/linked_list_cycle_2.o
+
+# target to build an object file
+linked_list/linked_list_cycle_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/linked_list_cycle_2.cpp.o
+.PHONY : linked_list/linked_list_cycle_2.cpp.o
+
+linked_list/linked_list_cycle_2.i: linked_list/linked_list_cycle_2.cpp.i
+
+.PHONY : linked_list/linked_list_cycle_2.i
+
+# target to preprocess a source file
+linked_list/linked_list_cycle_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/linked_list_cycle_2.cpp.i
+.PHONY : linked_list/linked_list_cycle_2.cpp.i
+
+linked_list/linked_list_cycle_2.s: linked_list/linked_list_cycle_2.cpp.s
+
+.PHONY : linked_list/linked_list_cycle_2.s
+
+# target to generate assembly for a file
+linked_list/linked_list_cycle_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/linked_list_cycle_2.cpp.s
+.PHONY : linked_list/linked_list_cycle_2.cpp.s
+
 linked_list/palindrome_linked_list.o: linked_list/palindrome_linked_list.cpp.o
 
 .PHONY : linked_list/palindrome_linked_list.o
@@ -1661,6 +2012,33 @@ linked_list/palindrome_linked_list.s: linked_list/palindrome_linked_list.cpp.s
 linked_list/palindrome_linked_list.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/palindrome_linked_list.cpp.s
 .PHONY : linked_list/palindrome_linked_list.cpp.s
+
+linked_list/reverse_linked_list.o: linked_list/reverse_linked_list.cpp.o
+
+.PHONY : linked_list/reverse_linked_list.o
+
+# target to build an object file
+linked_list/reverse_linked_list.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list.cpp.o
+.PHONY : linked_list/reverse_linked_list.cpp.o
+
+linked_list/reverse_linked_list.i: linked_list/reverse_linked_list.cpp.i
+
+.PHONY : linked_list/reverse_linked_list.i
+
+# target to preprocess a source file
+linked_list/reverse_linked_list.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list.cpp.i
+.PHONY : linked_list/reverse_linked_list.cpp.i
+
+linked_list/reverse_linked_list.s: linked_list/reverse_linked_list.cpp.s
+
+.PHONY : linked_list/reverse_linked_list.s
+
+# target to generate assembly for a file
+linked_list/reverse_linked_list.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list.cpp.s
+.PHONY : linked_list/reverse_linked_list.cpp.s
 
 main.o: main.cpp.o
 
@@ -2538,6 +2916,9 @@ help:
 	@echo "... array/3sum_smaller.o"
 	@echo "... array/3sum_smaller.i"
 	@echo "... array/3sum_smaller.s"
+	@echo "... array/best_time_to_buy_and_sell_stock.o"
+	@echo "... array/best_time_to_buy_and_sell_stock.i"
+	@echo "... array/best_time_to_buy_and_sell_stock.s"
 	@echo "... array/find_the_celebrity.o"
 	@echo "... array/find_the_celebrity.i"
 	@echo "... array/find_the_celebrity.s"
@@ -2547,6 +2928,9 @@ help:
 	@echo "... array/game_of_life.o"
 	@echo "... array/game_of_life.i"
 	@echo "... array/game_of_life.s"
+	@echo "... array/kth_largest_element_in_an_array.o"
+	@echo "... array/kth_largest_element_in_an_array.i"
+	@echo "... array/kth_largest_element_in_an_array.s"
 	@echo "... array/majority_element_2.o"
 	@echo "... array/majority_element_2.i"
 	@echo "... array/majority_element_2.s"
@@ -2574,6 +2958,9 @@ help:
 	@echo "... array/summary_ranges.o"
 	@echo "... array/summary_ranges.i"
 	@echo "... array/summary_ranges.s"
+	@echo "... array/trapping_rain_water.o"
+	@echo "... array/trapping_rain_water.i"
+	@echo "... array/trapping_rain_water.s"
 	@echo "... array/two_sum_2_input_array_is_sorted.o"
 	@echo "... array/two_sum_2_input_array_is_sorted.i"
 	@echo "... array/two_sum_2_input_array_is_sorted.s"
@@ -2610,12 +2997,18 @@ help:
 	@echo "... design/implement_stack_using_queues.o"
 	@echo "... design/implement_stack_using_queues.i"
 	@echo "... design/implement_stack_using_queues.s"
+	@echo "... design/insert_delete_getrandom_o1.o"
+	@echo "... design/insert_delete_getrandom_o1.i"
+	@echo "... design/insert_delete_getrandom_o1.s"
 	@echo "... design/lfu_cache.o"
 	@echo "... design/lfu_cache.i"
 	@echo "... design/lfu_cache.s"
 	@echo "... design/lru_cache.o"
 	@echo "... design/lru_cache.i"
 	@echo "... design/lru_cache.s"
+	@echo "... design/min_stack.o"
+	@echo "... design/min_stack.i"
+	@echo "... design/min_stack.s"
 	@echo "... design/peeking_iterator.o"
 	@echo "... design/peeking_iterator.i"
 	@echo "... design/peeking_iterator.s"
@@ -2625,12 +3018,18 @@ help:
 	@echo "... design/zigzag_iterator.o"
 	@echo "... design/zigzag_iterator.i"
 	@echo "... design/zigzag_iterator.s"
+	@echo "... dfs_bfs/letter_combinations_of_a_phone_number.o"
+	@echo "... dfs_bfs/letter_combinations_of_a_phone_number.i"
+	@echo "... dfs_bfs/letter_combinations_of_a_phone_number.s"
 	@echo "... dfs_bfs/number_of_islands.o"
 	@echo "... dfs_bfs/number_of_islands.i"
 	@echo "... dfs_bfs/number_of_islands.s"
 	@echo "... dfs_bfs/walls_and_gates.o"
 	@echo "... dfs_bfs/walls_and_gates.i"
 	@echo "... dfs_bfs/walls_and_gates.s"
+	@echo "... dfs_bfs/word_ladder.o"
+	@echo "... dfs_bfs/word_ladder.i"
+	@echo "... dfs_bfs/word_ladder.s"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.o"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.i"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.s"
@@ -2673,6 +3072,12 @@ help:
 	@echo "... hash_table/find_all_anagrams_in_a_string.o"
 	@echo "... hash_table/find_all_anagrams_in_a_string.i"
 	@echo "... hash_table/find_all_anagrams_in_a_string.s"
+	@echo "... hash_table/first_unique_character_in_a_string.o"
+	@echo "... hash_table/first_unique_character_in_a_string.i"
+	@echo "... hash_table/first_unique_character_in_a_string.s"
+	@echo "... hash_table/group_anagrams.o"
+	@echo "... hash_table/group_anagrams.i"
+	@echo "... hash_table/group_anagrams.s"
 	@echo "... hash_table/h_index.o"
 	@echo "... hash_table/h_index.i"
 	@echo "... hash_table/h_index.s"
@@ -2700,12 +3105,27 @@ help:
 	@echo "... heap/find_median_from_data_stream.o"
 	@echo "... heap/find_median_from_data_stream.i"
 	@echo "... heap/find_median_from_data_stream.s"
+	@echo "... linked_list/add_two_numbers.o"
+	@echo "... linked_list/add_two_numbers.i"
+	@echo "... linked_list/add_two_numbers.s"
 	@echo "... linked_list/copy_list_with_random_pointer.o"
 	@echo "... linked_list/copy_list_with_random_pointer.i"
 	@echo "... linked_list/copy_list_with_random_pointer.s"
+	@echo "... linked_list/intersection_of_two_linked_lists.o"
+	@echo "... linked_list/intersection_of_two_linked_lists.i"
+	@echo "... linked_list/intersection_of_two_linked_lists.s"
+	@echo "... linked_list/linked_list_cycle.o"
+	@echo "... linked_list/linked_list_cycle.i"
+	@echo "... linked_list/linked_list_cycle.s"
+	@echo "... linked_list/linked_list_cycle_2.o"
+	@echo "... linked_list/linked_list_cycle_2.i"
+	@echo "... linked_list/linked_list_cycle_2.s"
 	@echo "... linked_list/palindrome_linked_list.o"
 	@echo "... linked_list/palindrome_linked_list.i"
 	@echo "... linked_list/palindrome_linked_list.s"
+	@echo "... linked_list/reverse_linked_list.o"
+	@echo "... linked_list/reverse_linked_list.i"
+	@echo "... linked_list/reverse_linked_list.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
