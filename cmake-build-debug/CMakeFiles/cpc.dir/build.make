@@ -2841,6 +2841,198 @@ CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o.provides
 CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o
 
 
+CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o: ../design/range_sum_query_immutable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Building CXX object CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_immutable.cpp
+
+CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_immutable.cpp > CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.i
+
+CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_immutable.cpp -o CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.s
+
+CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.provides: CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.provides.build: CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o
+
+
+CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o: ../design/range_sum_query_2d_immutable.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_118) "Building CXX object CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_2d_immutable.cpp
+
+CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_2d_immutable.cpp > CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.i
+
+CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_2d_immutable.cpp -o CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.s
+
+CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.provides: CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.provides.build: CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o: ../dynamic_programming/longest_increasing_subsequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_119) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_increasing_subsequence.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_increasing_subsequence.cpp > CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_increasing_subsequence.cpp -o CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o
+
+
+CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o: ../dfs_bfs/remove_invalid_parentheses.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_120) "Building CXX object CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/remove_invalid_parentheses.cpp
+
+CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/remove_invalid_parentheses.cpp > CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.i
+
+CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/remove_invalid_parentheses.cpp -o CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.s
+
+CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.requires
+
+CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.provides: CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.provides
+
+CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o
+
+
+CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o: ../dfs_bfs/shortest_distance_from_all_buildings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_121) "Building CXX object CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/shortest_distance_from_all_buildings.cpp
+
+CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/shortest_distance_from_all_buildings.cpp > CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.i
+
+CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/shortest_distance_from_all_buildings.cpp -o CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.s
+
+CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.requires
+
+CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.provides: CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.provides
+
+CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o
+
+
+CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o: ../stack/remove_duplicate_letters.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_122) "Building CXX object CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/stack/remove_duplicate_letters.cpp
+
+CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/stack/remove_duplicate_letters.cpp > CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.i
+
+CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/stack/remove_duplicate_letters.cpp -o CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.s
+
+CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.requires
+
+CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.provides: CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.provides
+
+CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.provides.build: CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o
+
+
+CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o: ../math/sparse_matrix_multiplication.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_123) "Building CXX object CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/math/sparse_matrix_multiplication.cpp
+
+CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/math/sparse_matrix_multiplication.cpp > CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.i
+
+CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/math/sparse_matrix_multiplication.cpp -o CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.s
+
+CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.requires
+
+CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.provides: CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.provides
+
+CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.provides.build: CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o
+
+
+CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o: ../tree/binary_tree_vertical_order_traversal.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_124) "Building CXX object CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_vertical_order_traversal.cpp
+
+CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_vertical_order_traversal.cpp > CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.i
+
+CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_vertical_order_traversal.cpp -o CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.s
+
+CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.requires
+
+CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.provides: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.provides
+
+CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -2958,7 +3150,15 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/array/fizz_buzz.cpp.o" \
 "CMakeFiles/cpc.dir/string/reverse_words_in_a_string.cpp.o" \
 "CMakeFiles/cpc.dir/tree/binary_tree_right_side_view.cpp.o" \
-"CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o"
+"CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o" \
+"CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o" \
+"CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o" \
+"CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o" \
+"CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o" \
+"CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o" \
+"CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o" \
+"CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -3079,9 +3279,17 @@ cpc: CMakeFiles/cpc.dir/array/fizz_buzz.cpp.o
 cpc: CMakeFiles/cpc.dir/string/reverse_words_in_a_string.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/binary_tree_right_side_view.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o
+cpc: CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o
+cpc: CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o
+cpc: CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o
+cpc: CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o
+cpc: CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o
+cpc: CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o
+cpc: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_117) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3205,6 +3413,14 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/fizz_buzz.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/string/reverse_words_in_a_string.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/binary_tree_right_side_view.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/distance_between_two_nodes_in_binary_tree.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

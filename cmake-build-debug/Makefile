@@ -1122,6 +1122,60 @@ design/peeking_iterator.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/peeking_iterator.cpp.s
 .PHONY : design/peeking_iterator.cpp.s
 
+design/range_sum_query_2d_immutable.o: design/range_sum_query_2d_immutable.cpp.o
+
+.PHONY : design/range_sum_query_2d_immutable.o
+
+# target to build an object file
+design/range_sum_query_2d_immutable.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.o
+.PHONY : design/range_sum_query_2d_immutable.cpp.o
+
+design/range_sum_query_2d_immutable.i: design/range_sum_query_2d_immutable.cpp.i
+
+.PHONY : design/range_sum_query_2d_immutable.i
+
+# target to preprocess a source file
+design/range_sum_query_2d_immutable.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.i
+.PHONY : design/range_sum_query_2d_immutable.cpp.i
+
+design/range_sum_query_2d_immutable.s: design/range_sum_query_2d_immutable.cpp.s
+
+.PHONY : design/range_sum_query_2d_immutable.s
+
+# target to generate assembly for a file
+design/range_sum_query_2d_immutable.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_2d_immutable.cpp.s
+.PHONY : design/range_sum_query_2d_immutable.cpp.s
+
+design/range_sum_query_immutable.o: design/range_sum_query_immutable.cpp.o
+
+.PHONY : design/range_sum_query_immutable.o
+
+# target to build an object file
+design/range_sum_query_immutable.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.o
+.PHONY : design/range_sum_query_immutable.cpp.o
+
+design/range_sum_query_immutable.i: design/range_sum_query_immutable.cpp.i
+
+.PHONY : design/range_sum_query_immutable.i
+
+# target to preprocess a source file
+design/range_sum_query_immutable.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.i
+.PHONY : design/range_sum_query_immutable.cpp.i
+
+design/range_sum_query_immutable.s: design/range_sum_query_immutable.cpp.s
+
+.PHONY : design/range_sum_query_immutable.s
+
+# target to generate assembly for a file
+design/range_sum_query_immutable.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/range_sum_query_immutable.cpp.s
+.PHONY : design/range_sum_query_immutable.cpp.s
+
 design/shuffle_an_array.o: design/shuffle_an_array.cpp.o
 
 .PHONY : design/shuffle_an_array.o
@@ -1256,6 +1310,60 @@ dfs_bfs/number_of_islands.s: dfs_bfs/number_of_islands.cpp.s
 dfs_bfs/number_of_islands.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.s
 .PHONY : dfs_bfs/number_of_islands.cpp.s
+
+dfs_bfs/remove_invalid_parentheses.o: dfs_bfs/remove_invalid_parentheses.cpp.o
+
+.PHONY : dfs_bfs/remove_invalid_parentheses.o
+
+# target to build an object file
+dfs_bfs/remove_invalid_parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.o
+.PHONY : dfs_bfs/remove_invalid_parentheses.cpp.o
+
+dfs_bfs/remove_invalid_parentheses.i: dfs_bfs/remove_invalid_parentheses.cpp.i
+
+.PHONY : dfs_bfs/remove_invalid_parentheses.i
+
+# target to preprocess a source file
+dfs_bfs/remove_invalid_parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.i
+.PHONY : dfs_bfs/remove_invalid_parentheses.cpp.i
+
+dfs_bfs/remove_invalid_parentheses.s: dfs_bfs/remove_invalid_parentheses.cpp.s
+
+.PHONY : dfs_bfs/remove_invalid_parentheses.s
+
+# target to generate assembly for a file
+dfs_bfs/remove_invalid_parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/remove_invalid_parentheses.cpp.s
+.PHONY : dfs_bfs/remove_invalid_parentheses.cpp.s
+
+dfs_bfs/shortest_distance_from_all_buildings.o: dfs_bfs/shortest_distance_from_all_buildings.cpp.o
+
+.PHONY : dfs_bfs/shortest_distance_from_all_buildings.o
+
+# target to build an object file
+dfs_bfs/shortest_distance_from_all_buildings.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o
+.PHONY : dfs_bfs/shortest_distance_from_all_buildings.cpp.o
+
+dfs_bfs/shortest_distance_from_all_buildings.i: dfs_bfs/shortest_distance_from_all_buildings.cpp.i
+
+.PHONY : dfs_bfs/shortest_distance_from_all_buildings.i
+
+# target to preprocess a source file
+dfs_bfs/shortest_distance_from_all_buildings.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.i
+.PHONY : dfs_bfs/shortest_distance_from_all_buildings.cpp.i
+
+dfs_bfs/shortest_distance_from_all_buildings.s: dfs_bfs/shortest_distance_from_all_buildings.cpp.s
+
+.PHONY : dfs_bfs/shortest_distance_from_all_buildings.s
+
+# target to generate assembly for a file
+dfs_bfs/shortest_distance_from_all_buildings.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.s
+.PHONY : dfs_bfs/shortest_distance_from_all_buildings.cpp.s
 
 dfs_bfs/walls_and_gates.o: dfs_bfs/walls_and_gates.cpp.o
 
@@ -1418,6 +1526,33 @@ dynamic_programming/flip_game_2.s: dynamic_programming/flip_game_2.cpp.s
 dynamic_programming/flip_game_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/flip_game_2.cpp.s
 .PHONY : dynamic_programming/flip_game_2.cpp.s
+
+dynamic_programming/longest_increasing_subsequence.o: dynamic_programming/longest_increasing_subsequence.cpp.o
+
+.PHONY : dynamic_programming/longest_increasing_subsequence.o
+
+# target to build an object file
+dynamic_programming/longest_increasing_subsequence.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.o
+.PHONY : dynamic_programming/longest_increasing_subsequence.cpp.o
+
+dynamic_programming/longest_increasing_subsequence.i: dynamic_programming/longest_increasing_subsequence.cpp.i
+
+.PHONY : dynamic_programming/longest_increasing_subsequence.i
+
+# target to preprocess a source file
+dynamic_programming/longest_increasing_subsequence.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.i
+.PHONY : dynamic_programming/longest_increasing_subsequence.cpp.i
+
+dynamic_programming/longest_increasing_subsequence.s: dynamic_programming/longest_increasing_subsequence.cpp.s
+
+.PHONY : dynamic_programming/longest_increasing_subsequence.s
+
+# target to generate assembly for a file
+dynamic_programming/longest_increasing_subsequence.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/longest_increasing_subsequence.cpp.s
+.PHONY : dynamic_programming/longest_increasing_subsequence.cpp.s
 
 dynamic_programming/maximal_square.o: dynamic_programming/maximal_square.cpp.o
 
@@ -2391,6 +2526,33 @@ math/rectangle_area.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/rectangle_area.cpp.s
 .PHONY : math/rectangle_area.cpp.s
 
+math/sparse_matrix_multiplication.o: math/sparse_matrix_multiplication.cpp.o
+
+.PHONY : math/sparse_matrix_multiplication.o
+
+# target to build an object file
+math/sparse_matrix_multiplication.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o
+.PHONY : math/sparse_matrix_multiplication.cpp.o
+
+math/sparse_matrix_multiplication.i: math/sparse_matrix_multiplication.cpp.i
+
+.PHONY : math/sparse_matrix_multiplication.i
+
+# target to preprocess a source file
+math/sparse_matrix_multiplication.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.i
+.PHONY : math/sparse_matrix_multiplication.cpp.i
+
+math/sparse_matrix_multiplication.s: math/sparse_matrix_multiplication.cpp.s
+
+.PHONY : math/sparse_matrix_multiplication.s
+
+# target to generate assembly for a file
+math/sparse_matrix_multiplication.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.s
+.PHONY : math/sparse_matrix_multiplication.cpp.s
+
 math/ugly_number.o: math/ugly_number.cpp.o
 
 .PHONY : math/ugly_number.o
@@ -2633,6 +2795,33 @@ stack/basic_calculator_2.s: stack/basic_calculator_2.cpp.s
 stack/basic_calculator_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/basic_calculator_2.cpp.s
 .PHONY : stack/basic_calculator_2.cpp.s
+
+stack/remove_duplicate_letters.o: stack/remove_duplicate_letters.cpp.o
+
+.PHONY : stack/remove_duplicate_letters.o
+
+# target to build an object file
+stack/remove_duplicate_letters.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o
+.PHONY : stack/remove_duplicate_letters.cpp.o
+
+stack/remove_duplicate_letters.i: stack/remove_duplicate_letters.cpp.i
+
+.PHONY : stack/remove_duplicate_letters.i
+
+# target to preprocess a source file
+stack/remove_duplicate_letters.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.i
+.PHONY : stack/remove_duplicate_letters.cpp.i
+
+stack/remove_duplicate_letters.s: stack/remove_duplicate_letters.cpp.s
+
+.PHONY : stack/remove_duplicate_letters.s
+
+# target to generate assembly for a file
+stack/remove_duplicate_letters.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.s
+.PHONY : stack/remove_duplicate_letters.cpp.s
 
 stack/valid_parentheses.o: stack/valid_parentheses.cpp.o
 
@@ -2930,6 +3119,33 @@ tree/binary_tree_right_side_view.s: tree/binary_tree_right_side_view.cpp.s
 tree/binary_tree_right_side_view.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_right_side_view.cpp.s
 .PHONY : tree/binary_tree_right_side_view.cpp.s
+
+tree/binary_tree_vertical_order_traversal.o: tree/binary_tree_vertical_order_traversal.cpp.o
+
+.PHONY : tree/binary_tree_vertical_order_traversal.o
+
+# target to build an object file
+tree/binary_tree_vertical_order_traversal.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o
+.PHONY : tree/binary_tree_vertical_order_traversal.cpp.o
+
+tree/binary_tree_vertical_order_traversal.i: tree/binary_tree_vertical_order_traversal.cpp.i
+
+.PHONY : tree/binary_tree_vertical_order_traversal.i
+
+# target to preprocess a source file
+tree/binary_tree_vertical_order_traversal.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.i
+.PHONY : tree/binary_tree_vertical_order_traversal.cpp.i
+
+tree/binary_tree_vertical_order_traversal.s: tree/binary_tree_vertical_order_traversal.cpp.s
+
+.PHONY : tree/binary_tree_vertical_order_traversal.s
+
+# target to generate assembly for a file
+tree/binary_tree_vertical_order_traversal.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.s
+.PHONY : tree/binary_tree_vertical_order_traversal.cpp.s
 
 tree/binary_tree_zigzag_level_order_traversal.o: tree/binary_tree_zigzag_level_order_traversal.cpp.o
 
@@ -3375,6 +3591,12 @@ help:
 	@echo "... design/peeking_iterator.o"
 	@echo "... design/peeking_iterator.i"
 	@echo "... design/peeking_iterator.s"
+	@echo "... design/range_sum_query_2d_immutable.o"
+	@echo "... design/range_sum_query_2d_immutable.i"
+	@echo "... design/range_sum_query_2d_immutable.s"
+	@echo "... design/range_sum_query_immutable.o"
+	@echo "... design/range_sum_query_immutable.i"
+	@echo "... design/range_sum_query_immutable.s"
 	@echo "... design/shuffle_an_array.o"
 	@echo "... design/shuffle_an_array.i"
 	@echo "... design/shuffle_an_array.s"
@@ -3390,6 +3612,12 @@ help:
 	@echo "... dfs_bfs/number_of_islands.o"
 	@echo "... dfs_bfs/number_of_islands.i"
 	@echo "... dfs_bfs/number_of_islands.s"
+	@echo "... dfs_bfs/remove_invalid_parentheses.o"
+	@echo "... dfs_bfs/remove_invalid_parentheses.i"
+	@echo "... dfs_bfs/remove_invalid_parentheses.s"
+	@echo "... dfs_bfs/shortest_distance_from_all_buildings.o"
+	@echo "... dfs_bfs/shortest_distance_from_all_buildings.i"
+	@echo "... dfs_bfs/shortest_distance_from_all_buildings.s"
 	@echo "... dfs_bfs/walls_and_gates.o"
 	@echo "... dfs_bfs/walls_and_gates.i"
 	@echo "... dfs_bfs/walls_and_gates.s"
@@ -3408,6 +3636,9 @@ help:
 	@echo "... dynamic_programming/flip_game_2.o"
 	@echo "... dynamic_programming/flip_game_2.i"
 	@echo "... dynamic_programming/flip_game_2.s"
+	@echo "... dynamic_programming/longest_increasing_subsequence.o"
+	@echo "... dynamic_programming/longest_increasing_subsequence.i"
+	@echo "... dynamic_programming/longest_increasing_subsequence.s"
 	@echo "... dynamic_programming/maximal_square.o"
 	@echo "... dynamic_programming/maximal_square.i"
 	@echo "... dynamic_programming/maximal_square.s"
@@ -3516,6 +3747,9 @@ help:
 	@echo "... math/rectangle_area.o"
 	@echo "... math/rectangle_area.i"
 	@echo "... math/rectangle_area.s"
+	@echo "... math/sparse_matrix_multiplication.o"
+	@echo "... math/sparse_matrix_multiplication.i"
+	@echo "... math/sparse_matrix_multiplication.s"
 	@echo "... math/ugly_number.o"
 	@echo "... math/ugly_number.i"
 	@echo "... math/ugly_number.s"
@@ -3543,6 +3777,9 @@ help:
 	@echo "... stack/basic_calculator_2.o"
 	@echo "... stack/basic_calculator_2.i"
 	@echo "... stack/basic_calculator_2.s"
+	@echo "... stack/remove_duplicate_letters.o"
+	@echo "... stack/remove_duplicate_letters.i"
+	@echo "... stack/remove_duplicate_letters.s"
 	@echo "... stack/valid_parentheses.o"
 	@echo "... stack/valid_parentheses.i"
 	@echo "... stack/valid_parentheses.s"
@@ -3576,6 +3813,9 @@ help:
 	@echo "... tree/binary_tree_right_side_view.o"
 	@echo "... tree/binary_tree_right_side_view.i"
 	@echo "... tree/binary_tree_right_side_view.s"
+	@echo "... tree/binary_tree_vertical_order_traversal.o"
+	@echo "... tree/binary_tree_vertical_order_traversal.i"
+	@echo "... tree/binary_tree_vertical_order_traversal.s"
 	@echo "... tree/binary_tree_zigzag_level_order_traversal.o"
 	@echo "... tree/binary_tree_zigzag_level_order_traversal.i"
 	@echo "... tree/binary_tree_zigzag_level_order_traversal.s"

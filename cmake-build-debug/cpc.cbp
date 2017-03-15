@@ -209,6 +209,12 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/peeking_iterator.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_2d_immutable.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/range_sum_query_immutable.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/shuffle_an_array.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -225,6 +231,12 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/number_of_islands.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/remove_invalid_parentheses.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/shortest_distance_from_all_buildings.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/walls_and_gates.cpp">
@@ -249,6 +261,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/flip_game_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_increasing_subsequence.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/maximal_square.cpp">
@@ -371,6 +386,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/rectangle_area.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/sparse_matrix_multiplication.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/ugly_number.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -405,6 +423,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/stack/basic_calculator_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/stack/remove_duplicate_letters.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/stack/valid_parentheses.cpp">
@@ -447,6 +468,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_right_side_view.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_vertical_order_traversal.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/binary_tree_zigzag_level_order_traversal.cpp">
