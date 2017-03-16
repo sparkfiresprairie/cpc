@@ -46,3 +46,43 @@
     Can you do it in time complexity O(k log mn), where k is the length of the
     positions?
  */
+
+#include "UnionFind.h"
+
+int findRoot(vector<int>& root, int idx) {
+    while (root[idx] != idx) {
+        // path_compression: make idx's grandparent its parent
+        root[idx] = root[root[idx]];
+        idx = root[idx];
+    }
+    return idx;
+}
+
+vector<int> numIslands2(int m, int n, vector<pair<int, int>>& positions) {
+    vector<int> island_nums;
+    if (m <= 0 || n <= 0) return island_nums;
+    vector<int> dirs{1, 0, -1, 0, 1};
+    vector<int> root(m * n, -1);        // one island = one tree
+    int count = 0;                      // number of islands
+    for (auto const& p : positions) {
+        int idx = p.first * n + p.second;
+        ++count;                        // add new island
+        root[idx] = idx;                // assume new point is isolated island
+        for (int i = 0; i < 4; ++i) {
+            int x = p.first + dirs[i];
+            int y = p.second + dirs[i + 1];
+            int nb_idx = x * n + y;
+            if (x < 0 || x >= m || y < 0 || y >= n || root[nb_idx] == -1) continue;
+            int root_of_nb = findRoot(root, nb_idx);
+            if (root_of_nb != idx) {        // if neighbor is in another island
+                root[idx] = root_of_nb;     // union two islands
+                idx = root_of_nb;           // current tree root = joined tree root!!!!
+                --count;
+            }
+        }
+        island_nums.push_back(count);
+    }
+    return island_nums;
+}
+
+
