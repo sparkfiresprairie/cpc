@@ -123,6 +123,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o"
   "CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o"
   "CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o"
+  "CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o"
+  "CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o"
   "cpc.pdb"
   "cpc"
 )

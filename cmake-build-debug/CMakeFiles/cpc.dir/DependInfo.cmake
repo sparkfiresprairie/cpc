@@ -31,6 +31,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/Xingyuan/Documents/GitHub/cpc/binary_search/first_bad_version.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/binary_search/first_bad_version.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/binary_search/h_index_2.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/binary_search/h_index_2.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_a_2d_matrix_2.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.o"
+  "/Users/Xingyuan/Documents/GitHub/cpc/binary_search/smallest_rectangle_enclosing_black_pixels.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/single_number_3.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/bit_manipulation/single_number_3.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/design/flatten_2d_vector.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/design/flatten_2d_vector.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/design/flatten_nested_list_iterator.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/design/flatten_nested_list_iterator.cpp.o"
@@ -128,6 +129,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/Xingyuan/Documents/GitHub/cpc/tree/serialize_and_deserialize_binary_tree.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/tree/serialize_and_deserialize_binary_tree.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/tree/verify_preorder_sequence_in_binary_search_tree.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/tree/verify_preorder_sequence_in_binary_search_tree.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/union_find/graph_valid_tree.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/union_find/graph_valid_tree.cpp.o"
+  "/Users/Xingyuan/Documents/GitHub/cpc/union_find/number_of_islands_2.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

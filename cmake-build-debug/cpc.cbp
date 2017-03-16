@@ -170,6 +170,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_a_2d_matrix_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/smallest_rectangle_enclosing_black_pixels.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/BitManipulation.h">
 			<Option target="cpc"/>
 		</Unit>
@@ -510,6 +513,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/union_find/graph_valid_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/union_find/number_of_islands_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/CMakeLists.txt">

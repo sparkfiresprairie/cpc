@@ -852,6 +852,33 @@ binary_search/search_a_2d_matrix_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.s
 .PHONY : binary_search/search_a_2d_matrix_2.cpp.s
 
+binary_search/smallest_rectangle_enclosing_black_pixels.o: binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o
+
+.PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.o
+
+# target to build an object file
+binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o
+.PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o
+
+binary_search/smallest_rectangle_enclosing_black_pixels.i: binary_search/smallest_rectangle_enclosing_black_pixels.cpp.i
+
+.PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.i
+
+# target to preprocess a source file
+binary_search/smallest_rectangle_enclosing_black_pixels.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.i
+.PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.cpp.i
+
+binary_search/smallest_rectangle_enclosing_black_pixels.s: binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
+
+.PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.s
+
+# target to generate assembly for a file
+binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
+.PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
+
 bit_manipulation/single_number_3.o: bit_manipulation/single_number_3.cpp.o
 
 .PHONY : bit_manipulation/single_number_3.o
@@ -3471,6 +3498,33 @@ union_find/graph_valid_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/graph_valid_tree.cpp.s
 .PHONY : union_find/graph_valid_tree.cpp.s
 
+union_find/number_of_islands_2.o: union_find/number_of_islands_2.cpp.o
+
+.PHONY : union_find/number_of_islands_2.o
+
+# target to build an object file
+union_find/number_of_islands_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o
+.PHONY : union_find/number_of_islands_2.cpp.o
+
+union_find/number_of_islands_2.i: union_find/number_of_islands_2.cpp.i
+
+.PHONY : union_find/number_of_islands_2.i
+
+# target to preprocess a source file
+union_find/number_of_islands_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.i
+.PHONY : union_find/number_of_islands_2.cpp.i
+
+union_find/number_of_islands_2.s: union_find/number_of_islands_2.cpp.s
+
+.PHONY : union_find/number_of_islands_2.s
+
+# target to generate assembly for a file
+union_find/number_of_islands_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.s
+.PHONY : union_find/number_of_islands_2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -3561,6 +3615,9 @@ help:
 	@echo "... binary_search/search_a_2d_matrix_2.o"
 	@echo "... binary_search/search_a_2d_matrix_2.i"
 	@echo "... binary_search/search_a_2d_matrix_2.s"
+	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.o"
+	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.i"
+	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.s"
 	@echo "... bit_manipulation/single_number_3.o"
 	@echo "... bit_manipulation/single_number_3.i"
 	@echo "... bit_manipulation/single_number_3.s"
@@ -3852,6 +3909,9 @@ help:
 	@echo "... union_find/graph_valid_tree.o"
 	@echo "... union_find/graph_valid_tree.i"
 	@echo "... union_find/graph_valid_tree.s"
+	@echo "... union_find/number_of_islands_2.o"
+	@echo "... union_find/number_of_islands_2.i"
+	@echo "... union_find/number_of_islands_2.s"
 .PHONY : help
 
 

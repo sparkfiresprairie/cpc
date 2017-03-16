@@ -3033,6 +3033,54 @@ CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.provides: CMa
 CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o
 
 
+CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o: ../binary_search/smallest_rectangle_enclosing_black_pixels.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Building CXX object CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/binary_search/smallest_rectangle_enclosing_black_pixels.cpp
+
+CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/binary_search/smallest_rectangle_enclosing_black_pixels.cpp > CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.i
+
+CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/binary_search/smallest_rectangle_enclosing_black_pixels.cpp -o CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
+
+CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.requires
+
+CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.provides: CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.provides
+
+CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.provides.build: CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o
+
+
+CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o: ../union_find/number_of_islands_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_126) "Building CXX object CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/union_find/number_of_islands_2.cpp
+
+CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/union_find/number_of_islands_2.cpp > CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.i
+
+CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/union_find/number_of_islands_2.cpp -o CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.s
+
+CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.provides: CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.provides.build: CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -3158,7 +3206,9 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o" \
 "CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o" \
 "CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o" \
-"CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o"
+"CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o" \
+"CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o" \
+"CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -3287,9 +3337,11 @@ cpc: CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_all_buildings.cpp.o
 cpc: CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o
 cpc: CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o
+cpc: CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o
+cpc: CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_125) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3421,6 +3473,8 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/shortest_distance_from_a
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/stack/remove_duplicate_letters.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 
