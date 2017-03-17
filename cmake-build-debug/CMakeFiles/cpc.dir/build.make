@@ -3081,6 +3081,174 @@ CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.provides: CMakeFiles/cpc
 CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.provides.build: CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o
 
 
+CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o: ../array/best_time_to_buy_and_sell_stock_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Building CXX object CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/best_time_to_buy_and_sell_stock_2.cpp
+
+CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/best_time_to_buy_and_sell_stock_2.cpp > CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.i
+
+CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/best_time_to_buy_and_sell_stock_2.cpp -o CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.s
+
+CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.provides: CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.provides.build: CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o: ../dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_128) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp > CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp -o CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o: ../dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_129) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp > CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp -o CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o: ../dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_130) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp > CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp -o CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o
+
+
+CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o: ../topological_sort/minimum_height_trees.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_131) "Building CXX object CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/topological_sort/minimum_height_trees.cpp
+
+CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/topological_sort/minimum_height_trees.cpp > CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.i
+
+CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/topological_sort/minimum_height_trees.cpp -o CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.s
+
+CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.requires
+
+CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.provides: CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.provides
+
+CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.provides.build: CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o: ../dynamic_programming/burst_balloons.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_132) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/burst_balloons.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/burst_balloons.cpp > CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/burst_balloons.cpp -o CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o
+
+
+CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o: ../heap/super_ugly_number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_133) "Building CXX object CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/heap/super_ugly_number.cpp
+
+CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/heap/super_ugly_number.cpp > CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.i
+
+CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/heap/super_ugly_number.cpp -o CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.s
+
+CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.requires
+
+CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.provides: CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.provides
+
+CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.provides.build: CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -3208,7 +3376,14 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o" \
 "CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o" \
 "CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o" \
-"CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o"
+"CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o" \
+"CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o" \
+"CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o" \
+"CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -3339,9 +3514,16 @@ cpc: CMakeFiles/cpc.dir/math/sparse_matrix_multiplication.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o
 cpc: CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o
 cpc: CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o
+cpc: CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o
+cpc: CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o
+cpc: CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_127) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_134) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -3475,6 +3657,13 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/sparse_matrix_multiplicatio
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/binary_tree_vertical_order_traversal.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/union_find/number_of_islands_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

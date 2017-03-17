@@ -33,3 +33,6 @@ int maxProfit(vector<int>& prices) {
     }
     return max_so_far;
 }
+
+// time: O(n)
+// space: O(1)

@@ -204,6 +204,33 @@ array/best_time_to_buy_and_sell_stock.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock.cpp.s
 .PHONY : array/best_time_to_buy_and_sell_stock.cpp.s
 
+array/best_time_to_buy_and_sell_stock_2.o: array/best_time_to_buy_and_sell_stock_2.cpp.o
+
+.PHONY : array/best_time_to_buy_and_sell_stock_2.o
+
+# target to build an object file
+array/best_time_to_buy_and_sell_stock_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.o
+.PHONY : array/best_time_to_buy_and_sell_stock_2.cpp.o
+
+array/best_time_to_buy_and_sell_stock_2.i: array/best_time_to_buy_and_sell_stock_2.cpp.i
+
+.PHONY : array/best_time_to_buy_and_sell_stock_2.i
+
+# target to preprocess a source file
+array/best_time_to_buy_and_sell_stock_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.i
+.PHONY : array/best_time_to_buy_and_sell_stock_2.cpp.i
+
+array/best_time_to_buy_and_sell_stock_2.s: array/best_time_to_buy_and_sell_stock_2.cpp.s
+
+.PHONY : array/best_time_to_buy_and_sell_stock_2.s
+
+# target to generate assembly for a file
+array/best_time_to_buy_and_sell_stock_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/best_time_to_buy_and_sell_stock_2.cpp.s
+.PHONY : array/best_time_to_buy_and_sell_stock_2.cpp.s
+
 array/find_the_celebrity.o: array/find_the_celebrity.cpp.o
 
 .PHONY : array/find_the_celebrity.o
@@ -1500,6 +1527,114 @@ divide_and_conquer/expression_add_operators.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/expression_add_operators.cpp.s
 .PHONY : divide_and_conquer/expression_add_operators.cpp.s
 
+dynamic_programming/best_time_to_buy_and_sell_stock_3.o: dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_3.o
+
+# target to build an object file
+dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.o
+
+dynamic_programming/best_time_to_buy_and_sell_stock_3.i: dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.i
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_3.i
+
+# target to preprocess a source file
+dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.i
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.i
+
+dynamic_programming/best_time_to_buy_and_sell_stock_3.s: dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.s
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_3.s
+
+# target to generate assembly for a file
+dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.s
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp.s
+
+dynamic_programming/best_time_to_buy_and_sell_stock_4.o: dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_4.o
+
+# target to build an object file
+dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.o
+
+dynamic_programming/best_time_to_buy_and_sell_stock_4.i: dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.i
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_4.i
+
+# target to preprocess a source file
+dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.i
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.i
+
+dynamic_programming/best_time_to_buy_and_sell_stock_4.s: dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.s
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_4.s
+
+# target to generate assembly for a file
+dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.s
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp.s
+
+dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.o: dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.o
+
+# target to build an object file
+dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.o
+
+dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.i: dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.i
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.i
+
+# target to preprocess a source file
+dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.i
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.i
+
+dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.s: dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.s
+
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.s
+
+# target to generate assembly for a file
+dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.s
+.PHONY : dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp.s
+
+dynamic_programming/burst_balloons.o: dynamic_programming/burst_balloons.cpp.o
+
+.PHONY : dynamic_programming/burst_balloons.o
+
+# target to build an object file
+dynamic_programming/burst_balloons.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.o
+.PHONY : dynamic_programming/burst_balloons.cpp.o
+
+dynamic_programming/burst_balloons.i: dynamic_programming/burst_balloons.cpp.i
+
+.PHONY : dynamic_programming/burst_balloons.i
+
+# target to preprocess a source file
+dynamic_programming/burst_balloons.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.i
+.PHONY : dynamic_programming/burst_balloons.cpp.i
+
+dynamic_programming/burst_balloons.s: dynamic_programming/burst_balloons.cpp.s
+
+.PHONY : dynamic_programming/burst_balloons.s
+
+# target to generate assembly for a file
+dynamic_programming/burst_balloons.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.s
+.PHONY : dynamic_programming/burst_balloons.cpp.s
+
 dynamic_programming/edit_distance.o: dynamic_programming/edit_distance.cpp.o
 
 .PHONY : dynamic_programming/edit_distance.o
@@ -2174,6 +2309,33 @@ heap/find_median_from_data_stream.s: heap/find_median_from_data_stream.cpp.s
 heap/find_median_from_data_stream.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/find_median_from_data_stream.cpp.s
 .PHONY : heap/find_median_from_data_stream.cpp.s
+
+heap/super_ugly_number.o: heap/super_ugly_number.cpp.o
+
+.PHONY : heap/super_ugly_number.o
+
+# target to build an object file
+heap/super_ugly_number.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.o
+.PHONY : heap/super_ugly_number.cpp.o
+
+heap/super_ugly_number.i: heap/super_ugly_number.cpp.i
+
+.PHONY : heap/super_ugly_number.i
+
+# target to preprocess a source file
+heap/super_ugly_number.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.i
+.PHONY : heap/super_ugly_number.cpp.i
+
+heap/super_ugly_number.s: heap/super_ugly_number.cpp.s
+
+.PHONY : heap/super_ugly_number.s
+
+# target to generate assembly for a file
+heap/super_ugly_number.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/heap/super_ugly_number.cpp.s
+.PHONY : heap/super_ugly_number.cpp.s
 
 linked_list/add_two_numbers.o: linked_list/add_two_numbers.cpp.o
 
@@ -3039,6 +3201,33 @@ topological_sort/course_schedule.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/course_schedule.cpp.s
 .PHONY : topological_sort/course_schedule.cpp.s
 
+topological_sort/minimum_height_trees.o: topological_sort/minimum_height_trees.cpp.o
+
+.PHONY : topological_sort/minimum_height_trees.o
+
+# target to build an object file
+topological_sort/minimum_height_trees.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.o
+.PHONY : topological_sort/minimum_height_trees.cpp.o
+
+topological_sort/minimum_height_trees.i: topological_sort/minimum_height_trees.cpp.i
+
+.PHONY : topological_sort/minimum_height_trees.i
+
+# target to preprocess a source file
+topological_sort/minimum_height_trees.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.i
+.PHONY : topological_sort/minimum_height_trees.cpp.i
+
+topological_sort/minimum_height_trees.s: topological_sort/minimum_height_trees.cpp.s
+
+.PHONY : topological_sort/minimum_height_trees.s
+
+# target to generate assembly for a file
+topological_sort/minimum_height_trees.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/topological_sort/minimum_height_trees.cpp.s
+.PHONY : topological_sort/minimum_height_trees.cpp.s
+
 tree/binary_tree_longest_consecutive_sequence.o: tree/binary_tree_longest_consecutive_sequence.cpp.o
 
 .PHONY : tree/binary_tree_longest_consecutive_sequence.o
@@ -3543,6 +3732,9 @@ help:
 	@echo "... array/best_time_to_buy_and_sell_stock.o"
 	@echo "... array/best_time_to_buy_and_sell_stock.i"
 	@echo "... array/best_time_to_buy_and_sell_stock.s"
+	@echo "... array/best_time_to_buy_and_sell_stock_2.o"
+	@echo "... array/best_time_to_buy_and_sell_stock_2.i"
+	@echo "... array/best_time_to_buy_and_sell_stock_2.s"
 	@echo "... array/find_the_celebrity.o"
 	@echo "... array/find_the_celebrity.i"
 	@echo "... array/find_the_celebrity.s"
@@ -3687,6 +3879,18 @@ help:
 	@echo "... divide_and_conquer/expression_add_operators.o"
 	@echo "... divide_and_conquer/expression_add_operators.i"
 	@echo "... divide_and_conquer/expression_add_operators.s"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_3.o"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_3.i"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_3.s"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_4.o"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_4.i"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_4.s"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.o"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.i"
+	@echo "... dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.s"
+	@echo "... dynamic_programming/burst_balloons.o"
+	@echo "... dynamic_programming/burst_balloons.i"
+	@echo "... dynamic_programming/burst_balloons.s"
 	@echo "... dynamic_programming/edit_distance.o"
 	@echo "... dynamic_programming/edit_distance.i"
 	@echo "... dynamic_programming/edit_distance.s"
@@ -3762,6 +3966,9 @@ help:
 	@echo "... heap/find_median_from_data_stream.o"
 	@echo "... heap/find_median_from_data_stream.i"
 	@echo "... heap/find_median_from_data_stream.s"
+	@echo "... heap/super_ugly_number.o"
+	@echo "... heap/super_ugly_number.i"
+	@echo "... heap/super_ugly_number.s"
 	@echo "... linked_list/add_two_numbers.o"
 	@echo "... linked_list/add_two_numbers.i"
 	@echo "... linked_list/add_two_numbers.s"
@@ -3858,6 +4065,9 @@ help:
 	@echo "... topological_sort/course_schedule.o"
 	@echo "... topological_sort/course_schedule.i"
 	@echo "... topological_sort/course_schedule.s"
+	@echo "... topological_sort/minimum_height_trees.o"
+	@echo "... topological_sort/minimum_height_trees.i"
+	@echo "... topological_sort/minimum_height_trees.s"
 	@echo "... tree/binary_tree_longest_consecutive_sequence.o"
 	@echo "... tree/binary_tree_longest_consecutive_sequence.i"
 	@echo "... tree/binary_tree_longest_consecutive_sequence.s"
