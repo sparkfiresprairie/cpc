@@ -171,6 +171,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/trie/word_squares.cpp.o"
   "CMakeFiles/cpc.dir/string/valid_word_square.cpp.o"
   "CMakeFiles/cpc.dir/string/valid_word_abbreviation.cpp.o"
+  "CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.o"
+  "CMakeFiles/cpc.dir/design/design_cd_function.cpp.o"
+  "CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o"
   "cpc.pdb"
   "cpc"
 )

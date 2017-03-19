@@ -25,3 +25,13 @@ bool hasCycle(ListNode *head) {
 
 // time: O(n)
 // space: O(1)
+
+int maxDiff(vector<int> const& nums) {
+    if (nums.empty()) return 0;
+    int min_num= nums[0];
+    int max_diff = 0;
+    for (int i = 1; i < nums.size(); ++i) {
+        max_diff = max(max_diff, nums[i] - min_num);
+
+    }
+}

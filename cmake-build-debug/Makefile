@@ -1095,6 +1095,33 @@ bit_manipulation/single_number_3.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/single_number_3.cpp.s
 .PHONY : bit_manipulation/single_number_3.cpp.s
 
+design/design_cd_function.o: design/design_cd_function.cpp.o
+
+.PHONY : design/design_cd_function.o
+
+# target to build an object file
+design/design_cd_function.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/design_cd_function.cpp.o
+.PHONY : design/design_cd_function.cpp.o
+
+design/design_cd_function.i: design/design_cd_function.cpp.i
+
+.PHONY : design/design_cd_function.i
+
+# target to preprocess a source file
+design/design_cd_function.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/design_cd_function.cpp.i
+.PHONY : design/design_cd_function.cpp.i
+
+design/design_cd_function.s: design/design_cd_function.cpp.s
+
+.PHONY : design/design_cd_function.s
+
+# target to generate assembly for a file
+design/design_cd_function.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/design_cd_function.cpp.s
+.PHONY : design/design_cd_function.cpp.s
+
 design/design_hit_counter.o: design/design_hit_counter.cpp.o
 
 .PHONY : design/design_hit_counter.o
@@ -1851,6 +1878,33 @@ dfs_bfs/word_ladder.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_ladder.cpp.s
 .PHONY : dfs_bfs/word_ladder.cpp.s
 
+divide_and_conquer/count_of_smaller_numbers_after_self.o: divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o
+
+.PHONY : divide_and_conquer/count_of_smaller_numbers_after_self.o
+
+# target to build an object file
+divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o
+.PHONY : divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o
+
+divide_and_conquer/count_of_smaller_numbers_after_self.i: divide_and_conquer/count_of_smaller_numbers_after_self.cpp.i
+
+.PHONY : divide_and_conquer/count_of_smaller_numbers_after_self.i
+
+# target to preprocess a source file
+divide_and_conquer/count_of_smaller_numbers_after_self.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.i
+.PHONY : divide_and_conquer/count_of_smaller_numbers_after_self.cpp.i
+
+divide_and_conquer/count_of_smaller_numbers_after_self.s: divide_and_conquer/count_of_smaller_numbers_after_self.cpp.s
+
+.PHONY : divide_and_conquer/count_of_smaller_numbers_after_self.s
+
+# target to generate assembly for a file
+divide_and_conquer/count_of_smaller_numbers_after_self.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.s
+.PHONY : divide_and_conquer/count_of_smaller_numbers_after_self.cpp.s
+
 divide_and_conquer/different_ways_to_add_parentheses.o: divide_and_conquer/different_ways_to_add_parentheses.cpp.o
 
 .PHONY : divide_and_conquer/different_ways_to_add_parentheses.o
@@ -2552,6 +2606,33 @@ hash_table/h_index.s: hash_table/h_index.cpp.s
 hash_table/h_index.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/h_index.cpp.s
 .PHONY : hash_table/h_index.cpp.s
+
+hash_table/intersection_of_two_arrays.o: hash_table/intersection_of_two_arrays.cpp.o
+
+.PHONY : hash_table/intersection_of_two_arrays.o
+
+# target to build an object file
+hash_table/intersection_of_two_arrays.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.o
+.PHONY : hash_table/intersection_of_two_arrays.cpp.o
+
+hash_table/intersection_of_two_arrays.i: hash_table/intersection_of_two_arrays.cpp.i
+
+.PHONY : hash_table/intersection_of_two_arrays.i
+
+# target to preprocess a source file
+hash_table/intersection_of_two_arrays.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.i
+.PHONY : hash_table/intersection_of_two_arrays.cpp.i
+
+hash_table/intersection_of_two_arrays.s: hash_table/intersection_of_two_arrays.cpp.s
+
+.PHONY : hash_table/intersection_of_two_arrays.s
+
+# target to generate assembly for a file
+hash_table/intersection_of_two_arrays.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.s
+.PHONY : hash_table/intersection_of_two_arrays.cpp.s
 
 hash_table/line_reflection.o: hash_table/line_reflection.cpp.o
 
@@ -4884,6 +4965,9 @@ help:
 	@echo "... bit_manipulation/single_number_3.o"
 	@echo "... bit_manipulation/single_number_3.i"
 	@echo "... bit_manipulation/single_number_3.s"
+	@echo "... design/design_cd_function.o"
+	@echo "... design/design_cd_function.i"
+	@echo "... design/design_cd_function.s"
 	@echo "... design/design_hit_counter.o"
 	@echo "... design/design_hit_counter.i"
 	@echo "... design/design_hit_counter.s"
@@ -4968,6 +5052,9 @@ help:
 	@echo "... dfs_bfs/word_ladder.o"
 	@echo "... dfs_bfs/word_ladder.i"
 	@echo "... dfs_bfs/word_ladder.s"
+	@echo "... divide_and_conquer/count_of_smaller_numbers_after_self.o"
+	@echo "... divide_and_conquer/count_of_smaller_numbers_after_self.i"
+	@echo "... divide_and_conquer/count_of_smaller_numbers_after_self.s"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.o"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.i"
 	@echo "... divide_and_conquer/different_ways_to_add_parentheses.s"
@@ -5046,6 +5133,9 @@ help:
 	@echo "... hash_table/h_index.o"
 	@echo "... hash_table/h_index.i"
 	@echo "... hash_table/h_index.s"
+	@echo "... hash_table/intersection_of_two_arrays.o"
+	@echo "... hash_table/intersection_of_two_arrays.i"
+	@echo "... hash_table/intersection_of_two_arrays.s"
 	@echo "... hash_table/line_reflection.o"
 	@echo "... hash_table/line_reflection.i"
 	@echo "... hash_table/line_reflection.s"
