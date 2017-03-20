@@ -158,6 +158,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/wiggle_sort.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/wiggle_sort_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/backtracking/BackTracking.h">
 			<Option target="cpc"/>
 		</Unit>
@@ -198,6 +201,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/BitManipulation.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/maximum_product_of_word_lengths.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/single_number_3.cpp">
@@ -278,6 +284,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/letter_combinations_of_a_phone_number.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/longest_increasing_path_in_a_matrix.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/nested_list_weight_sum.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -300,6 +309,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/DivideAndConquer.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/count_of_range_sum.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/count_of_smaller_numbers_after_self.cpp">
@@ -327,6 +339,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/burst_balloons.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/coin_change.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/edit_distance.cpp">
@@ -357,6 +372,12 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/perfect_squares.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/greedy/Greedy.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/greedy/create_maximum_number.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/HashTable.h">
@@ -455,6 +476,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/linked_list_cycle_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/odd_even_linked_list.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/palindrome_linked_list.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -474,6 +498,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/best_meeting_point.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/bulb_switcher.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/convex_polygon.cpp">

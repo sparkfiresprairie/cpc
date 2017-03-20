@@ -4257,6 +4257,198 @@ CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o.
 CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o.provides.build: CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o
 
 
+CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o: ../bit_manipulation/maximum_product_of_word_lengths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Building CXX object CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/maximum_product_of_word_lengths.cpp
+
+CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/maximum_product_of_word_lengths.cpp > CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.i
+
+CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/maximum_product_of_word_lengths.cpp -o CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.s
+
+CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.requires
+
+CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.provides: CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.provides
+
+CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.provides.build: CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o
+
+
+CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o: ../math/bulb_switcher.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_177) "Building CXX object CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/math/bulb_switcher.cpp
+
+CMakeFiles/cpc.dir/math/bulb_switcher.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/math/bulb_switcher.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/math/bulb_switcher.cpp > CMakeFiles/cpc.dir/math/bulb_switcher.cpp.i
+
+CMakeFiles/cpc.dir/math/bulb_switcher.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/math/bulb_switcher.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/math/bulb_switcher.cpp -o CMakeFiles/cpc.dir/math/bulb_switcher.cpp.s
+
+CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.requires
+
+CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.provides: CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.provides
+
+CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.provides.build: CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o
+
+
+CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o: ../greedy/create_maximum_number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_178) "Building CXX object CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/greedy/create_maximum_number.cpp
+
+CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/greedy/create_maximum_number.cpp > CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.i
+
+CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/greedy/create_maximum_number.cpp -o CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.s
+
+CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.requires
+
+CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.provides: CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.provides
+
+CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.provides.build: CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o: ../dynamic_programming/coin_change.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_179) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/coin_change.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/coin_change.cpp > CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/coin_change.cpp -o CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o
+
+
+CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o: ../array/wiggle_sort_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_180) "Building CXX object CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/wiggle_sort_2.cpp
+
+CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/wiggle_sort_2.cpp > CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.i
+
+CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/wiggle_sort_2.cpp -o CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.s
+
+CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.provides: CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.provides.build: CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o
+
+
+CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o: ../divide_and_conquer/count_of_range_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_181) "Building CXX object CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/count_of_range_sum.cpp
+
+CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/count_of_range_sum.cpp > CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.i
+
+CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/count_of_range_sum.cpp -o CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.s
+
+CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.requires
+
+CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.provides: CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.provides
+
+CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.provides.build: CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o
+
+
+CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o: ../linked_list/odd_even_linked_list.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_182) "Building CXX object CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/linked_list/odd_even_linked_list.cpp
+
+CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/linked_list/odd_even_linked_list.cpp > CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.i
+
+CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/linked_list/odd_even_linked_list.cpp -o CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.s
+
+CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.requires
+
+CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.provides: CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.provides
+
+CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.provides.build: CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o
+
+
+CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o: ../dfs_bfs/longest_increasing_path_in_a_matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_183) "Building CXX object CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/longest_increasing_path_in_a_matrix.cpp
+
+CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/longest_increasing_path_in_a_matrix.cpp > CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.i
+
+CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/longest_increasing_path_in_a_matrix.cpp -o CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.s
+
+CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.requires
+
+CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.provides: CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.provides
+
+CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -4433,7 +4625,15 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/string/valid_word_abbreviation.cpp.o" \
 "CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.o" \
 "CMakeFiles/cpc.dir/design/design_cd_function.cpp.o" \
-"CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o"
+"CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o" \
+"CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o" \
+"CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o" \
+"CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o" \
+"CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o" \
+"CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o" \
+"CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o" \
+"CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -4613,9 +4813,17 @@ cpc: CMakeFiles/cpc.dir/string/valid_word_abbreviation.cpp.o
 cpc: CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.o
 cpc: CMakeFiles/cpc.dir/design/design_cd_function.cpp.o
 cpc: CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o
+cpc: CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o
+cpc: CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o
+cpc: CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o
+cpc: CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o
+cpc: CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o
+cpc: CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o
+cpc: CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_176) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -4798,6 +5006,14 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/string/valid_word_abbreviation.c
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/design_cd_function.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

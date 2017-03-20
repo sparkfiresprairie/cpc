@@ -1,9 +1,9 @@
 //
-// Created by Xingyuan Wang on 3/6/17.
+// Created by Xingyuan Wang on 3/19/17.
 //
 
-#ifndef CPC_DIVIDEANDCONQUER_H
-#define CPC_DIVIDEANDCONQUER_H
+#ifndef CPC_GREEDY_H
+#define CPC_GREEDY_H
 
 #include <iostream>
 #include <vector>
@@ -109,4 +109,5 @@ public:
     Iterator(IT b, IT e) : b(b), e(e) {}
 };
 
-#endif //CPC_DIVIDEANDCONQUER_H
+
+#endif //CPC_GREEDY_H

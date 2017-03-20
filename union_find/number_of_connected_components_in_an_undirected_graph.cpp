@@ -56,3 +56,5 @@ int countComponents(int n, vector<pair<int, int>>& edges) {
     }
     return count;
 }
+
+// time:

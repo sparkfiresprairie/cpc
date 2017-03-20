@@ -33,9 +33,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b4b212-1526-472a-89a1-e3513f7a964e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design/design_cd_function.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/divide_and_conquer/count_of_smaller_numbers_after_self.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/intersection_of_two_arrays.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/array/wiggle_sort_2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit_manipulation/maximum_product_of_word_lengths.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dfs_bfs/longest_increasing_path_in_a_matrix.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/divide_and_conquer/count_of_range_sum.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic_programming/coin_change.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greedy/Greedy.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/greedy/create_maximum_number.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/linked_list/odd_even_linked_list.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/math/bulb_switcher.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/DependInfo.cmake" />
@@ -45,7 +51,10 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cpc.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/cpc.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/linked_list/linked_list_cycle.cpp" afterPath="$PROJECT_DIR$/linked_list/linked_list_cycle.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divide_and_conquer/DivideAndConquer.h" afterPath="$PROJECT_DIR$/divide_and_conquer/DivideAndConquer.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/divide_and_conquer/count_of_smaller_numbers_after_self.cpp" afterPath="$PROJECT_DIR$/divide_and_conquer/count_of_smaller_numbers_after_self.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hash_table/maximum_size_subarray_sum_equals_k.cpp" afterPath="$PROJECT_DIR$/hash_table/maximum_size_subarray_sum_equals_k.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/union_find/number_of_connected_components_in_an_undirected_graph.cpp" afterPath="$PROJECT_DIR$/union_find/number_of_connected_components_in_an_undirected_graph.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,38 +70,20 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Tree.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tree/Tree.h">
+      <file leaf-file-name="Greedy.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/greedy/Greedy.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="107" selection-end-column="2" />
-              <folding />
+            <state relative-caret-position="1980">
+              <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding>
+                <element signature="e#90#109#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Brain_Teaser.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/brain_teaser/Brain_Teaser.h">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="48" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="intersection_of_two_arrays.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash_table/intersection_of_two_arrays.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="2" selection-end-line="51" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count_of_smaller_numbers_after_self.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/divide_and_conquer/count_of_smaller_numbers_after_self.cpp">
+      <file leaf-file-name="power_of_three.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/math/power_of_three.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -101,67 +92,86 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="design_cd_function.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/design_cd_function.cpp">
+      <file leaf-file-name="count_of_range_sum.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/divide_and_conquer/count_of_range_sum.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            <state relative-caret-position="852">
+              <caret line="58" column="14" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+              <folding>
+                <marker date="1489980139000" expanded="true" signature="1740:1946" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="odd_even_linked_list.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/linked_list/odd_even_linked_list.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Trie.h" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trie/Trie.h">
+      <file leaf-file-name="longest_increasing_path_in_a_matrix.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dfs_bfs/longest_increasing_path_in_a_matrix.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="906">
+              <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_maximum_number.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/greedy/create_maximum_number.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="924">
-              <caret line="107" column="2" lean-forward="false" selection-start-line="107" selection-start-column="2" selection-end-line="107" selection-end-column="2" />
+              <caret line="84" column="18" lean-forward="false" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="word_squares.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/trie/word_squares.cpp">
+      <file leaf-file-name="coin_change.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dynamic_programming/coin_change.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="828">
-              <caret line="117" column="39" lean-forward="false" selection-start-line="117" selection-start-column="39" selection-end-line="117" selection-end-column="39" />
+            <state relative-caret-position="702">
+              <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="number_of_connected_components_in_an_undirected_graph.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/union_find/number_of_connected_components_in_an_undirected_graph.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="870">
+              <caret line="57" column="1" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="57" selection-end-column="1" />
               <folding>
-                <marker date="1489734622000" expanded="true" signature="1531:1738" ph="{...}" />
-                <marker date="1489734622000" expanded="true" signature="1648:1736" ph="{...}" />
+                <marker date="1489964342000" expanded="true" signature="822:1624" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="valid_word_square.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/valid_word_square.cpp">
+      <file leaf-file-name="wiggle_sort_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/array/wiggle_sort_2.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="888">
+              <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="valid_word_abbreviation.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/valid_word_abbreviation.cpp">
+      <file leaf-file-name="maximum_size_subarray_sum_equals_k.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hash_table/maximum_size_subarray_sum_equals_k.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="3" lean-forward="false" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+            <state relative-caret-position="792">
+              <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linked_list_cycle.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linked_list/linked_list_cycle.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="36" selection-end-column="1" />
-              <folding>
-                <marker date="1489852010000" expanded="true" signature="234:488" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -193,17 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/array/best_time_to_buy_and_sell_stock.cpp" />
-        <option value="$PROJECT_DIR$/array/best_time_to_buy_and_sell_stock_2.cpp" />
-        <option value="$PROJECT_DIR$/dynamic_programming/best_time_to_buy_and_sell_stock_3.cpp" />
-        <option value="$PROJECT_DIR$/dynamic_programming/best_time_to_buy_and_sell_stock_4.cpp" />
-        <option value="$PROJECT_DIR$/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp" />
-        <option value="$PROJECT_DIR$/topological_sort/minimum_height_trees.cpp" />
-        <option value="$PROJECT_DIR$/dynamic_programming/burst_balloons.cpp" />
-        <option value="$PROJECT_DIR$/heap/super_ugly_number.cpp" />
-        <option value="$PROJECT_DIR$/tree/binary_tree_upside_down.cpp" />
-        <option value="$PROJECT_DIR$/string/read_n_characters_given_read4.cpp" />
-        <option value="$PROJECT_DIR$/string/read_n_characters_given_read4_2_call_multiple_times.cpp" />
         <option value="$PROJECT_DIR$/hash_table/longest_substring_with_at_most_two_distinct_characters.cpp" />
         <option value="$PROJECT_DIR$/string/one_edit_distance.cpp" />
         <option value="$PROJECT_DIR$/array/missing_ranges.cpp" />
@@ -212,8 +211,6 @@
         <option value="$PROJECT_DIR$/tree/count_univalue_subtrees.cpp" />
         <option value="$PROJECT_DIR$/binary_indexed_tree/range_sum_query_2d_mutable.cpp" />
         <option value="$PROJECT_DIR$/backtracking/generalized_abbreviation.cpp" />
-        <option value="$PROJECT_DIR$/union_find/number_of_connected_components_in_an_undirected_graph.cpp" />
-        <option value="$PROJECT_DIR$/hash_table/maximum_size_subarray_sum_equals_k.cpp" />
         <option value="$PROJECT_DIR$/tree/largest_bst_subtree.cpp" />
         <option value="$PROJECT_DIR$/dfs_bfs/nested_list_weight_sum.cpp" />
         <option value="$PROJECT_DIR$/hash_table/longest_substring_with_at_most_k_distinct_characters.cpp" />
@@ -244,6 +241,19 @@
         <option value="$PROJECT_DIR$/linked_list/linked_list_cycle.cpp" />
         <option value="$PROJECT_DIR$/design/design_cd_function.cpp" />
         <option value="$PROJECT_DIR$/hash_table/intersection_of_two_arrays.cpp" />
+        <option value="$PROJECT_DIR$/divide_and_conquer/DivideAndConquer.h" />
+        <option value="$PROJECT_DIR$/divide_and_conquer/count_of_smaller_numbers_after_self.cpp" />
+        <option value="$PROJECT_DIR$/bit_manipulation/maximum_product_of_word_lengths.cpp" />
+        <option value="$PROJECT_DIR$/math/bulb_switcher.cpp" />
+        <option value="$PROJECT_DIR$/greedy/Greedy.h" />
+        <option value="$PROJECT_DIR$/greedy/create_maximum_number.cpp" />
+        <option value="$PROJECT_DIR$/dynamic_programming/coin_change.cpp" />
+        <option value="$PROJECT_DIR$/union_find/number_of_connected_components_in_an_undirected_graph.cpp" />
+        <option value="$PROJECT_DIR$/array/wiggle_sort_2.cpp" />
+        <option value="$PROJECT_DIR$/hash_table/maximum_size_subarray_sum_equals_k.cpp" />
+        <option value="$PROJECT_DIR$/divide_and_conquer/count_of_range_sum.cpp" />
+        <option value="$PROJECT_DIR$/linked_list/odd_even_linked_list.cpp" />
+        <option value="$PROJECT_DIR$/dfs_bfs/longest_increasing_path_in_a_matrix.cpp" />
       </list>
     </option>
   </component>
@@ -299,7 +309,91 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="union_find" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sort" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="math" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="linked_list" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="hash_table" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greedy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dynamic_programming" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,7 +421,63 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="dfs_bfs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="design" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bit_manipulation" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="backtracking" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cpc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="array" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -545,18 +695,18 @@
       <workItem from="1488778196726" duration="12807000" />
       <workItem from="1488946718334" duration="24534000" />
       <workItem from="1489209969997" duration="3598000" />
-      <workItem from="1489214171622" duration="69682000" />
+      <workItem from="1489214171622" duration="80568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127467000" />
+    <option name="totallyTimeSpent" value="138353000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-511" width="1920" height="1057" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19635417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19427083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="LuaJ" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -590,102 +740,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dynamic_programming/best_time_to_buy_and_sell_stock_with_cooldown.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/topological_sort/minimum_height_trees.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="85" column="13" lean-forward="false" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic_programming/burst_balloons.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" column="52" lean-forward="false" selection-start-line="46" selection-start-column="52" selection-end-line="46" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/heap/super_ugly_number.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="65" column="34" lean-forward="false" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tree/binary_tree_upside_down.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/read_n_characters_given_read4.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/read_n_characters_given_read4_2_call_multiple_times.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hash_table/longest_substring_with_at_most_two_distinct_characters.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="21" lean-forward="false" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/one_edit_distance.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/array/missing_ranges.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/string.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/string/reverse_words_in_a_string_2.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hash_table/group_shifted_strings.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -716,22 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
           <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/union_find/number_of_connected_components_in_an_undirected_graph.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hash_table/maximum_size_subarray_sum_equals_k.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="21" lean-forward="false" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -1001,8 +1039,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/divide_and_conquer/count_of_smaller_numbers_after_self.cpp">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="65" column="14" lean-forward="false" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bit_manipulation/maximum_product_of_word_lengths.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="28" column="18" lean-forward="false" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/bulb_switcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="1" lean-forward="false" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy.cpp">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divide_and_conquer/DivideAndConquer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <element signature="e#109#128#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/Greedy.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="110" column="0" lean-forward="false" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+          <folding>
+            <element signature="e#90#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/greedy/create_maximum_number.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="84" column="18" lean-forward="false" selection-start-line="84" selection-start-column="18" selection-end-line="84" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic_programming/coin_change.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/union_find/number_of_connected_components_in_an_undirected_graph.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="57" column="1" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <marker date="1489964342000" expanded="true" signature="822:1624" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/array/wiggle_sort_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="55" column="14" lean-forward="false" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hash_table/maximum_size_subarray_sum_equals_k.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/math/power_of_three.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/divide_and_conquer/count_of_range_sum.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="58" column="14" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
+          <folding>
+            <marker date="1489980139000" expanded="true" signature="1740:1946" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/linked_list/odd_even_linked_list.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="26" lean-forward="false" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dfs_bfs/longest_increasing_path_in_a_matrix.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="906">
+          <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
           <folding />
         </state>
       </provider>

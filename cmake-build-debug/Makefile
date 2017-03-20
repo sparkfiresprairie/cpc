@@ -798,6 +798,33 @@ array/wiggle_sort.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/wiggle_sort.cpp.s
 .PHONY : array/wiggle_sort.cpp.s
 
+array/wiggle_sort_2.o: array/wiggle_sort_2.cpp.o
+
+.PHONY : array/wiggle_sort_2.o
+
+# target to build an object file
+array/wiggle_sort_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o
+.PHONY : array/wiggle_sort_2.cpp.o
+
+array/wiggle_sort_2.i: array/wiggle_sort_2.cpp.i
+
+.PHONY : array/wiggle_sort_2.i
+
+# target to preprocess a source file
+array/wiggle_sort_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.i
+.PHONY : array/wiggle_sort_2.cpp.i
+
+array/wiggle_sort_2.s: array/wiggle_sort_2.cpp.s
+
+.PHONY : array/wiggle_sort_2.s
+
+# target to generate assembly for a file
+array/wiggle_sort_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.s
+.PHONY : array/wiggle_sort_2.cpp.s
+
 backtracking/andriod_unlock_patterns.o: backtracking/andriod_unlock_patterns.cpp.o
 
 .PHONY : backtracking/andriod_unlock_patterns.o
@@ -1067,6 +1094,33 @@ binary_search/smallest_rectangle_enclosing_black_pixels.s: binary_search/smalles
 binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
 .PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
+
+bit_manipulation/maximum_product_of_word_lengths.o: bit_manipulation/maximum_product_of_word_lengths.cpp.o
+
+.PHONY : bit_manipulation/maximum_product_of_word_lengths.o
+
+# target to build an object file
+bit_manipulation/maximum_product_of_word_lengths.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.o
+.PHONY : bit_manipulation/maximum_product_of_word_lengths.cpp.o
+
+bit_manipulation/maximum_product_of_word_lengths.i: bit_manipulation/maximum_product_of_word_lengths.cpp.i
+
+.PHONY : bit_manipulation/maximum_product_of_word_lengths.i
+
+# target to preprocess a source file
+bit_manipulation/maximum_product_of_word_lengths.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.i
+.PHONY : bit_manipulation/maximum_product_of_word_lengths.cpp.i
+
+bit_manipulation/maximum_product_of_word_lengths.s: bit_manipulation/maximum_product_of_word_lengths.cpp.s
+
+.PHONY : bit_manipulation/maximum_product_of_word_lengths.s
+
+# target to generate assembly for a file
+bit_manipulation/maximum_product_of_word_lengths.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/maximum_product_of_word_lengths.cpp.s
+.PHONY : bit_manipulation/maximum_product_of_word_lengths.cpp.s
 
 bit_manipulation/single_number_3.o: bit_manipulation/single_number_3.cpp.o
 
@@ -1689,6 +1743,33 @@ dfs_bfs/letter_combinations_of_a_phone_number.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/letter_combinations_of_a_phone_number.cpp.s
 .PHONY : dfs_bfs/letter_combinations_of_a_phone_number.cpp.s
 
+dfs_bfs/longest_increasing_path_in_a_matrix.o: dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o
+
+.PHONY : dfs_bfs/longest_increasing_path_in_a_matrix.o
+
+# target to build an object file
+dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o
+.PHONY : dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o
+
+dfs_bfs/longest_increasing_path_in_a_matrix.i: dfs_bfs/longest_increasing_path_in_a_matrix.cpp.i
+
+.PHONY : dfs_bfs/longest_increasing_path_in_a_matrix.i
+
+# target to preprocess a source file
+dfs_bfs/longest_increasing_path_in_a_matrix.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.i
+.PHONY : dfs_bfs/longest_increasing_path_in_a_matrix.cpp.i
+
+dfs_bfs/longest_increasing_path_in_a_matrix.s: dfs_bfs/longest_increasing_path_in_a_matrix.cpp.s
+
+.PHONY : dfs_bfs/longest_increasing_path_in_a_matrix.s
+
+# target to generate assembly for a file
+dfs_bfs/longest_increasing_path_in_a_matrix.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.s
+.PHONY : dfs_bfs/longest_increasing_path_in_a_matrix.cpp.s
+
 dfs_bfs/nested_list_weight_sum.o: dfs_bfs/nested_list_weight_sum.cpp.o
 
 .PHONY : dfs_bfs/nested_list_weight_sum.o
@@ -1877,6 +1958,33 @@ dfs_bfs/word_ladder.s: dfs_bfs/word_ladder.cpp.s
 dfs_bfs/word_ladder.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_ladder.cpp.s
 .PHONY : dfs_bfs/word_ladder.cpp.s
+
+divide_and_conquer/count_of_range_sum.o: divide_and_conquer/count_of_range_sum.cpp.o
+
+.PHONY : divide_and_conquer/count_of_range_sum.o
+
+# target to build an object file
+divide_and_conquer/count_of_range_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o
+.PHONY : divide_and_conquer/count_of_range_sum.cpp.o
+
+divide_and_conquer/count_of_range_sum.i: divide_and_conquer/count_of_range_sum.cpp.i
+
+.PHONY : divide_and_conquer/count_of_range_sum.i
+
+# target to preprocess a source file
+divide_and_conquer/count_of_range_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.i
+.PHONY : divide_and_conquer/count_of_range_sum.cpp.i
+
+divide_and_conquer/count_of_range_sum.s: divide_and_conquer/count_of_range_sum.cpp.s
+
+.PHONY : divide_and_conquer/count_of_range_sum.s
+
+# target to generate assembly for a file
+divide_and_conquer/count_of_range_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.s
+.PHONY : divide_and_conquer/count_of_range_sum.cpp.s
 
 divide_and_conquer/count_of_smaller_numbers_after_self.o: divide_and_conquer/count_of_smaller_numbers_after_self.cpp.o
 
@@ -2093,6 +2201,33 @@ dynamic_programming/burst_balloons.s: dynamic_programming/burst_balloons.cpp.s
 dynamic_programming/burst_balloons.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/burst_balloons.cpp.s
 .PHONY : dynamic_programming/burst_balloons.cpp.s
+
+dynamic_programming/coin_change.o: dynamic_programming/coin_change.cpp.o
+
+.PHONY : dynamic_programming/coin_change.o
+
+# target to build an object file
+dynamic_programming/coin_change.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.o
+.PHONY : dynamic_programming/coin_change.cpp.o
+
+dynamic_programming/coin_change.i: dynamic_programming/coin_change.cpp.i
+
+.PHONY : dynamic_programming/coin_change.i
+
+# target to preprocess a source file
+dynamic_programming/coin_change.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.i
+.PHONY : dynamic_programming/coin_change.cpp.i
+
+dynamic_programming/coin_change.s: dynamic_programming/coin_change.cpp.s
+
+.PHONY : dynamic_programming/coin_change.s
+
+# target to generate assembly for a file
+dynamic_programming/coin_change.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.s
+.PHONY : dynamic_programming/coin_change.cpp.s
 
 dynamic_programming/edit_distance.o: dynamic_programming/edit_distance.cpp.o
 
@@ -2363,6 +2498,33 @@ dynamic_programming/perfect_squares.s: dynamic_programming/perfect_squares.cpp.s
 dynamic_programming/perfect_squares.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/perfect_squares.cpp.s
 .PHONY : dynamic_programming/perfect_squares.cpp.s
+
+greedy/create_maximum_number.o: greedy/create_maximum_number.cpp.o
+
+.PHONY : greedy/create_maximum_number.o
+
+# target to build an object file
+greedy/create_maximum_number.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o
+.PHONY : greedy/create_maximum_number.cpp.o
+
+greedy/create_maximum_number.i: greedy/create_maximum_number.cpp.i
+
+.PHONY : greedy/create_maximum_number.i
+
+# target to preprocess a source file
+greedy/create_maximum_number.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.i
+.PHONY : greedy/create_maximum_number.cpp.i
+
+greedy/create_maximum_number.s: greedy/create_maximum_number.cpp.s
+
+.PHONY : greedy/create_maximum_number.s
+
+# target to generate assembly for a file
+greedy/create_maximum_number.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.s
+.PHONY : greedy/create_maximum_number.cpp.s
 
 hash_table/bulls_and_cows.o: hash_table/bulls_and_cows.cpp.o
 
@@ -3147,6 +3309,33 @@ linked_list/linked_list_cycle_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/linked_list_cycle_2.cpp.s
 .PHONY : linked_list/linked_list_cycle_2.cpp.s
 
+linked_list/odd_even_linked_list.o: linked_list/odd_even_linked_list.cpp.o
+
+.PHONY : linked_list/odd_even_linked_list.o
+
+# target to build an object file
+linked_list/odd_even_linked_list.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o
+.PHONY : linked_list/odd_even_linked_list.cpp.o
+
+linked_list/odd_even_linked_list.i: linked_list/odd_even_linked_list.cpp.i
+
+.PHONY : linked_list/odd_even_linked_list.i
+
+# target to preprocess a source file
+linked_list/odd_even_linked_list.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.i
+.PHONY : linked_list/odd_even_linked_list.cpp.i
+
+linked_list/odd_even_linked_list.s: linked_list/odd_even_linked_list.cpp.s
+
+.PHONY : linked_list/odd_even_linked_list.s
+
+# target to generate assembly for a file
+linked_list/odd_even_linked_list.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.s
+.PHONY : linked_list/odd_even_linked_list.cpp.s
+
 linked_list/palindrome_linked_list.o: linked_list/palindrome_linked_list.cpp.o
 
 .PHONY : linked_list/palindrome_linked_list.o
@@ -3308,6 +3497,33 @@ math/best_meeting_point.s: math/best_meeting_point.cpp.s
 math/best_meeting_point.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/best_meeting_point.cpp.s
 .PHONY : math/best_meeting_point.cpp.s
+
+math/bulb_switcher.o: math/bulb_switcher.cpp.o
+
+.PHONY : math/bulb_switcher.o
+
+# target to build an object file
+math/bulb_switcher.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/bulb_switcher.cpp.o
+.PHONY : math/bulb_switcher.cpp.o
+
+math/bulb_switcher.i: math/bulb_switcher.cpp.i
+
+.PHONY : math/bulb_switcher.i
+
+# target to preprocess a source file
+math/bulb_switcher.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/bulb_switcher.cpp.i
+.PHONY : math/bulb_switcher.cpp.i
+
+math/bulb_switcher.s: math/bulb_switcher.cpp.s
+
+.PHONY : math/bulb_switcher.s
+
+# target to generate assembly for a file
+math/bulb_switcher.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/bulb_switcher.cpp.s
+.PHONY : math/bulb_switcher.cpp.s
 
 math/convex_polygon.o: math/convex_polygon.cpp.o
 
@@ -4932,6 +5148,9 @@ help:
 	@echo "... array/wiggle_sort.o"
 	@echo "... array/wiggle_sort.i"
 	@echo "... array/wiggle_sort.s"
+	@echo "... array/wiggle_sort_2.o"
+	@echo "... array/wiggle_sort_2.i"
+	@echo "... array/wiggle_sort_2.s"
 	@echo "... backtracking/andriod_unlock_patterns.o"
 	@echo "... backtracking/andriod_unlock_patterns.i"
 	@echo "... backtracking/andriod_unlock_patterns.s"
@@ -4962,6 +5181,9 @@ help:
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.o"
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.i"
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.s"
+	@echo "... bit_manipulation/maximum_product_of_word_lengths.o"
+	@echo "... bit_manipulation/maximum_product_of_word_lengths.i"
+	@echo "... bit_manipulation/maximum_product_of_word_lengths.s"
 	@echo "... bit_manipulation/single_number_3.o"
 	@echo "... bit_manipulation/single_number_3.i"
 	@echo "... bit_manipulation/single_number_3.s"
@@ -5031,6 +5253,9 @@ help:
 	@echo "... dfs_bfs/letter_combinations_of_a_phone_number.o"
 	@echo "... dfs_bfs/letter_combinations_of_a_phone_number.i"
 	@echo "... dfs_bfs/letter_combinations_of_a_phone_number.s"
+	@echo "... dfs_bfs/longest_increasing_path_in_a_matrix.o"
+	@echo "... dfs_bfs/longest_increasing_path_in_a_matrix.i"
+	@echo "... dfs_bfs/longest_increasing_path_in_a_matrix.s"
 	@echo "... dfs_bfs/nested_list_weight_sum.o"
 	@echo "... dfs_bfs/nested_list_weight_sum.i"
 	@echo "... dfs_bfs/nested_list_weight_sum.s"
@@ -5052,6 +5277,9 @@ help:
 	@echo "... dfs_bfs/word_ladder.o"
 	@echo "... dfs_bfs/word_ladder.i"
 	@echo "... dfs_bfs/word_ladder.s"
+	@echo "... divide_and_conquer/count_of_range_sum.o"
+	@echo "... divide_and_conquer/count_of_range_sum.i"
+	@echo "... divide_and_conquer/count_of_range_sum.s"
 	@echo "... divide_and_conquer/count_of_smaller_numbers_after_self.o"
 	@echo "... divide_and_conquer/count_of_smaller_numbers_after_self.i"
 	@echo "... divide_and_conquer/count_of_smaller_numbers_after_self.s"
@@ -5076,6 +5304,9 @@ help:
 	@echo "... dynamic_programming/burst_balloons.o"
 	@echo "... dynamic_programming/burst_balloons.i"
 	@echo "... dynamic_programming/burst_balloons.s"
+	@echo "... dynamic_programming/coin_change.o"
+	@echo "... dynamic_programming/coin_change.i"
+	@echo "... dynamic_programming/coin_change.s"
 	@echo "... dynamic_programming/edit_distance.o"
 	@echo "... dynamic_programming/edit_distance.i"
 	@echo "... dynamic_programming/edit_distance.s"
@@ -5106,6 +5337,9 @@ help:
 	@echo "... dynamic_programming/perfect_squares.o"
 	@echo "... dynamic_programming/perfect_squares.i"
 	@echo "... dynamic_programming/perfect_squares.s"
+	@echo "... greedy/create_maximum_number.o"
+	@echo "... greedy/create_maximum_number.i"
+	@echo "... greedy/create_maximum_number.s"
 	@echo "... hash_table/bulls_and_cows.o"
 	@echo "... hash_table/bulls_and_cows.i"
 	@echo "... hash_table/bulls_and_cows.s"
@@ -5193,6 +5427,9 @@ help:
 	@echo "... linked_list/linked_list_cycle_2.o"
 	@echo "... linked_list/linked_list_cycle_2.i"
 	@echo "... linked_list/linked_list_cycle_2.s"
+	@echo "... linked_list/odd_even_linked_list.o"
+	@echo "... linked_list/odd_even_linked_list.i"
+	@echo "... linked_list/odd_even_linked_list.s"
 	@echo "... linked_list/palindrome_linked_list.o"
 	@echo "... linked_list/palindrome_linked_list.i"
 	@echo "... linked_list/palindrome_linked_list.s"
@@ -5211,6 +5448,9 @@ help:
 	@echo "... math/best_meeting_point.o"
 	@echo "... math/best_meeting_point.i"
 	@echo "... math/best_meeting_point.s"
+	@echo "... math/bulb_switcher.o"
+	@echo "... math/bulb_switcher.i"
+	@echo "... math/bulb_switcher.s"
 	@echo "... math/convex_polygon.o"
 	@echo "... math/convex_polygon.i"
 	@echo "... math/convex_polygon.s"
