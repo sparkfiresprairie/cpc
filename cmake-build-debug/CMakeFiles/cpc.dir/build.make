@@ -4449,6 +4449,102 @@ CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.provides: C
 CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o
 
 
+CMakeFiles/cpc.dir/greedy/patching_array.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/greedy/patching_array.cpp.o: ../greedy/patching_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Building CXX object CMakeFiles/cpc.dir/greedy/patching_array.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/greedy/patching_array.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/greedy/patching_array.cpp
+
+CMakeFiles/cpc.dir/greedy/patching_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/greedy/patching_array.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/greedy/patching_array.cpp > CMakeFiles/cpc.dir/greedy/patching_array.cpp.i
+
+CMakeFiles/cpc.dir/greedy/patching_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/greedy/patching_array.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/greedy/patching_array.cpp -o CMakeFiles/cpc.dir/greedy/patching_array.cpp.s
+
+CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.requires
+
+CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.provides: CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.provides
+
+CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.provides.build: CMakeFiles/cpc.dir/greedy/patching_array.cpp.o
+
+
+CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o: ../tree/verify_preorder_serialization_of_a_binary_tree.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_185) "Building CXX object CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/tree/verify_preorder_serialization_of_a_binary_tree.cpp
+
+CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/tree/verify_preorder_serialization_of_a_binary_tree.cpp > CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.i
+
+CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/tree/verify_preorder_serialization_of_a_binary_tree.cpp -o CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.s
+
+CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.requires
+
+CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.provides: CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.provides
+
+CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o
+
+
+CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o: ../dfs_bfs/reconstruct_itinerary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_186) "Building CXX object CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/reconstruct_itinerary.cpp
+
+CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/reconstruct_itinerary.cpp > CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.i
+
+CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/reconstruct_itinerary.cpp -o CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.s
+
+CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.requires
+
+CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.provides: CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.provides
+
+CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o
+
+
+CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o: ../array/increasing_triplet_subsequence.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_187) "Building CXX object CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/increasing_triplet_subsequence.cpp
+
+CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/increasing_triplet_subsequence.cpp > CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.i
+
+CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/increasing_triplet_subsequence.cpp -o CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.s
+
+CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.provides: CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.provides.build: CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -4633,7 +4729,11 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o" \
 "CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o" \
 "CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o" \
-"CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o"
+"CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o" \
+"CMakeFiles/cpc.dir/greedy/patching_array.cpp.o" \
+"CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o" \
+"CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o" \
+"CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -4821,9 +4921,13 @@ cpc: CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o
 cpc: CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o
 cpc: CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o
 cpc: CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o
+cpc: CMakeFiles/cpc.dir/greedy/patching_array.cpp.o
+cpc: CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o
+cpc: CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o
+cpc: CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_184) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_188) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -5014,6 +5118,10 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/wiggle_sort_2.cpp.o.requir
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/greedy/patching_array.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

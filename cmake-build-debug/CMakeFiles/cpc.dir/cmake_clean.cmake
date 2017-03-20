@@ -182,6 +182,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/divide_and_conquer/count_of_range_sum.cpp.o"
   "CMakeFiles/cpc.dir/linked_list/odd_even_linked_list.cpp.o"
   "CMakeFiles/cpc.dir/dfs_bfs/longest_increasing_path_in_a_matrix.cpp.o"
+  "CMakeFiles/cpc.dir/greedy/patching_array.cpp.o"
+  "CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o"
+  "CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o"
+  "CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o"
   "cpc.pdb"
   "cpc"
 )

@@ -107,6 +107,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/game_of_life.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/increasing_triplet_subsequence.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/kth_largest_element_in_an_array.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -296,6 +299,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/number_of_islands.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/reconstruct_itinerary.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/remove_invalid_parentheses.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -378,6 +384,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/greedy/create_maximum_number.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/greedy/patching_array.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/HashTable.h">
@@ -678,6 +687,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/verify_preorder_sequence_in_binary_search_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/verify_preorder_serialization_of_a_binary_tree.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/trie/Trie.h">

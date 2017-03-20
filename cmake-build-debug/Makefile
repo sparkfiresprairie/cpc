@@ -339,6 +339,33 @@ array/game_of_life.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/game_of_life.cpp.s
 .PHONY : array/game_of_life.cpp.s
 
+array/increasing_triplet_subsequence.o: array/increasing_triplet_subsequence.cpp.o
+
+.PHONY : array/increasing_triplet_subsequence.o
+
+# target to build an object file
+array/increasing_triplet_subsequence.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.o
+.PHONY : array/increasing_triplet_subsequence.cpp.o
+
+array/increasing_triplet_subsequence.i: array/increasing_triplet_subsequence.cpp.i
+
+.PHONY : array/increasing_triplet_subsequence.i
+
+# target to preprocess a source file
+array/increasing_triplet_subsequence.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.i
+.PHONY : array/increasing_triplet_subsequence.cpp.i
+
+array/increasing_triplet_subsequence.s: array/increasing_triplet_subsequence.cpp.s
+
+.PHONY : array/increasing_triplet_subsequence.s
+
+# target to generate assembly for a file
+array/increasing_triplet_subsequence.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/increasing_triplet_subsequence.cpp.s
+.PHONY : array/increasing_triplet_subsequence.cpp.s
+
 array/kth_largest_element_in_an_array.o: array/kth_largest_element_in_an_array.cpp.o
 
 .PHONY : array/kth_largest_element_in_an_array.o
@@ -1851,6 +1878,33 @@ dfs_bfs/number_of_islands.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/number_of_islands.cpp.s
 .PHONY : dfs_bfs/number_of_islands.cpp.s
 
+dfs_bfs/reconstruct_itinerary.o: dfs_bfs/reconstruct_itinerary.cpp.o
+
+.PHONY : dfs_bfs/reconstruct_itinerary.o
+
+# target to build an object file
+dfs_bfs/reconstruct_itinerary.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.o
+.PHONY : dfs_bfs/reconstruct_itinerary.cpp.o
+
+dfs_bfs/reconstruct_itinerary.i: dfs_bfs/reconstruct_itinerary.cpp.i
+
+.PHONY : dfs_bfs/reconstruct_itinerary.i
+
+# target to preprocess a source file
+dfs_bfs/reconstruct_itinerary.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.i
+.PHONY : dfs_bfs/reconstruct_itinerary.cpp.i
+
+dfs_bfs/reconstruct_itinerary.s: dfs_bfs/reconstruct_itinerary.cpp.s
+
+.PHONY : dfs_bfs/reconstruct_itinerary.s
+
+# target to generate assembly for a file
+dfs_bfs/reconstruct_itinerary.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/reconstruct_itinerary.cpp.s
+.PHONY : dfs_bfs/reconstruct_itinerary.cpp.s
+
 dfs_bfs/remove_invalid_parentheses.o: dfs_bfs/remove_invalid_parentheses.cpp.o
 
 .PHONY : dfs_bfs/remove_invalid_parentheses.o
@@ -2525,6 +2579,33 @@ greedy/create_maximum_number.s: greedy/create_maximum_number.cpp.s
 greedy/create_maximum_number.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.s
 .PHONY : greedy/create_maximum_number.cpp.s
+
+greedy/patching_array.o: greedy/patching_array.cpp.o
+
+.PHONY : greedy/patching_array.o
+
+# target to build an object file
+greedy/patching_array.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/patching_array.cpp.o
+.PHONY : greedy/patching_array.cpp.o
+
+greedy/patching_array.i: greedy/patching_array.cpp.i
+
+.PHONY : greedy/patching_array.i
+
+# target to preprocess a source file
+greedy/patching_array.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/patching_array.cpp.i
+.PHONY : greedy/patching_array.cpp.i
+
+greedy/patching_array.s: greedy/patching_array.cpp.s
+
+.PHONY : greedy/patching_array.s
+
+# target to generate assembly for a file
+greedy/patching_array.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/greedy/patching_array.cpp.s
+.PHONY : greedy/patching_array.cpp.s
 
 hash_table/bulls_and_cows.o: hash_table/bulls_and_cows.cpp.o
 
@@ -4956,6 +5037,33 @@ tree/verify_preorder_sequence_in_binary_search_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_sequence_in_binary_search_tree.cpp.s
 .PHONY : tree/verify_preorder_sequence_in_binary_search_tree.cpp.s
 
+tree/verify_preorder_serialization_of_a_binary_tree.o: tree/verify_preorder_serialization_of_a_binary_tree.cpp.o
+
+.PHONY : tree/verify_preorder_serialization_of_a_binary_tree.o
+
+# target to build an object file
+tree/verify_preorder_serialization_of_a_binary_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.o
+.PHONY : tree/verify_preorder_serialization_of_a_binary_tree.cpp.o
+
+tree/verify_preorder_serialization_of_a_binary_tree.i: tree/verify_preorder_serialization_of_a_binary_tree.cpp.i
+
+.PHONY : tree/verify_preorder_serialization_of_a_binary_tree.i
+
+# target to preprocess a source file
+tree/verify_preorder_serialization_of_a_binary_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.i
+.PHONY : tree/verify_preorder_serialization_of_a_binary_tree.cpp.i
+
+tree/verify_preorder_serialization_of_a_binary_tree.s: tree/verify_preorder_serialization_of_a_binary_tree.cpp.s
+
+.PHONY : tree/verify_preorder_serialization_of_a_binary_tree.s
+
+# target to generate assembly for a file
+tree/verify_preorder_serialization_of_a_binary_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.s
+.PHONY : tree/verify_preorder_serialization_of_a_binary_tree.cpp.s
+
 trie/word_squares.o: trie/word_squares.cpp.o
 
 .PHONY : trie/word_squares.o
@@ -5097,6 +5205,9 @@ help:
 	@echo "... array/game_of_life.o"
 	@echo "... array/game_of_life.i"
 	@echo "... array/game_of_life.s"
+	@echo "... array/increasing_triplet_subsequence.o"
+	@echo "... array/increasing_triplet_subsequence.i"
+	@echo "... array/increasing_triplet_subsequence.s"
 	@echo "... array/kth_largest_element_in_an_array.o"
 	@echo "... array/kth_largest_element_in_an_array.i"
 	@echo "... array/kth_largest_element_in_an_array.s"
@@ -5265,6 +5376,9 @@ help:
 	@echo "... dfs_bfs/number_of_islands.o"
 	@echo "... dfs_bfs/number_of_islands.i"
 	@echo "... dfs_bfs/number_of_islands.s"
+	@echo "... dfs_bfs/reconstruct_itinerary.o"
+	@echo "... dfs_bfs/reconstruct_itinerary.i"
+	@echo "... dfs_bfs/reconstruct_itinerary.s"
 	@echo "... dfs_bfs/remove_invalid_parentheses.o"
 	@echo "... dfs_bfs/remove_invalid_parentheses.i"
 	@echo "... dfs_bfs/remove_invalid_parentheses.s"
@@ -5340,6 +5454,9 @@ help:
 	@echo "... greedy/create_maximum_number.o"
 	@echo "... greedy/create_maximum_number.i"
 	@echo "... greedy/create_maximum_number.s"
+	@echo "... greedy/patching_array.o"
+	@echo "... greedy/patching_array.i"
+	@echo "... greedy/patching_array.s"
 	@echo "... hash_table/bulls_and_cows.o"
 	@echo "... hash_table/bulls_and_cows.i"
 	@echo "... hash_table/bulls_and_cows.s"
@@ -5610,6 +5727,9 @@ help:
 	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.o"
 	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.i"
 	@echo "... tree/verify_preorder_sequence_in_binary_search_tree.s"
+	@echo "... tree/verify_preorder_serialization_of_a_binary_tree.o"
+	@echo "... tree/verify_preorder_serialization_of_a_binary_tree.i"
+	@echo "... tree/verify_preorder_serialization_of_a_binary_tree.s"
 	@echo "... trie/word_squares.o"
 	@echo "... trie/word_squares.i"
 	@echo "... trie/word_squares.s"
