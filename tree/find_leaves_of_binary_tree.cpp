@@ -32,16 +32,19 @@
 
 #include "Tree.h"
 
-int help(TreeNode* root, vector<vector<int>>& ans) {
+int help(TreeNode* root, vector<vector<int>>& leaves) {
     if (!root) return 0;
-    int level = max(help(root->left, ans), help(root->right, ans)) + 1;
-    if (level > ans.size()) ans.push_back({});
-    ans[level - 1].push_back(root->val);
+    int level = max(help(root->left, leaves), help(root->right, leaves)) + 1;
+    if (level > leaves.size()) leaves.push_back({});
+    leaves[level - 1].push_back(root->val);
     return level;
 }
 
 vector<vector<int>> findLeaves(TreeNode* root) {
-    vector<vector<int>> ans;
-    help(root, ans);
-    return ans;
+    vector<vector<int>> leaves;
+    help(root, leaves);
+    return leaves;
 }
+
+// time: O(n)
+// space: O(log n)

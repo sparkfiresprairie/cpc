@@ -1122,6 +1122,60 @@ binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
 .PHONY : binary_search/smallest_rectangle_enclosing_black_pixels.cpp.s
 
+binary_search/valid_perfect_square.o: binary_search/valid_perfect_square.cpp.o
+
+.PHONY : binary_search/valid_perfect_square.o
+
+# target to build an object file
+binary_search/valid_perfect_square.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/valid_perfect_square.cpp.o
+.PHONY : binary_search/valid_perfect_square.cpp.o
+
+binary_search/valid_perfect_square.i: binary_search/valid_perfect_square.cpp.i
+
+.PHONY : binary_search/valid_perfect_square.i
+
+# target to preprocess a source file
+binary_search/valid_perfect_square.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/valid_perfect_square.cpp.i
+.PHONY : binary_search/valid_perfect_square.cpp.i
+
+binary_search/valid_perfect_square.s: binary_search/valid_perfect_square.cpp.s
+
+.PHONY : binary_search/valid_perfect_square.s
+
+# target to generate assembly for a file
+binary_search/valid_perfect_square.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/valid_perfect_square.cpp.s
+.PHONY : binary_search/valid_perfect_square.cpp.s
+
+bit_manipulation/counting_bits.o: bit_manipulation/counting_bits.cpp.o
+
+.PHONY : bit_manipulation/counting_bits.o
+
+# target to build an object file
+bit_manipulation/counting_bits.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/counting_bits.cpp.o
+.PHONY : bit_manipulation/counting_bits.cpp.o
+
+bit_manipulation/counting_bits.i: bit_manipulation/counting_bits.cpp.i
+
+.PHONY : bit_manipulation/counting_bits.i
+
+# target to preprocess a source file
+bit_manipulation/counting_bits.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/counting_bits.cpp.i
+.PHONY : bit_manipulation/counting_bits.cpp.i
+
+bit_manipulation/counting_bits.s: bit_manipulation/counting_bits.cpp.s
+
+.PHONY : bit_manipulation/counting_bits.s
+
+# target to generate assembly for a file
+bit_manipulation/counting_bits.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/counting_bits.cpp.s
+.PHONY : bit_manipulation/counting_bits.cpp.s
+
 bit_manipulation/maximum_product_of_word_lengths.o: bit_manipulation/maximum_product_of_word_lengths.cpp.o
 
 .PHONY : bit_manipulation/maximum_product_of_word_lengths.o
@@ -2877,6 +2931,33 @@ hash_table/intersection_of_two_arrays.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays.cpp.s
 .PHONY : hash_table/intersection_of_two_arrays.cpp.s
 
+hash_table/intersection_of_two_arrays_2.o: hash_table/intersection_of_two_arrays_2.cpp.o
+
+.PHONY : hash_table/intersection_of_two_arrays_2.o
+
+# target to build an object file
+hash_table/intersection_of_two_arrays_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays_2.cpp.o
+.PHONY : hash_table/intersection_of_two_arrays_2.cpp.o
+
+hash_table/intersection_of_two_arrays_2.i: hash_table/intersection_of_two_arrays_2.cpp.i
+
+.PHONY : hash_table/intersection_of_two_arrays_2.i
+
+# target to preprocess a source file
+hash_table/intersection_of_two_arrays_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays_2.cpp.i
+.PHONY : hash_table/intersection_of_two_arrays_2.cpp.i
+
+hash_table/intersection_of_two_arrays_2.s: hash_table/intersection_of_two_arrays_2.cpp.s
+
+.PHONY : hash_table/intersection_of_two_arrays_2.s
+
+# target to generate assembly for a file
+hash_table/intersection_of_two_arrays_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays_2.cpp.s
+.PHONY : hash_table/intersection_of_two_arrays_2.cpp.s
+
 hash_table/line_reflection.o: hash_table/line_reflection.cpp.o
 
 .PHONY : hash_table/line_reflection.o
@@ -2985,6 +3066,33 @@ hash_table/maximum_size_subarray_sum_equals_k.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/maximum_size_subarray_sum_equals_k.cpp.s
 .PHONY : hash_table/maximum_size_subarray_sum_equals_k.cpp.s
 
+hash_table/palindrome_pairs.o: hash_table/palindrome_pairs.cpp.o
+
+.PHONY : hash_table/palindrome_pairs.o
+
+# target to build an object file
+hash_table/palindrome_pairs.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/palindrome_pairs.cpp.o
+.PHONY : hash_table/palindrome_pairs.cpp.o
+
+hash_table/palindrome_pairs.i: hash_table/palindrome_pairs.cpp.i
+
+.PHONY : hash_table/palindrome_pairs.i
+
+# target to preprocess a source file
+hash_table/palindrome_pairs.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/palindrome_pairs.cpp.i
+.PHONY : hash_table/palindrome_pairs.cpp.i
+
+hash_table/palindrome_pairs.s: hash_table/palindrome_pairs.cpp.s
+
+.PHONY : hash_table/palindrome_pairs.s
+
+# target to generate assembly for a file
+hash_table/palindrome_pairs.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/palindrome_pairs.cpp.s
+.PHONY : hash_table/palindrome_pairs.cpp.s
+
 hash_table/palindrome_permutation.o: hash_table/palindrome_permutation.cpp.o
 
 .PHONY : hash_table/palindrome_permutation.o
@@ -3092,6 +3200,33 @@ hash_table/strobogrammatic_number.s: hash_table/strobogrammatic_number.cpp.s
 hash_table/strobogrammatic_number.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/strobogrammatic_number.cpp.s
 .PHONY : hash_table/strobogrammatic_number.cpp.s
+
+hash_table/top_k_frequent_elements.o: hash_table/top_k_frequent_elements.cpp.o
+
+.PHONY : hash_table/top_k_frequent_elements.o
+
+# target to build an object file
+hash_table/top_k_frequent_elements.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/top_k_frequent_elements.cpp.o
+.PHONY : hash_table/top_k_frequent_elements.cpp.o
+
+hash_table/top_k_frequent_elements.i: hash_table/top_k_frequent_elements.cpp.i
+
+.PHONY : hash_table/top_k_frequent_elements.i
+
+# target to preprocess a source file
+hash_table/top_k_frequent_elements.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/top_k_frequent_elements.cpp.i
+.PHONY : hash_table/top_k_frequent_elements.cpp.i
+
+hash_table/top_k_frequent_elements.s: hash_table/top_k_frequent_elements.cpp.s
+
+.PHONY : hash_table/top_k_frequent_elements.s
+
+# target to generate assembly for a file
+hash_table/top_k_frequent_elements.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/top_k_frequent_elements.cpp.s
+.PHONY : hash_table/top_k_frequent_elements.cpp.s
 
 hash_table/two_sum.o: hash_table/two_sum.cpp.o
 
@@ -4281,6 +4416,60 @@ string/read_n_characters_given_read4_2_call_multiple_times.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/read_n_characters_given_read4_2_call_multiple_times.cpp.s
 .PHONY : string/read_n_characters_given_read4_2_call_multiple_times.cpp.s
 
+string/reverse_string.o: string/reverse_string.cpp.o
+
+.PHONY : string/reverse_string.o
+
+# target to build an object file
+string/reverse_string.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_string.cpp.o
+.PHONY : string/reverse_string.cpp.o
+
+string/reverse_string.i: string/reverse_string.cpp.i
+
+.PHONY : string/reverse_string.i
+
+# target to preprocess a source file
+string/reverse_string.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_string.cpp.i
+.PHONY : string/reverse_string.cpp.i
+
+string/reverse_string.s: string/reverse_string.cpp.s
+
+.PHONY : string/reverse_string.s
+
+# target to generate assembly for a file
+string/reverse_string.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_string.cpp.s
+.PHONY : string/reverse_string.cpp.s
+
+string/reverse_vowels_of_a_string.o: string/reverse_vowels_of_a_string.cpp.o
+
+.PHONY : string/reverse_vowels_of_a_string.o
+
+# target to build an object file
+string/reverse_vowels_of_a_string.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_vowels_of_a_string.cpp.o
+.PHONY : string/reverse_vowels_of_a_string.cpp.o
+
+string/reverse_vowels_of_a_string.i: string/reverse_vowels_of_a_string.cpp.i
+
+.PHONY : string/reverse_vowels_of_a_string.i
+
+# target to preprocess a source file
+string/reverse_vowels_of_a_string.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_vowels_of_a_string.cpp.i
+.PHONY : string/reverse_vowels_of_a_string.cpp.i
+
+string/reverse_vowels_of_a_string.s: string/reverse_vowels_of_a_string.cpp.s
+
+.PHONY : string/reverse_vowels_of_a_string.s
+
+# target to generate assembly for a file
+string/reverse_vowels_of_a_string.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/reverse_vowels_of_a_string.cpp.s
+.PHONY : string/reverse_vowels_of_a_string.cpp.s
+
 string/reverse_words_in_a_string.o: string/reverse_words_in_a_string.cpp.o
 
 .PHONY : string/reverse_words_in_a_string.o
@@ -4821,6 +5010,33 @@ tree/find_leaves_of_binary_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/find_leaves_of_binary_tree.cpp.s
 .PHONY : tree/find_leaves_of_binary_tree.cpp.s
 
+tree/house_robber_3.o: tree/house_robber_3.cpp.o
+
+.PHONY : tree/house_robber_3.o
+
+# target to build an object file
+tree/house_robber_3.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/house_robber_3.cpp.o
+.PHONY : tree/house_robber_3.cpp.o
+
+tree/house_robber_3.i: tree/house_robber_3.cpp.i
+
+.PHONY : tree/house_robber_3.i
+
+# target to preprocess a source file
+tree/house_robber_3.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/house_robber_3.cpp.i
+.PHONY : tree/house_robber_3.cpp.i
+
+tree/house_robber_3.s: tree/house_robber_3.cpp.s
+
+.PHONY : tree/house_robber_3.s
+
+# target to generate assembly for a file
+tree/house_robber_3.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/house_robber_3.cpp.s
+.PHONY : tree/house_robber_3.cpp.s
+
 tree/inorder_successor_in_bst.o: tree/inorder_successor_in_bst.cpp.o
 
 .PHONY : tree/inorder_successor_in_bst.o
@@ -5292,6 +5508,12 @@ help:
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.o"
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.i"
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.s"
+	@echo "... binary_search/valid_perfect_square.o"
+	@echo "... binary_search/valid_perfect_square.i"
+	@echo "... binary_search/valid_perfect_square.s"
+	@echo "... bit_manipulation/counting_bits.o"
+	@echo "... bit_manipulation/counting_bits.i"
+	@echo "... bit_manipulation/counting_bits.s"
 	@echo "... bit_manipulation/maximum_product_of_word_lengths.o"
 	@echo "... bit_manipulation/maximum_product_of_word_lengths.i"
 	@echo "... bit_manipulation/maximum_product_of_word_lengths.s"
@@ -5487,6 +5709,9 @@ help:
 	@echo "... hash_table/intersection_of_two_arrays.o"
 	@echo "... hash_table/intersection_of_two_arrays.i"
 	@echo "... hash_table/intersection_of_two_arrays.s"
+	@echo "... hash_table/intersection_of_two_arrays_2.o"
+	@echo "... hash_table/intersection_of_two_arrays_2.i"
+	@echo "... hash_table/intersection_of_two_arrays_2.s"
 	@echo "... hash_table/line_reflection.o"
 	@echo "... hash_table/line_reflection.i"
 	@echo "... hash_table/line_reflection.s"
@@ -5499,6 +5724,9 @@ help:
 	@echo "... hash_table/maximum_size_subarray_sum_equals_k.o"
 	@echo "... hash_table/maximum_size_subarray_sum_equals_k.i"
 	@echo "... hash_table/maximum_size_subarray_sum_equals_k.s"
+	@echo "... hash_table/palindrome_pairs.o"
+	@echo "... hash_table/palindrome_pairs.i"
+	@echo "... hash_table/palindrome_pairs.s"
 	@echo "... hash_table/palindrome_permutation.o"
 	@echo "... hash_table/palindrome_permutation.i"
 	@echo "... hash_table/palindrome_permutation.s"
@@ -5511,6 +5739,9 @@ help:
 	@echo "... hash_table/strobogrammatic_number.o"
 	@echo "... hash_table/strobogrammatic_number.i"
 	@echo "... hash_table/strobogrammatic_number.s"
+	@echo "... hash_table/top_k_frequent_elements.o"
+	@echo "... hash_table/top_k_frequent_elements.i"
+	@echo "... hash_table/top_k_frequent_elements.s"
 	@echo "... hash_table/two_sum.o"
 	@echo "... hash_table/two_sum.i"
 	@echo "... hash_table/two_sum.s"
@@ -5643,6 +5874,12 @@ help:
 	@echo "... string/read_n_characters_given_read4_2_call_multiple_times.o"
 	@echo "... string/read_n_characters_given_read4_2_call_multiple_times.i"
 	@echo "... string/read_n_characters_given_read4_2_call_multiple_times.s"
+	@echo "... string/reverse_string.o"
+	@echo "... string/reverse_string.i"
+	@echo "... string/reverse_string.s"
+	@echo "... string/reverse_vowels_of_a_string.o"
+	@echo "... string/reverse_vowels_of_a_string.i"
+	@echo "... string/reverse_vowels_of_a_string.s"
 	@echo "... string/reverse_words_in_a_string.o"
 	@echo "... string/reverse_words_in_a_string.i"
 	@echo "... string/reverse_words_in_a_string.s"
@@ -5703,6 +5940,9 @@ help:
 	@echo "... tree/find_leaves_of_binary_tree.o"
 	@echo "... tree/find_leaves_of_binary_tree.i"
 	@echo "... tree/find_leaves_of_binary_tree.s"
+	@echo "... tree/house_robber_3.o"
+	@echo "... tree/house_robber_3.i"
+	@echo "... tree/house_robber_3.s"
 	@echo "... tree/inorder_successor_in_bst.o"
 	@echo "... tree/inorder_successor_in_bst.i"
 	@echo "... tree/inorder_successor_in_bst.s"

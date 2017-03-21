@@ -79,3 +79,6 @@ public:
  * NestedIterator i(nestedList);
  * while (i.hasNext()) cout << i.next();
  */
+
+// time: amortized O(1)
+// space: O(n)

@@ -203,7 +203,13 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/smallest_rectangle_enclosing_black_pixels.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/valid_perfect_square.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/BitManipulation.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/counting_bits.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/bit_manipulation/maximum_product_of_word_lengths.cpp">
@@ -422,6 +428,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/intersection_of_two_arrays.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/intersection_of_two_arrays_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/line_reflection.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -434,6 +443,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/maximum_size_subarray_sum_equals_k.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/palindrome_pairs.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/palindrome_permutation.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -444,6 +456,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/strobogrammatic_number.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/top_k_frequent_elements.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/hash_table/two_sum.cpp">
@@ -599,6 +614,12 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/read_n_characters_given_read4_2_call_multiple_times.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/reverse_string.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/reverse_vowels_of_a_string.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/reverse_words_in_a_string.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -663,6 +684,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/find_leaves_of_binary_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/house_robber_3.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/inorder_successor_in_bst.cpp">

@@ -38,7 +38,6 @@
 #include "BackTracking.h"
 
 int dfs(vector<bool>& visited, vector<vector<int>> const& skip, int cur, int remain) {
-    // if (remain < 0) return 0;
     if (remain == 0) return 1;
     visited[cur] = true;
     int count = 0;

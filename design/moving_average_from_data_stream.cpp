@@ -44,3 +44,7 @@ public:
  * MovingAverage obj = new MovingAverage(size);
  * double param_1 = obj.next(val);
  */
+
+
+// time: O(1)
+// space: O(1)

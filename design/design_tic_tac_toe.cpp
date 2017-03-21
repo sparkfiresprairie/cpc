@@ -58,6 +58,8 @@
     You need two arrays: int rows[n], int cols[n], plus two variables: diagonal, anti_diagonal.
  */
 
+#include "Design.h"
+
 class TicTacToe {
 public:
     /** Initialize your data structure here. */
@@ -100,3 +102,7 @@ private:
  * TicTacToe obj = new TicTacToe(n);
  * int param_1 = obj.move(row,col,player);
  */
+
+
+// time: O(1)
+// space: O(n)
