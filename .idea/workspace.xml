@@ -33,17 +33,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9b4b212-1526-472a-89a1-e3513f7a964e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/binary_search/valid_perfect_square.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bit_manipulation/counting_bits.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/intersection_of_two_arrays_2.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/palindrome_pairs.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hash_table/top_k_frequent_elements.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/reverse_string.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string/reverse_vowels_of_a_string.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tree/house_robber_3.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic_programming/russian_doll_envelopes.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backtracking/andriod_unlock_patterns.cpp" afterPath="$PROJECT_DIR$/backtracking/andriod_unlock_patterns.cpp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/DependInfo.cmake" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/build.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/cmake_clean.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/cmake_clean.cmake" />
@@ -51,11 +43,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/progress.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpc.dir/progress.make" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cpc.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/cpc.cbp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/design_tic_tac_toe.cpp" afterPath="$PROJECT_DIR$/design/design_tic_tac_toe.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/flatten_nested_list_iterator.cpp" afterPath="$PROJECT_DIR$/design/flatten_nested_list_iterator.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/moving_average_from_data_stream.cpp" afterPath="$PROJECT_DIR$/design/moving_average_from_data_stream.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hash_table/longest_substring_with_at_most_k_distinct_characters.cpp" afterPath="$PROJECT_DIR$/hash_table/longest_substring_with_at_most_k_distinct_characters.cpp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tree/find_leaves_of_binary_tree.cpp" afterPath="$PROJECT_DIR$/tree/find_leaves_of_binary_tree.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design/design_snake_game.cpp" afterPath="$PROJECT_DIR$/design/design_snake_game.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence.cpp" afterPath="$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence.cpp" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,36 +60,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reverse_vowels_of_a_string.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/string/reverse_vowels_of_a_string.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="moving_average_from_data_stream.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design/moving_average_from_data_stream.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="576">
-              <caret line="32" column="58" lean-forward="false" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="top_k_frequent_elements.cpp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hash_table/top_k_frequent_elements.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="37" column="13" lean-forward="false" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="design_tic_tac_toe.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/design/design_tic_tac_toe.cpp">
           <provider selected="true" editor-type-id="text-editor">
@@ -158,17 +117,54 @@
         <entry file="file://$PROJECT_DIR$/tree/find_leaves_of_binary_tree.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="666">
-              <caret line="37" column="52" lean-forward="true" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+              <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+              <folding>
+                <marker date="1490076737000" expanded="true" signature="742:963" ph="{...}" />
+                <marker date="1490076737000" expanded="true" signature="1012:1090" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nested_list_weight_sum_2.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dfs_bfs/nested_list_weight_sum_2.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="852">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nested_list_weight_sum_2.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/dfs_bfs/nested_list_weight_sum_2.cpp">
+      <file leaf-file-name="design_snake_game.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design/design_snake_game.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="852">
-              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="726">
+              <caret line="117" column="5" lean-forward="false" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+              <folding>
+                <marker date="1490155341000" expanded="true" signature="1473:3566" ph="{...}" />
+                <marker date="1490155341000" expanded="true" signature="2294:2380" ph="{...}" />
+                <marker date="1490155341000" expanded="true" signature="2663:3564" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="longest_increasing_subsequence.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="russian_doll_envelopes.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dynamic_programming/russian_doll_envelopes.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -202,9 +198,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/math/sort_transformed_array.cpp" />
-        <option value="$PROJECT_DIR$/dynamic_programming/bomb_enemy.cpp" />
-        <option value="$PROJECT_DIR$/design/design_hit_counter.cpp" />
         <option value="$PROJECT_DIR$/linked_list/plus_one_linked_list.cpp" />
         <option value="$PROJECT_DIR$/array/range_addition.cpp" />
         <option value="$PROJECT_DIR$/design/design_phone_directory.cpp" />
@@ -253,6 +246,9 @@
         <option value="$PROJECT_DIR$/binary_search/valid_perfect_square.cpp" />
         <option value="$PROJECT_DIR$/tree/find_leaves_of_binary_tree.cpp" />
         <option value="$PROJECT_DIR$/dfs_bfs/nested_list_weight_sum_2.cpp" />
+        <option value="$PROJECT_DIR$/design/design_snake_game.cpp" />
+        <option value="$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence.cpp" />
+        <option value="$PROJECT_DIR$/dynamic_programming/russian_doll_envelopes.cpp" />
       </list>
     </option>
   </component>
@@ -736,12 +732,12 @@
       <workItem from="1488778196726" duration="12807000" />
       <workItem from="1488946718334" duration="24534000" />
       <workItem from="1489209969997" duration="3598000" />
-      <workItem from="1489214171622" duration="93364000" />
+      <workItem from="1489214171622" duration="96468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151149000" />
+    <option name="totallyTimeSpent" value="154253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-511" width="1920" height="1057" extended-state="6" />
@@ -781,22 +777,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dynamic_programming/encode_string_with_shortest_length.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/math/convex_polygon.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="16" lean-forward="false" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/topological_sort/sequence_reconstruction.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1053,14 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-768">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/array/increasing_triplet_subsequence.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -1197,15 +1169,46 @@
     <entry file="file://$PROJECT_DIR$/tree/find_leaves_of_binary_tree.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
-          <caret line="37" column="52" lean-forward="true" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
-          <folding />
+          <caret line="37" column="52" lean-forward="false" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+          <folding>
+            <marker date="1490076737000" expanded="true" signature="742:963" ph="{...}" />
+            <marker date="1490076737000" expanded="true" signature="1012:1090" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dfs_bfs/nested_list_weight_sum_2.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="852">
-          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design/design_snake_game.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="117" column="5" lean-forward="false" selection-start-line="117" selection-start-column="5" selection-end-line="117" selection-end-column="5" />
+          <folding>
+            <marker date="1490155341000" expanded="true" signature="1473:3566" ph="{...}" />
+            <marker date="1490155341000" expanded="true" signature="2294:2380" ph="{...}" />
+            <marker date="1490155341000" expanded="true" signature="2663:3564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic_programming/longest_increasing_subsequence.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic_programming/russian_doll_envelopes.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding />
         </state>
       </provider>

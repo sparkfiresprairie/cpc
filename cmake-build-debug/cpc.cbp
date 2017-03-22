@@ -386,6 +386,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/perfect_squares.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/russian_doll_envelopes.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/greedy/Greedy.h">
 			<Option target="cpc"/>
 		</Unit>

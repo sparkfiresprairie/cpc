@@ -96,6 +96,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/paint_house.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/dynamic_programming/paint_house.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/paint_house_2.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/dynamic_programming/paint_house_2.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/perfect_squares.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/dynamic_programming/perfect_squares.cpp.o"
+  "/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/russian_doll_envelopes.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/greedy/create_maximum_number.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/greedy/create_maximum_number.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/greedy/patching_array.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/greedy/patching_array.cpp.o"
   "/Users/Xingyuan/Documents/GitHub/cpc/hash_table/bulls_and_cows.cpp" "/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles/cpc.dir/hash_table/bulls_and_cows.cpp.o"

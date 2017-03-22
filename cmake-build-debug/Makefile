@@ -2607,6 +2607,33 @@ dynamic_programming/perfect_squares.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/perfect_squares.cpp.s
 .PHONY : dynamic_programming/perfect_squares.cpp.s
 
+dynamic_programming/russian_doll_envelopes.o: dynamic_programming/russian_doll_envelopes.cpp.o
+
+.PHONY : dynamic_programming/russian_doll_envelopes.o
+
+# target to build an object file
+dynamic_programming/russian_doll_envelopes.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o
+.PHONY : dynamic_programming/russian_doll_envelopes.cpp.o
+
+dynamic_programming/russian_doll_envelopes.i: dynamic_programming/russian_doll_envelopes.cpp.i
+
+.PHONY : dynamic_programming/russian_doll_envelopes.i
+
+# target to preprocess a source file
+dynamic_programming/russian_doll_envelopes.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.i
+.PHONY : dynamic_programming/russian_doll_envelopes.cpp.i
+
+dynamic_programming/russian_doll_envelopes.s: dynamic_programming/russian_doll_envelopes.cpp.s
+
+.PHONY : dynamic_programming/russian_doll_envelopes.s
+
+# target to generate assembly for a file
+dynamic_programming/russian_doll_envelopes.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.s
+.PHONY : dynamic_programming/russian_doll_envelopes.cpp.s
+
 greedy/create_maximum_number.o: greedy/create_maximum_number.cpp.o
 
 .PHONY : greedy/create_maximum_number.o
@@ -5673,6 +5700,9 @@ help:
 	@echo "... dynamic_programming/perfect_squares.o"
 	@echo "... dynamic_programming/perfect_squares.i"
 	@echo "... dynamic_programming/perfect_squares.s"
+	@echo "... dynamic_programming/russian_doll_envelopes.o"
+	@echo "... dynamic_programming/russian_doll_envelopes.i"
+	@echo "... dynamic_programming/russian_doll_envelopes.s"
 	@echo "... greedy/create_maximum_number.o"
 	@echo "... greedy/create_maximum_number.i"
 	@echo "... greedy/create_maximum_number.s"

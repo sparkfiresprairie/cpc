@@ -59,6 +59,7 @@
 #include "Design.h"
 
 class SnakeGame {
+private:
     int w, h, food_idx;
     vector<pair<int, int>> food;
     // // There is no standard way of computing a hash on a pair.
