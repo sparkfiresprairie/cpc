@@ -4761,6 +4761,78 @@ CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o.provides: CM
 CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o
 
 
+CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o: ../math/count_numbers_with_unique_digits.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Building CXX object CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/math/count_numbers_with_unique_digits.cpp
+
+CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/math/count_numbers_with_unique_digits.cpp > CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.i
+
+CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/math/count_numbers_with_unique_digits.cpp -o CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.s
+
+CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.requires
+
+CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.provides: CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.provides
+
+CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.provides.build: CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o
+
+
+CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o: ../array/maximum_subarray_no_larger_than_k.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_198) "Building CXX object CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/array/maximum_subarray_no_larger_than_k.cpp
+
+CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/array/maximum_subarray_no_larger_than_k.cpp > CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.i
+
+CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/array/maximum_subarray_no_larger_than_k.cpp -o CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.s
+
+CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.requires
+
+CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.provides: CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.provides
+
+CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.provides.build: CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o: ../dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_199) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp > CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp -o CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -4958,7 +5030,10 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/hash_table/top_k_frequent_elements.cpp.o" \
 "CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays_2.cpp.o" \
 "CMakeFiles/cpc.dir/binary_search/valid_perfect_square.cpp.o" \
-"CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o"
+"CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o" \
+"CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o" \
+"CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -5159,9 +5234,12 @@ cpc: CMakeFiles/cpc.dir/hash_table/top_k_frequent_elements.cpp.o
 cpc: CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays_2.cpp.o
 cpc: CMakeFiles/cpc.dir/binary_search/valid_perfect_square.cpp.o
 cpc: CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o
+cpc: CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o
+cpc: CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_197) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -5365,6 +5443,9 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/top_k_frequent_elemen
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays_2.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/valid_perfect_square.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

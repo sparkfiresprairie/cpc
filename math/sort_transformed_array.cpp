@@ -20,6 +20,8 @@
     Result: [-23, -5, 1, 7]
  */
 
+#include "Math.h"
+
 int trans(int x, int a, int b, int c) {
     return a * x * x + b * x + c;
 }
@@ -39,3 +41,5 @@ vector<int> sortTransformedArray(vector<int>& nums, int a, int b, int c) {
     return ans;
 }
 
+// time: O(n)
+// space: O(1)

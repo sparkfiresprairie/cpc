@@ -47,3 +47,6 @@ bool isReflected(vector<pair<int, int>>& points) {
     }
     return true;
 }
+
+// time: O(n)
+// space: O(n)

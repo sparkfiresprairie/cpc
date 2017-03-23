@@ -195,6 +195,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/hash_table/intersection_of_two_arrays_2.cpp.o"
   "CMakeFiles/cpc.dir/binary_search/valid_perfect_square.cpp.o"
   "CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o"
+  "CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o"
+  "CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o"
+  "CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o"
   "cpc.pdb"
   "cpc"
 )

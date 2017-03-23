@@ -76,3 +76,6 @@ public:
  * obj.hit(timestamp);
  * int param_2 = obj.getHits(timestamp);
  */
+
+// time: hit-O(1), getHits-O(1)
+// space: O(1)

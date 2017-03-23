@@ -23,9 +23,8 @@
 
 int maxKilledEnemies(vector<vector<char>>& grid) {
     if (grid.empty() || grid[0].empty()) return 0;
-    int m = grid.size();
-    int n = grid[0].size();
-    int ans = 0;
+    int m = grid.size(), n = grid[0].size();
+    int max_enemies = 0;
     int rowhits;
     vector<int> colhits(n, 0);
     for (int i = 0; i < m; ++i) {
@@ -43,10 +42,13 @@ int maxKilledEnemies(vector<vector<char>>& grid) {
                 }
             }
             if (grid[i][j] == '0') {
-                ans = max(ans, rowhits + colhits[j]);
+                max_enemies = max(max_enemies, rowhits + colhits[j]);
             }
         }
     }
-    return ans;
+    return max_enemies;
 }
+
+// time: O(mn)
+// space:
 

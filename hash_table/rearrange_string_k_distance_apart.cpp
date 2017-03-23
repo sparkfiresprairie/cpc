@@ -63,3 +63,6 @@ string rearrangeString(string str, int k) {
     return ans;
 }
 
+// time: O(n)
+// space: O(1)
+

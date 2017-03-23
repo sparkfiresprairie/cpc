@@ -122,6 +122,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/max_consecutive_ones_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/maximum_subarray_no_larger_than_k.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/missing_number.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -368,6 +371,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_increasing_subsequence.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/maximal_square.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -531,6 +537,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/convex_polygon.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/count_numbers_with_unique_digits.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/power_of_four.cpp">
