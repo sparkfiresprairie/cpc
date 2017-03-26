@@ -21,23 +21,22 @@
     returned by next should be: [1,4,6].
  */
 
-/**
- * // This is the interface that allows for creating nested lists.
- * // You should not implement it, or speculate about its implementation
- * class NestedInteger {
- *   public:
- *     // Return true if this NestedInteger holds a single integer, rather than a nested list.
- *     bool isInteger() const;
- *
- *     // Return the single integer that this NestedInteger holds, if it holds a single integer
- *     // The result is undefined if this NestedInteger holds a nested list
- *     int getInteger() const;
- *
- *     // Return the nested list that this NestedInteger holds, if it holds a nested list
- *     // The result is undefined if this NestedInteger holds a single integer
- *     const vector<NestedInteger> &getList() const;
- * };
- */
+
+// This is the interface that allows for creating nested lists.
+// You should not implement it, or speculate about its implementation
+class NestedInteger {
+public:
+    // Return true if this NestedInteger holds a single integer, rather than a nested list.
+    bool isInteger() const;
+
+    // Return the single integer that this NestedInteger holds, if it holds a single integer
+    // The result is undefined if this NestedInteger holds a nested list
+    int getInteger() const;
+
+    // Return the nested list that this NestedInteger holds, if it holds a nested list
+    // The result is undefined if this NestedInteger holds a single integer
+    const vector<NestedInteger> &getList() const;
+};
 
 #include "Design.h"
 
@@ -82,3 +81,18 @@ public:
 
 // time: amortized O(1)
 // space: O(n)
+
+vector<int> flattenNestedList(vector<NestedInteger> const& nestedList) {
+    vector<int> list;
+    for (auto const& ni : nestedList) {
+        if (ni.isInteger()) {
+            list.push_back(ni.getInteger());
+        } else {
+            vector<int> l = flattenNestedList(ni.getList());
+            for (auto i : l) {
+                list.push_back(i);
+            }
+        }
+    }
+    return list;
+}

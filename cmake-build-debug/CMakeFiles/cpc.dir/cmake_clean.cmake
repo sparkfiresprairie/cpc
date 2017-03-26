@@ -198,6 +198,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o"
   "CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o"
   "CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o"
+  "CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o"
+  "CMakeFiles/cpc.dir/math/pow_x_n.cpp.o"
+  "CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o"
+  "CMakeFiles/cpc.dir/string/add_binary.cpp.o"
+  "CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o"
   "cpc.pdb"
   "cpc"
 )

@@ -2364,6 +2364,33 @@ dynamic_programming/coin_change.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/coin_change.cpp.s
 .PHONY : dynamic_programming/coin_change.cpp.s
 
+dynamic_programming/decode_ways.o: dynamic_programming/decode_ways.cpp.o
+
+.PHONY : dynamic_programming/decode_ways.o
+
+# target to build an object file
+dynamic_programming/decode_ways.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o
+.PHONY : dynamic_programming/decode_ways.cpp.o
+
+dynamic_programming/decode_ways.i: dynamic_programming/decode_ways.cpp.i
+
+.PHONY : dynamic_programming/decode_ways.i
+
+# target to preprocess a source file
+dynamic_programming/decode_ways.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.i
+.PHONY : dynamic_programming/decode_ways.cpp.i
+
+dynamic_programming/decode_ways.s: dynamic_programming/decode_ways.cpp.s
+
+.PHONY : dynamic_programming/decode_ways.s
+
+# target to generate assembly for a file
+dynamic_programming/decode_ways.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.s
+.PHONY : dynamic_programming/decode_ways.cpp.s
+
 dynamic_programming/edit_distance.o: dynamic_programming/edit_distance.cpp.o
 
 .PHONY : dynamic_programming/edit_distance.o
@@ -2660,6 +2687,33 @@ dynamic_programming/perfect_squares.s: dynamic_programming/perfect_squares.cpp.s
 dynamic_programming/perfect_squares.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/perfect_squares.cpp.s
 .PHONY : dynamic_programming/perfect_squares.cpp.s
+
+dynamic_programming/regular_expression_matching.o: dynamic_programming/regular_expression_matching.cpp.o
+
+.PHONY : dynamic_programming/regular_expression_matching.o
+
+# target to build an object file
+dynamic_programming/regular_expression_matching.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o
+.PHONY : dynamic_programming/regular_expression_matching.cpp.o
+
+dynamic_programming/regular_expression_matching.i: dynamic_programming/regular_expression_matching.cpp.i
+
+.PHONY : dynamic_programming/regular_expression_matching.i
+
+# target to preprocess a source file
+dynamic_programming/regular_expression_matching.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.i
+.PHONY : dynamic_programming/regular_expression_matching.cpp.i
+
+dynamic_programming/regular_expression_matching.s: dynamic_programming/regular_expression_matching.cpp.s
+
+.PHONY : dynamic_programming/regular_expression_matching.s
+
+# target to generate assembly for a file
+dynamic_programming/regular_expression_matching.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.s
+.PHONY : dynamic_programming/regular_expression_matching.cpp.s
 
 dynamic_programming/russian_doll_envelopes.o: dynamic_programming/russian_doll_envelopes.cpp.o
 
@@ -3876,6 +3930,33 @@ math/count_numbers_with_unique_digits.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.s
 .PHONY : math/count_numbers_with_unique_digits.cpp.s
 
+math/pow_x_n.o: math/pow_x_n.cpp.o
+
+.PHONY : math/pow_x_n.o
+
+# target to build an object file
+math/pow_x_n.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/pow_x_n.cpp.o
+.PHONY : math/pow_x_n.cpp.o
+
+math/pow_x_n.i: math/pow_x_n.cpp.i
+
+.PHONY : math/pow_x_n.i
+
+# target to preprocess a source file
+math/pow_x_n.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/pow_x_n.cpp.i
+.PHONY : math/pow_x_n.cpp.i
+
+math/pow_x_n.s: math/pow_x_n.cpp.s
+
+.PHONY : math/pow_x_n.s
+
+# target to generate assembly for a file
+math/pow_x_n.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/pow_x_n.cpp.s
+.PHONY : math/pow_x_n.cpp.s
+
 math/power_of_four.o: math/power_of_four.cpp.o
 
 .PHONY : math/power_of_four.o
@@ -4227,6 +4308,33 @@ sort/meeting_rooms_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/meeting_rooms_2.cpp.s
 .PHONY : sort/meeting_rooms_2.cpp.s
 
+sort/merge_intervals.o: sort/merge_intervals.cpp.o
+
+.PHONY : sort/merge_intervals.o
+
+# target to build an object file
+sort/merge_intervals.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o
+.PHONY : sort/merge_intervals.cpp.o
+
+sort/merge_intervals.i: sort/merge_intervals.cpp.i
+
+.PHONY : sort/merge_intervals.i
+
+# target to preprocess a source file
+sort/merge_intervals.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/merge_intervals.cpp.i
+.PHONY : sort/merge_intervals.cpp.i
+
+sort/merge_intervals.s: sort/merge_intervals.cpp.s
+
+.PHONY : sort/merge_intervals.s
+
+# target to generate assembly for a file
+sort/merge_intervals.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/merge_intervals.cpp.s
+.PHONY : sort/merge_intervals.cpp.s
+
 stack/basic_calculator.o: stack/basic_calculator.cpp.o
 
 .PHONY : stack/basic_calculator.o
@@ -4361,6 +4469,33 @@ stack/valid_parentheses.s: stack/valid_parentheses.cpp.s
 stack/valid_parentheses.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/stack/valid_parentheses.cpp.s
 .PHONY : stack/valid_parentheses.cpp.s
+
+string/add_binary.o: string/add_binary.cpp.o
+
+.PHONY : string/add_binary.o
+
+# target to build an object file
+string/add_binary.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/add_binary.cpp.o
+.PHONY : string/add_binary.cpp.o
+
+string/add_binary.i: string/add_binary.cpp.i
+
+.PHONY : string/add_binary.i
+
+# target to preprocess a source file
+string/add_binary.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/add_binary.cpp.i
+.PHONY : string/add_binary.cpp.i
+
+string/add_binary.s: string/add_binary.cpp.s
+
+.PHONY : string/add_binary.s
+
+# target to generate assembly for a file
+string/add_binary.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/add_binary.cpp.s
+.PHONY : string/add_binary.cpp.s
 
 string/flip_game.o: string/flip_game.cpp.o
 
@@ -5754,6 +5889,9 @@ help:
 	@echo "... dynamic_programming/coin_change.o"
 	@echo "... dynamic_programming/coin_change.i"
 	@echo "... dynamic_programming/coin_change.s"
+	@echo "... dynamic_programming/decode_ways.o"
+	@echo "... dynamic_programming/decode_ways.i"
+	@echo "... dynamic_programming/decode_ways.s"
 	@echo "... dynamic_programming/edit_distance.o"
 	@echo "... dynamic_programming/edit_distance.i"
 	@echo "... dynamic_programming/edit_distance.s"
@@ -5787,6 +5925,9 @@ help:
 	@echo "... dynamic_programming/perfect_squares.o"
 	@echo "... dynamic_programming/perfect_squares.i"
 	@echo "... dynamic_programming/perfect_squares.s"
+	@echo "... dynamic_programming/regular_expression_matching.o"
+	@echo "... dynamic_programming/regular_expression_matching.i"
+	@echo "... dynamic_programming/regular_expression_matching.s"
 	@echo "... dynamic_programming/russian_doll_envelopes.o"
 	@echo "... dynamic_programming/russian_doll_envelopes.i"
 	@echo "... dynamic_programming/russian_doll_envelopes.s"
@@ -5922,6 +6063,9 @@ help:
 	@echo "... math/count_numbers_with_unique_digits.o"
 	@echo "... math/count_numbers_with_unique_digits.i"
 	@echo "... math/count_numbers_with_unique_digits.s"
+	@echo "... math/pow_x_n.o"
+	@echo "... math/pow_x_n.i"
+	@echo "... math/pow_x_n.s"
 	@echo "... math/power_of_four.o"
 	@echo "... math/power_of_four.i"
 	@echo "... math/power_of_four.s"
@@ -5961,6 +6105,9 @@ help:
 	@echo "... sort/meeting_rooms_2.o"
 	@echo "... sort/meeting_rooms_2.i"
 	@echo "... sort/meeting_rooms_2.s"
+	@echo "... sort/merge_intervals.o"
+	@echo "... sort/merge_intervals.i"
+	@echo "... sort/merge_intervals.s"
 	@echo "... stack/basic_calculator.o"
 	@echo "... stack/basic_calculator.i"
 	@echo "... stack/basic_calculator.s"
@@ -5976,6 +6123,9 @@ help:
 	@echo "... stack/valid_parentheses.o"
 	@echo "... stack/valid_parentheses.i"
 	@echo "... stack/valid_parentheses.s"
+	@echo "... string/add_binary.o"
+	@echo "... string/add_binary.i"
+	@echo "... string/add_binary.s"
 	@echo "... string/flip_game.o"
 	@echo "... string/flip_game.i"
 	@echo "... string/flip_game.s"

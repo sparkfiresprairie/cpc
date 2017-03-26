@@ -4833,6 +4833,126 @@ CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp
 CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o
 
 
+CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o: ../dynamic_programming/decode_ways.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/decode_ways.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/decode_ways.cpp > CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/decode_ways.cpp -o CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o
+
+
+CMakeFiles/cpc.dir/math/pow_x_n.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/math/pow_x_n.cpp.o: ../math/pow_x_n.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_201) "Building CXX object CMakeFiles/cpc.dir/math/pow_x_n.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/math/pow_x_n.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/math/pow_x_n.cpp
+
+CMakeFiles/cpc.dir/math/pow_x_n.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/math/pow_x_n.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/math/pow_x_n.cpp > CMakeFiles/cpc.dir/math/pow_x_n.cpp.i
+
+CMakeFiles/cpc.dir/math/pow_x_n.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/math/pow_x_n.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/math/pow_x_n.cpp -o CMakeFiles/cpc.dir/math/pow_x_n.cpp.s
+
+CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.requires
+
+CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.provides: CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.provides
+
+CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.provides.build: CMakeFiles/cpc.dir/math/pow_x_n.cpp.o
+
+
+CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o: ../sort/merge_intervals.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_202) "Building CXX object CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/sort/merge_intervals.cpp
+
+CMakeFiles/cpc.dir/sort/merge_intervals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/sort/merge_intervals.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/sort/merge_intervals.cpp > CMakeFiles/cpc.dir/sort/merge_intervals.cpp.i
+
+CMakeFiles/cpc.dir/sort/merge_intervals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/sort/merge_intervals.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/sort/merge_intervals.cpp -o CMakeFiles/cpc.dir/sort/merge_intervals.cpp.s
+
+CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.requires
+
+CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.provides: CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.provides
+
+CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.provides.build: CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o
+
+
+CMakeFiles/cpc.dir/string/add_binary.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/string/add_binary.cpp.o: ../string/add_binary.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_203) "Building CXX object CMakeFiles/cpc.dir/string/add_binary.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/string/add_binary.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/string/add_binary.cpp
+
+CMakeFiles/cpc.dir/string/add_binary.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/string/add_binary.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/string/add_binary.cpp > CMakeFiles/cpc.dir/string/add_binary.cpp.i
+
+CMakeFiles/cpc.dir/string/add_binary.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/string/add_binary.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/string/add_binary.cpp -o CMakeFiles/cpc.dir/string/add_binary.cpp.s
+
+CMakeFiles/cpc.dir/string/add_binary.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/string/add_binary.cpp.o.requires
+
+CMakeFiles/cpc.dir/string/add_binary.cpp.o.provides: CMakeFiles/cpc.dir/string/add_binary.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/add_binary.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/string/add_binary.cpp.o.provides
+
+CMakeFiles/cpc.dir/string/add_binary.cpp.o.provides.build: CMakeFiles/cpc.dir/string/add_binary.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o: ../dynamic_programming/regular_expression_matching.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_204) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/regular_expression_matching.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/regular_expression_matching.cpp > CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/regular_expression_matching.cpp -o CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -5033,7 +5153,12 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o" \
 "CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o" \
 "CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o" \
-"CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o"
+"CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o" \
+"CMakeFiles/cpc.dir/math/pow_x_n.cpp.o" \
+"CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o" \
+"CMakeFiles/cpc.dir/string/add_binary.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -5237,9 +5362,14 @@ cpc: CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.o
 cpc: CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o
 cpc: CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o
 cpc: CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o
+cpc: CMakeFiles/cpc.dir/math/pow_x_n.cpp.o
+cpc: CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o
+cpc: CMakeFiles/cpc.dir/string/add_binary.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_200) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_205) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -5446,6 +5576,11 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/russian_doll
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/count_numbers_with_unique_digits.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/decode_ways.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/pow_x_n.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/string/add_binary.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

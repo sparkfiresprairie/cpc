@@ -359,6 +359,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/coin_change.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/decode_ways.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/edit_distance.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -390,6 +393,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/perfect_squares.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/regular_expression_matching.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/russian_doll_envelopes.cpp">
@@ -542,6 +548,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/count_numbers_with_unique_digits.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/pow_x_n.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/power_of_four.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -587,6 +596,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/sort/meeting_rooms_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/sort/merge_intervals.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/stack/Stack.h">
 			<Option target="cpc"/>
 		</Unit>
@@ -606,6 +618,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/String.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/add_binary.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/flip_game.cpp">

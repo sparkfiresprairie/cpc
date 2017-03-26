@@ -66,3 +66,67 @@ string rearrangeString(string str, int k) {
 // time: O(n)
 // space: O(1)
 
+/*
+    Task 1, 2, 3. Each task takes 1s to finish and need 2s for cooldown.
+    Now the order of the tasks is 1,1,2,3,2.
+    1. How many seconds it takes to finish all the tasks without changing the order?
+    8s. 1__123_2
+    2. What if you can change the order?
+ */
+
+
+string taskOrderInOrder(string const& tasks, int t) {  // t is the cool down time
+    int n = tasks.size();
+    vector<int> valid(26, 0);
+    string ans;
+    for (int i = 0; i < n; ++i) {
+        int candidate_idx = tasks[i] - 'a';
+        while (valid[candidate_idx] > ans.size()) {
+            ans += "_";
+        }
+        valid[candidate_idx] = ans.size() + t + 1;
+        ans += 'a' + candidate_idx;
+    }
+    return ans;
+}
+
+// time: O(n)
+// space: O(1)
+
+int findCandidate(vector<int> const& count, vector<int> const& valid, int idx) {
+    int max_count = 0;
+    int candidate_idx = -1;
+    for (int i = 0; i < count.size(); ++i) {
+        if (count[i] > 0 && count[i] > max_count && idx >= valid[i]) {
+            max_count = count[i];
+            candidate_idx = i;
+        }
+    }
+    return candidate_idx;
+}
+
+
+string taskOrderOutOfOrder(string const& tasks, int t) {
+    int n = tasks.size();
+    vector<int> count(26, 0);
+    vector<int> valid(26, 0);
+    for (int i = 0; i < n; ++i) {
+        ++count[tasks[i] - 'a'];
+    }
+    string ans;
+    for (int i = 0; i < n; ++i) {
+        int candidate_idx = -1;
+        while (true) {
+            candidate_idx = findCandidate(count, valid, ans.size());
+            if (candidate_idx != -1) break;
+            ans += "_";
+        }
+        --count[candidate_idx];
+        valid[candidate_idx] = i + t + 1;
+        ans += 'a' + candidate_idx;
+    }
+    return ans;
+}
+
+// time: O(n)
+// space: O(1)
