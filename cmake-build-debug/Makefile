@@ -150,6 +150,33 @@ array/3sum.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum.cpp.s
 .PHONY : array/3sum.cpp.s
 
+array/3sum_closest.o: array/3sum_closest.cpp.o
+
+.PHONY : array/3sum_closest.o
+
+# target to build an object file
+array/3sum_closest.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum_closest.cpp.o
+.PHONY : array/3sum_closest.cpp.o
+
+array/3sum_closest.i: array/3sum_closest.cpp.i
+
+.PHONY : array/3sum_closest.i
+
+# target to preprocess a source file
+array/3sum_closest.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum_closest.cpp.i
+.PHONY : array/3sum_closest.cpp.i
+
+array/3sum_closest.s: array/3sum_closest.cpp.s
+
+.PHONY : array/3sum_closest.s
+
+# target to generate assembly for a file
+array/3sum_closest.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/3sum_closest.cpp.s
+.PHONY : array/3sum_closest.cpp.s
+
 array/3sum_smaller.o: array/3sum_smaller.cpp.o
 
 .PHONY : array/3sum_smaller.o
@@ -500,6 +527,33 @@ array/maximum_subarray_no_larger_than_k.s: array/maximum_subarray_no_larger_than
 array/maximum_subarray_no_larger_than_k.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/maximum_subarray_no_larger_than_k.cpp.s
 .PHONY : array/maximum_subarray_no_larger_than_k.cpp.s
+
+array/minimum_size_subarray_sum.o: array/minimum_size_subarray_sum.cpp.o
+
+.PHONY : array/minimum_size_subarray_sum.o
+
+# target to build an object file
+array/minimum_size_subarray_sum.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/minimum_size_subarray_sum.cpp.o
+.PHONY : array/minimum_size_subarray_sum.cpp.o
+
+array/minimum_size_subarray_sum.i: array/minimum_size_subarray_sum.cpp.i
+
+.PHONY : array/minimum_size_subarray_sum.i
+
+# target to preprocess a source file
+array/minimum_size_subarray_sum.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/minimum_size_subarray_sum.cpp.i
+.PHONY : array/minimum_size_subarray_sum.cpp.i
+
+array/minimum_size_subarray_sum.s: array/minimum_size_subarray_sum.cpp.s
+
+.PHONY : array/minimum_size_subarray_sum.s
+
+# target to generate assembly for a file
+array/minimum_size_subarray_sum.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/array/minimum_size_subarray_sum.cpp.s
+.PHONY : array/minimum_size_subarray_sum.cpp.s
 
 array/missing_number.o: array/missing_number.cpp.o
 
@@ -2742,6 +2796,33 @@ dynamic_programming/russian_doll_envelopes.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.s
 .PHONY : dynamic_programming/russian_doll_envelopes.cpp.s
 
+dynamic_programming/word_break.o: dynamic_programming/word_break.cpp.o
+
+.PHONY : dynamic_programming/word_break.o
+
+# target to build an object file
+dynamic_programming/word_break.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/word_break.cpp.o
+.PHONY : dynamic_programming/word_break.cpp.o
+
+dynamic_programming/word_break.i: dynamic_programming/word_break.cpp.i
+
+.PHONY : dynamic_programming/word_break.i
+
+# target to preprocess a source file
+dynamic_programming/word_break.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/word_break.cpp.i
+.PHONY : dynamic_programming/word_break.cpp.i
+
+dynamic_programming/word_break.s: dynamic_programming/word_break.cpp.s
+
+.PHONY : dynamic_programming/word_break.s
+
+# target to generate assembly for a file
+dynamic_programming/word_break.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/word_break.cpp.s
+.PHONY : dynamic_programming/word_break.cpp.s
+
 greedy/create_maximum_number.o: greedy/create_maximum_number.cpp.o
 
 .PHONY : greedy/create_maximum_number.o
@@ -4335,6 +4416,33 @@ sort/merge_intervals.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/merge_intervals.cpp.s
 .PHONY : sort/merge_intervals.cpp.s
 
+sort/sort_colors.o: sort/sort_colors.cpp.o
+
+.PHONY : sort/sort_colors.o
+
+# target to build an object file
+sort/sort_colors.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/sort_colors.cpp.o
+.PHONY : sort/sort_colors.cpp.o
+
+sort/sort_colors.i: sort/sort_colors.cpp.i
+
+.PHONY : sort/sort_colors.i
+
+# target to preprocess a source file
+sort/sort_colors.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/sort_colors.cpp.i
+.PHONY : sort/sort_colors.cpp.i
+
+sort/sort_colors.s: sort/sort_colors.cpp.s
+
+.PHONY : sort/sort_colors.s
+
+# target to generate assembly for a file
+sort/sort_colors.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/sort/sort_colors.cpp.s
+.PHONY : sort/sort_colors.cpp.s
+
 stack/basic_calculator.o: stack/basic_calculator.cpp.o
 
 .PHONY : stack/basic_calculator.o
@@ -5145,6 +5253,60 @@ tree/closest_binary_search_tree_value.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/closest_binary_search_tree_value.cpp.s
 .PHONY : tree/closest_binary_search_tree_value.cpp.s
 
+tree/convert_sorted_array_to_binary_search_tree.o: tree/convert_sorted_array_to_binary_search_tree.cpp.o
+
+.PHONY : tree/convert_sorted_array_to_binary_search_tree.o
+
+# target to build an object file
+tree/convert_sorted_array_to_binary_search_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/convert_sorted_array_to_binary_search_tree.cpp.o
+.PHONY : tree/convert_sorted_array_to_binary_search_tree.cpp.o
+
+tree/convert_sorted_array_to_binary_search_tree.i: tree/convert_sorted_array_to_binary_search_tree.cpp.i
+
+.PHONY : tree/convert_sorted_array_to_binary_search_tree.i
+
+# target to preprocess a source file
+tree/convert_sorted_array_to_binary_search_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/convert_sorted_array_to_binary_search_tree.cpp.i
+.PHONY : tree/convert_sorted_array_to_binary_search_tree.cpp.i
+
+tree/convert_sorted_array_to_binary_search_tree.s: tree/convert_sorted_array_to_binary_search_tree.cpp.s
+
+.PHONY : tree/convert_sorted_array_to_binary_search_tree.s
+
+# target to generate assembly for a file
+tree/convert_sorted_array_to_binary_search_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/convert_sorted_array_to_binary_search_tree.cpp.s
+.PHONY : tree/convert_sorted_array_to_binary_search_tree.cpp.s
+
+tree/convert_sorted_list_to_binary_search_tree.o: tree/convert_sorted_list_to_binary_search_tree.cpp.o
+
+.PHONY : tree/convert_sorted_list_to_binary_search_tree.o
+
+# target to build an object file
+tree/convert_sorted_list_to_binary_search_tree.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/convert_sorted_list_to_binary_search_tree.cpp.o
+.PHONY : tree/convert_sorted_list_to_binary_search_tree.cpp.o
+
+tree/convert_sorted_list_to_binary_search_tree.i: tree/convert_sorted_list_to_binary_search_tree.cpp.i
+
+.PHONY : tree/convert_sorted_list_to_binary_search_tree.i
+
+# target to preprocess a source file
+tree/convert_sorted_list_to_binary_search_tree.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/convert_sorted_list_to_binary_search_tree.cpp.i
+.PHONY : tree/convert_sorted_list_to_binary_search_tree.cpp.i
+
+tree/convert_sorted_list_to_binary_search_tree.s: tree/convert_sorted_list_to_binary_search_tree.cpp.s
+
+.PHONY : tree/convert_sorted_list_to_binary_search_tree.s
+
+# target to generate assembly for a file
+tree/convert_sorted_list_to_binary_search_tree.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/convert_sorted_list_to_binary_search_tree.cpp.s
+.PHONY : tree/convert_sorted_list_to_binary_search_tree.cpp.s
+
 tree/count_complete_tree_nodes.o: tree/count_complete_tree_nodes.cpp.o
 
 .PHONY : tree/count_complete_tree_nodes.o
@@ -5442,6 +5604,33 @@ tree/lowest_common_ancestor_of_a_binary_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/lowest_common_ancestor_of_a_binary_tree.cpp.s
 .PHONY : tree/lowest_common_ancestor_of_a_binary_tree.cpp.s
 
+tree/populating_next_right_pointers_in_each_node.o: tree/populating_next_right_pointers_in_each_node.cpp.o
+
+.PHONY : tree/populating_next_right_pointers_in_each_node.o
+
+# target to build an object file
+tree/populating_next_right_pointers_in_each_node.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/populating_next_right_pointers_in_each_node.cpp.o
+.PHONY : tree/populating_next_right_pointers_in_each_node.cpp.o
+
+tree/populating_next_right_pointers_in_each_node.i: tree/populating_next_right_pointers_in_each_node.cpp.i
+
+.PHONY : tree/populating_next_right_pointers_in_each_node.i
+
+# target to preprocess a source file
+tree/populating_next_right_pointers_in_each_node.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/populating_next_right_pointers_in_each_node.cpp.i
+.PHONY : tree/populating_next_right_pointers_in_each_node.cpp.i
+
+tree/populating_next_right_pointers_in_each_node.s: tree/populating_next_right_pointers_in_each_node.cpp.s
+
+.PHONY : tree/populating_next_right_pointers_in_each_node.s
+
+# target to generate assembly for a file
+tree/populating_next_right_pointers_in_each_node.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/populating_next_right_pointers_in_each_node.cpp.s
+.PHONY : tree/populating_next_right_pointers_in_each_node.cpp.s
+
 tree/serialize_and_deserialize_binary_tree.o: tree/serialize_and_deserialize_binary_tree.cpp.o
 
 .PHONY : tree/serialize_and_deserialize_binary_tree.o
@@ -5643,6 +5832,9 @@ help:
 	@echo "... array/3sum.o"
 	@echo "... array/3sum.i"
 	@echo "... array/3sum.s"
+	@echo "... array/3sum_closest.o"
+	@echo "... array/3sum_closest.i"
+	@echo "... array/3sum_closest.s"
 	@echo "... array/3sum_smaller.o"
 	@echo "... array/3sum_smaller.i"
 	@echo "... array/3sum_smaller.s"
@@ -5682,6 +5874,9 @@ help:
 	@echo "... array/maximum_subarray_no_larger_than_k.o"
 	@echo "... array/maximum_subarray_no_larger_than_k.i"
 	@echo "... array/maximum_subarray_no_larger_than_k.s"
+	@echo "... array/minimum_size_subarray_sum.o"
+	@echo "... array/minimum_size_subarray_sum.i"
+	@echo "... array/minimum_size_subarray_sum.s"
 	@echo "... array/missing_number.o"
 	@echo "... array/missing_number.i"
 	@echo "... array/missing_number.s"
@@ -5931,6 +6126,9 @@ help:
 	@echo "... dynamic_programming/russian_doll_envelopes.o"
 	@echo "... dynamic_programming/russian_doll_envelopes.i"
 	@echo "... dynamic_programming/russian_doll_envelopes.s"
+	@echo "... dynamic_programming/word_break.o"
+	@echo "... dynamic_programming/word_break.i"
+	@echo "... dynamic_programming/word_break.s"
 	@echo "... greedy/create_maximum_number.o"
 	@echo "... greedy/create_maximum_number.i"
 	@echo "... greedy/create_maximum_number.s"
@@ -6108,6 +6306,9 @@ help:
 	@echo "... sort/merge_intervals.o"
 	@echo "... sort/merge_intervals.i"
 	@echo "... sort/merge_intervals.s"
+	@echo "... sort/sort_colors.o"
+	@echo "... sort/sort_colors.i"
+	@echo "... sort/sort_colors.s"
 	@echo "... stack/basic_calculator.o"
 	@echo "... stack/basic_calculator.i"
 	@echo "... stack/basic_calculator.s"
@@ -6198,6 +6399,12 @@ help:
 	@echo "... tree/closest_binary_search_tree_value.o"
 	@echo "... tree/closest_binary_search_tree_value.i"
 	@echo "... tree/closest_binary_search_tree_value.s"
+	@echo "... tree/convert_sorted_array_to_binary_search_tree.o"
+	@echo "... tree/convert_sorted_array_to_binary_search_tree.i"
+	@echo "... tree/convert_sorted_array_to_binary_search_tree.s"
+	@echo "... tree/convert_sorted_list_to_binary_search_tree.o"
+	@echo "... tree/convert_sorted_list_to_binary_search_tree.i"
+	@echo "... tree/convert_sorted_list_to_binary_search_tree.s"
 	@echo "... tree/count_complete_tree_nodes.o"
 	@echo "... tree/count_complete_tree_nodes.i"
 	@echo "... tree/count_complete_tree_nodes.s"
@@ -6231,6 +6438,9 @@ help:
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.o"
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.i"
 	@echo "... tree/lowest_common_ancestor_of_a_binary_tree.s"
+	@echo "... tree/populating_next_right_pointers_in_each_node.o"
+	@echo "... tree/populating_next_right_pointers_in_each_node.i"
+	@echo "... tree/populating_next_right_pointers_in_each_node.s"
 	@echo "... tree/serialize_and_deserialize_binary_tree.o"
 	@echo "... tree/serialize_and_deserialize_binary_tree.i"
 	@echo "... tree/serialize_and_deserialize_binary_tree.s"

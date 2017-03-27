@@ -83,6 +83,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/3sum.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/3sum_closest.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/3sum_smaller.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -123,6 +126,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/maximum_subarray_no_larger_than_k.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/minimum_size_subarray_sum.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/array/missing_number.cpp">
@@ -401,6 +407,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/russian_doll_envelopes.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/word_break.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/greedy/Greedy.h">
 			<Option target="cpc"/>
 		</Unit>
@@ -599,6 +608,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/sort/merge_intervals.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/sort/sort_colors.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/stack/Stack.h">
 			<Option target="cpc"/>
 		</Unit>
@@ -701,6 +713,12 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/closest_binary_search_tree_value.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/convert_sorted_array_to_binary_search_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/convert_sorted_list_to_binary_search_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/count_complete_tree_nodes.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -732,6 +750,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/lowest_common_ancestor_of_a_binary_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/populating_next_right_pointers_in_each_node.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/serialize_and_deserialize_binary_tree.cpp">

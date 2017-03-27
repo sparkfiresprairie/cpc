@@ -42,4 +42,4 @@ int maxEnvelopes(vector <pair<int, int>> &envelopes) {
 }
 
 // time: O(n^2)
-// space: O(n0
+// space: O(n)

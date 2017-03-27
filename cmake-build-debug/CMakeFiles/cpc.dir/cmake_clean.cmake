@@ -203,6 +203,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/sort/merge_intervals.cpp.o"
   "CMakeFiles/cpc.dir/string/add_binary.cpp.o"
   "CMakeFiles/cpc.dir/dynamic_programming/regular_expression_matching.cpp.o"
+  "CMakeFiles/cpc.dir/array/3sum_closest.cpp.o"
+  "CMakeFiles/cpc.dir/dynamic_programming/word_break.cpp.o"
+  "CMakeFiles/cpc.dir/array/minimum_size_subarray_sum.cpp.o"
+  "CMakeFiles/cpc.dir/tree/populating_next_right_pointers_in_each_node.cpp.o"
+  "CMakeFiles/cpc.dir/tree/convert_sorted_array_to_binary_search_tree.cpp.o"
+  "CMakeFiles/cpc.dir/tree/convert_sorted_list_to_binary_search_tree.cpp.o"
+  "CMakeFiles/cpc.dir/sort/sort_colors.cpp.o"
   "cpc.pdb"
   "cpc"
 )
