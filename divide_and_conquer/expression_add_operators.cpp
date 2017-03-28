@@ -53,4 +53,5 @@ vector<string> addOperators(string num, int target) {
     return ans;
 }
 
-
+// time: O(3^n)
+// space: O(n) if considering stack depth

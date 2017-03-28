@@ -200,6 +200,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/BinarySearch.h">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/divide_two_integers.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/first_bad_version.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -299,6 +302,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/DFSBFS.h">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/clone_graph.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/letter_combinations_of_a_phone_number.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -344,6 +350,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/expression_add_operators.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/divide_and_conquer/longest_substring_with_at_least_k_repeated_characters.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/DynamicProgramming.h">
 			<Option target="cpc"/>
 		</Unit>
@@ -365,6 +374,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/coin_change.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/combination_sum_4.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/decode_ways.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -377,7 +389,13 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/flip_game_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_common_substring.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_increasing_subsequence.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/longest_valid_parentheses.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/max_sum_of_rectangle_no_larger_than_k.cpp">
@@ -557,6 +575,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/count_numbers_with_unique_digits.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/multiply_strings.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/pow_x_n.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -582,6 +603,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/ugly_number_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/valid_number.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/recursion/Recursion.h">
@@ -750,6 +774,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/lowest_common_ancestor_of_a_binary_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/minimum_depth_of_binary_tree.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/populating_next_right_pointers_in_each_node.cpp">

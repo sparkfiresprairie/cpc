@@ -64,14 +64,14 @@ int lengthOfLIS(vector<int>& nums) {
 //            // grater elements than nums[i]
 //            // (and also, nums[i] would have already appeared in one of LIS,
 //            // identify the location and replace it)
-//            tails[find_largest_smaller(tails, 0, length - 1, nums[i])] = nums[i];
+//            tails[find_smallest_larger(tails, 0, length - 1, nums[i])] = nums[i];
 //        }
 //    }
 //
 //    return length;
 //}
 //
-//int find_largest_smaller(vector<int> const& tails, int low, int high, int key) {
+//int find_smallest_larger(vector<int> const& tails, int low, int high, int key) {
 //    while (low < high) {
 //        int mid = low + (high - low) / 2;
 //        if (tails[mid] > key) {

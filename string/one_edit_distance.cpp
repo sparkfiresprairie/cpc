@@ -29,3 +29,6 @@ bool isOneEditDistance(string s, string t) {
     return true;
 }
 
+// time: O(n)
+// space: O(1)
+
