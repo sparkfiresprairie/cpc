@@ -5337,6 +5337,246 @@ CMakeFiles/cpc.dir/dynamic_programming/longest_valid_parentheses.cpp.o.provides:
 CMakeFiles/cpc.dir/dynamic_programming/longest_valid_parentheses.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/longest_valid_parentheses.cpp.o
 
 
+CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o: ../binary_search/find_minimum_in_rotated_sorted_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Building CXX object CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/binary_search/find_minimum_in_rotated_sorted_array.cpp
+
+CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/binary_search/find_minimum_in_rotated_sorted_array.cpp > CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.i
+
+CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/binary_search/find_minimum_in_rotated_sorted_array.cpp -o CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.s
+
+CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.requires
+
+CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.provides: CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.provides
+
+CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.provides.build: CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o
+
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o: ../binary_search/search_in_rotated_sorted_array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_222) "Building CXX object CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array.cpp
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array.cpp > CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.i
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array.cpp -o CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.s
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.requires
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.provides: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.provides
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.provides.build: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o
+
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o: ../binary_search/search_in_rotated_sorted_array_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_223) "Building CXX object CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array_2.cpp
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array_2.cpp > CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.i
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array_2.cpp -o CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.s
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.provides: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.provides.build: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o
+
+
+CMakeFiles/cpc.dir/string/count_and_say.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/string/count_and_say.cpp.o: ../string/count_and_say.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_224) "Building CXX object CMakeFiles/cpc.dir/string/count_and_say.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/string/count_and_say.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/string/count_and_say.cpp
+
+CMakeFiles/cpc.dir/string/count_and_say.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/string/count_and_say.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/string/count_and_say.cpp > CMakeFiles/cpc.dir/string/count_and_say.cpp.i
+
+CMakeFiles/cpc.dir/string/count_and_say.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/string/count_and_say.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/string/count_and_say.cpp -o CMakeFiles/cpc.dir/string/count_and_say.cpp.s
+
+CMakeFiles/cpc.dir/string/count_and_say.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/string/count_and_say.cpp.o.requires
+
+CMakeFiles/cpc.dir/string/count_and_say.cpp.o.provides: CMakeFiles/cpc.dir/string/count_and_say.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/count_and_say.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/string/count_and_say.cpp.o.provides
+
+CMakeFiles/cpc.dir/string/count_and_say.cpp.o.provides.build: CMakeFiles/cpc.dir/string/count_and_say.cpp.o
+
+
+CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o: ../design/add_and_search_words_data_structure_design.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_225) "Building CXX object CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/add_and_search_words_data_structure_design.cpp
+
+CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/add_and_search_words_data_structure_design.cpp > CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.i
+
+CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/add_and_search_words_data_structure_design.cpp -o CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.s
+
+CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.provides: CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.provides.build: CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o
+
+
+CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o: ../linked_list/reverse_linked_list_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_226) "Building CXX object CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/linked_list/reverse_linked_list_2.cpp
+
+CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/linked_list/reverse_linked_list_2.cpp > CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.i
+
+CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/linked_list/reverse_linked_list_2.cpp -o CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.s
+
+CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.provides: CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.provides.build: CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o: ../dynamic_programming/unique_paths.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_227) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_paths.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_paths.cpp > CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_paths.cpp -o CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o
+
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o: ../dynamic_programming/unique_path_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_228) "Building CXX object CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_path_2.cpp
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_path_2.cpp > CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.i
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_path_2.cpp -o CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.s
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.provides: CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o
+
+
+CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o: ../tree/flatten_binary_tree_to_linked_list.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_229) "Building CXX object CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/tree/flatten_binary_tree_to_linked_list.cpp
+
+CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/tree/flatten_binary_tree_to_linked_list.cpp > CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.i
+
+CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/tree/flatten_binary_tree_to_linked_list.cpp -o CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.s
+
+CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.requires
+
+CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.provides: CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.provides
+
+CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.provides.build: CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o
+
+
+CMakeFiles/cpc.dir/design/min_queue.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/design/min_queue.cpp.o: ../design/min_queue.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_230) "Building CXX object CMakeFiles/cpc.dir/design/min_queue.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/design/min_queue.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/design/min_queue.cpp
+
+CMakeFiles/cpc.dir/design/min_queue.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/design/min_queue.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/design/min_queue.cpp > CMakeFiles/cpc.dir/design/min_queue.cpp.i
+
+CMakeFiles/cpc.dir/design/min_queue.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/design/min_queue.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/design/min_queue.cpp -o CMakeFiles/cpc.dir/design/min_queue.cpp.s
+
+CMakeFiles/cpc.dir/design/min_queue.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/design/min_queue.cpp.o.requires
+
+CMakeFiles/cpc.dir/design/min_queue.cpp.o.provides: CMakeFiles/cpc.dir/design/min_queue.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/min_queue.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/design/min_queue.cpp.o.provides
+
+CMakeFiles/cpc.dir/design/min_queue.cpp.o.provides.build: CMakeFiles/cpc.dir/design/min_queue.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -5558,7 +5798,17 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/binary_search/divide_two_integers.cpp.o" \
 "CMakeFiles/cpc.dir/math/multiply_strings.cpp.o" \
 "CMakeFiles/cpc.dir/dynamic_programming/combination_sum_4.cpp.o" \
-"CMakeFiles/cpc.dir/dynamic_programming/longest_valid_parentheses.cpp.o"
+"CMakeFiles/cpc.dir/dynamic_programming/longest_valid_parentheses.cpp.o" \
+"CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o" \
+"CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o" \
+"CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o" \
+"CMakeFiles/cpc.dir/string/count_and_say.cpp.o" \
+"CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o" \
+"CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o" \
+"CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o" \
+"CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o" \
+"CMakeFiles/cpc.dir/design/min_queue.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -5783,9 +6033,19 @@ cpc: CMakeFiles/cpc.dir/binary_search/divide_two_integers.cpp.o
 cpc: CMakeFiles/cpc.dir/math/multiply_strings.cpp.o
 cpc: CMakeFiles/cpc.dir/dynamic_programming/combination_sum_4.cpp.o
 cpc: CMakeFiles/cpc.dir/dynamic_programming/longest_valid_parentheses.cpp.o
+cpc: CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o
+cpc: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o
+cpc: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o
+cpc: CMakeFiles/cpc.dir/string/count_and_say.cpp.o
+cpc: CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o
+cpc: CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o
+cpc: CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o
+cpc: CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o
+cpc: CMakeFiles/cpc.dir/design/min_queue.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_221) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_231) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -6013,6 +6273,16 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/divide_two_integer
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/multiply_strings.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/combination_sum_4.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/longest_valid_parentheses.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/string/count_and_say.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/min_queue.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

@@ -203,6 +203,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/divide_two_integers.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/find_minimum_in_rotated_sorted_array.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/first_bad_version.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -210,6 +213,12 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_a_2d_matrix_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/search_in_rotated_sorted_array_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/binary_search/smallest_rectangle_enclosing_black_pixels.cpp">
@@ -234,6 +243,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/Design.h">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/add_and_search_words_data_structure_design.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/design_cd_function.cpp">
@@ -273,6 +285,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/lru_cache.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/min_queue.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/design/min_stack.cpp">
@@ -425,6 +440,12 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/russian_doll_envelopes.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_path_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/unique_paths.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/word_break.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -554,6 +575,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/reverse_linked_list.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/linked_list/reverse_linked_list_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/main.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -659,6 +683,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/add_binary.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/count_and_say.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/string/flip_game.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -753,6 +780,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/find_leaves_of_binary_tree.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/flatten_binary_tree_to_linked_list.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/tree/house_robber_3.cpp">

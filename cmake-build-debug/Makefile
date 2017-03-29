@@ -1122,6 +1122,33 @@ binary_search/divide_two_integers.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/divide_two_integers.cpp.s
 .PHONY : binary_search/divide_two_integers.cpp.s
 
+binary_search/find_minimum_in_rotated_sorted_array.o: binary_search/find_minimum_in_rotated_sorted_array.cpp.o
+
+.PHONY : binary_search/find_minimum_in_rotated_sorted_array.o
+
+# target to build an object file
+binary_search/find_minimum_in_rotated_sorted_array.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.o
+.PHONY : binary_search/find_minimum_in_rotated_sorted_array.cpp.o
+
+binary_search/find_minimum_in_rotated_sorted_array.i: binary_search/find_minimum_in_rotated_sorted_array.cpp.i
+
+.PHONY : binary_search/find_minimum_in_rotated_sorted_array.i
+
+# target to preprocess a source file
+binary_search/find_minimum_in_rotated_sorted_array.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.i
+.PHONY : binary_search/find_minimum_in_rotated_sorted_array.cpp.i
+
+binary_search/find_minimum_in_rotated_sorted_array.s: binary_search/find_minimum_in_rotated_sorted_array.cpp.s
+
+.PHONY : binary_search/find_minimum_in_rotated_sorted_array.s
+
+# target to generate assembly for a file
+binary_search/find_minimum_in_rotated_sorted_array.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/find_minimum_in_rotated_sorted_array.cpp.s
+.PHONY : binary_search/find_minimum_in_rotated_sorted_array.cpp.s
+
 binary_search/first_bad_version.o: binary_search/first_bad_version.cpp.o
 
 .PHONY : binary_search/first_bad_version.o
@@ -1202,6 +1229,60 @@ binary_search/search_a_2d_matrix_2.s: binary_search/search_a_2d_matrix_2.cpp.s
 binary_search/search_a_2d_matrix_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_a_2d_matrix_2.cpp.s
 .PHONY : binary_search/search_a_2d_matrix_2.cpp.s
+
+binary_search/search_in_rotated_sorted_array.o: binary_search/search_in_rotated_sorted_array.cpp.o
+
+.PHONY : binary_search/search_in_rotated_sorted_array.o
+
+# target to build an object file
+binary_search/search_in_rotated_sorted_array.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.o
+.PHONY : binary_search/search_in_rotated_sorted_array.cpp.o
+
+binary_search/search_in_rotated_sorted_array.i: binary_search/search_in_rotated_sorted_array.cpp.i
+
+.PHONY : binary_search/search_in_rotated_sorted_array.i
+
+# target to preprocess a source file
+binary_search/search_in_rotated_sorted_array.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.i
+.PHONY : binary_search/search_in_rotated_sorted_array.cpp.i
+
+binary_search/search_in_rotated_sorted_array.s: binary_search/search_in_rotated_sorted_array.cpp.s
+
+.PHONY : binary_search/search_in_rotated_sorted_array.s
+
+# target to generate assembly for a file
+binary_search/search_in_rotated_sorted_array.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array.cpp.s
+.PHONY : binary_search/search_in_rotated_sorted_array.cpp.s
+
+binary_search/search_in_rotated_sorted_array_2.o: binary_search/search_in_rotated_sorted_array_2.cpp.o
+
+.PHONY : binary_search/search_in_rotated_sorted_array_2.o
+
+# target to build an object file
+binary_search/search_in_rotated_sorted_array_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.o
+.PHONY : binary_search/search_in_rotated_sorted_array_2.cpp.o
+
+binary_search/search_in_rotated_sorted_array_2.i: binary_search/search_in_rotated_sorted_array_2.cpp.i
+
+.PHONY : binary_search/search_in_rotated_sorted_array_2.i
+
+# target to preprocess a source file
+binary_search/search_in_rotated_sorted_array_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.i
+.PHONY : binary_search/search_in_rotated_sorted_array_2.cpp.i
+
+binary_search/search_in_rotated_sorted_array_2.s: binary_search/search_in_rotated_sorted_array_2.cpp.s
+
+.PHONY : binary_search/search_in_rotated_sorted_array_2.s
+
+# target to generate assembly for a file
+binary_search/search_in_rotated_sorted_array_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/binary_search/search_in_rotated_sorted_array_2.cpp.s
+.PHONY : binary_search/search_in_rotated_sorted_array_2.cpp.s
 
 binary_search/smallest_rectangle_enclosing_black_pixels.o: binary_search/smallest_rectangle_enclosing_black_pixels.cpp.o
 
@@ -1337,6 +1418,33 @@ bit_manipulation/single_number_3.s: bit_manipulation/single_number_3.cpp.s
 bit_manipulation/single_number_3.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/bit_manipulation/single_number_3.cpp.s
 .PHONY : bit_manipulation/single_number_3.cpp.s
+
+design/add_and_search_words_data_structure_design.o: design/add_and_search_words_data_structure_design.cpp.o
+
+.PHONY : design/add_and_search_words_data_structure_design.o
+
+# target to build an object file
+design/add_and_search_words_data_structure_design.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.o
+.PHONY : design/add_and_search_words_data_structure_design.cpp.o
+
+design/add_and_search_words_data_structure_design.i: design/add_and_search_words_data_structure_design.cpp.i
+
+.PHONY : design/add_and_search_words_data_structure_design.i
+
+# target to preprocess a source file
+design/add_and_search_words_data_structure_design.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.i
+.PHONY : design/add_and_search_words_data_structure_design.cpp.i
+
+design/add_and_search_words_data_structure_design.s: design/add_and_search_words_data_structure_design.cpp.s
+
+.PHONY : design/add_and_search_words_data_structure_design.s
+
+# target to generate assembly for a file
+design/add_and_search_words_data_structure_design.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/add_and_search_words_data_structure_design.cpp.s
+.PHONY : design/add_and_search_words_data_structure_design.cpp.s
 
 design/design_cd_function.o: design/design_cd_function.cpp.o
 
@@ -1688,6 +1796,33 @@ design/lru_cache.s: design/lru_cache.cpp.s
 design/lru_cache.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/lru_cache.cpp.s
 .PHONY : design/lru_cache.cpp.s
+
+design/min_queue.o: design/min_queue.cpp.o
+
+.PHONY : design/min_queue.o
+
+# target to build an object file
+design/min_queue.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/min_queue.cpp.o
+.PHONY : design/min_queue.cpp.o
+
+design/min_queue.i: design/min_queue.cpp.i
+
+.PHONY : design/min_queue.i
+
+# target to preprocess a source file
+design/min_queue.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/min_queue.cpp.i
+.PHONY : design/min_queue.cpp.i
+
+design/min_queue.s: design/min_queue.cpp.s
+
+.PHONY : design/min_queue.s
+
+# target to generate assembly for a file
+design/min_queue.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/design/min_queue.cpp.s
+.PHONY : design/min_queue.cpp.s
 
 design/min_stack.o: design/min_stack.cpp.o
 
@@ -2958,6 +3093,60 @@ dynamic_programming/russian_doll_envelopes.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/russian_doll_envelopes.cpp.s
 .PHONY : dynamic_programming/russian_doll_envelopes.cpp.s
 
+dynamic_programming/unique_path_2.o: dynamic_programming/unique_path_2.cpp.o
+
+.PHONY : dynamic_programming/unique_path_2.o
+
+# target to build an object file
+dynamic_programming/unique_path_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o
+.PHONY : dynamic_programming/unique_path_2.cpp.o
+
+dynamic_programming/unique_path_2.i: dynamic_programming/unique_path_2.cpp.i
+
+.PHONY : dynamic_programming/unique_path_2.i
+
+# target to preprocess a source file
+dynamic_programming/unique_path_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.i
+.PHONY : dynamic_programming/unique_path_2.cpp.i
+
+dynamic_programming/unique_path_2.s: dynamic_programming/unique_path_2.cpp.s
+
+.PHONY : dynamic_programming/unique_path_2.s
+
+# target to generate assembly for a file
+dynamic_programming/unique_path_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.s
+.PHONY : dynamic_programming/unique_path_2.cpp.s
+
+dynamic_programming/unique_paths.o: dynamic_programming/unique_paths.cpp.o
+
+.PHONY : dynamic_programming/unique_paths.o
+
+# target to build an object file
+dynamic_programming/unique_paths.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.o
+.PHONY : dynamic_programming/unique_paths.cpp.o
+
+dynamic_programming/unique_paths.i: dynamic_programming/unique_paths.cpp.i
+
+.PHONY : dynamic_programming/unique_paths.i
+
+# target to preprocess a source file
+dynamic_programming/unique_paths.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.i
+.PHONY : dynamic_programming/unique_paths.cpp.i
+
+dynamic_programming/unique_paths.s: dynamic_programming/unique_paths.cpp.s
+
+.PHONY : dynamic_programming/unique_paths.s
+
+# target to generate assembly for a file
+dynamic_programming/unique_paths.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/unique_paths.cpp.s
+.PHONY : dynamic_programming/unique_paths.cpp.s
+
 dynamic_programming/word_break.o: dynamic_programming/word_break.cpp.o
 
 .PHONY : dynamic_programming/word_break.o
@@ -4011,6 +4200,33 @@ linked_list/reverse_linked_list.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list.cpp.s
 .PHONY : linked_list/reverse_linked_list.cpp.s
 
+linked_list/reverse_linked_list_2.o: linked_list/reverse_linked_list_2.cpp.o
+
+.PHONY : linked_list/reverse_linked_list_2.o
+
+# target to build an object file
+linked_list/reverse_linked_list_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.o
+.PHONY : linked_list/reverse_linked_list_2.cpp.o
+
+linked_list/reverse_linked_list_2.i: linked_list/reverse_linked_list_2.cpp.i
+
+.PHONY : linked_list/reverse_linked_list_2.i
+
+# target to preprocess a source file
+linked_list/reverse_linked_list_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.i
+.PHONY : linked_list/reverse_linked_list_2.cpp.i
+
+linked_list/reverse_linked_list_2.s: linked_list/reverse_linked_list_2.cpp.s
+
+.PHONY : linked_list/reverse_linked_list_2.s
+
+# target to generate assembly for a file
+linked_list/reverse_linked_list_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/linked_list/reverse_linked_list_2.cpp.s
+.PHONY : linked_list/reverse_linked_list_2.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -4820,6 +5036,33 @@ string/add_binary.s: string/add_binary.cpp.s
 string/add_binary.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/add_binary.cpp.s
 .PHONY : string/add_binary.cpp.s
+
+string/count_and_say.o: string/count_and_say.cpp.o
+
+.PHONY : string/count_and_say.o
+
+# target to build an object file
+string/count_and_say.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/count_and_say.cpp.o
+.PHONY : string/count_and_say.cpp.o
+
+string/count_and_say.i: string/count_and_say.cpp.i
+
+.PHONY : string/count_and_say.i
+
+# target to preprocess a source file
+string/count_and_say.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/count_and_say.cpp.i
+.PHONY : string/count_and_say.cpp.i
+
+string/count_and_say.s: string/count_and_say.cpp.s
+
+.PHONY : string/count_and_say.s
+
+# target to generate assembly for a file
+string/count_and_say.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/count_and_say.cpp.s
+.PHONY : string/count_and_say.cpp.s
 
 string/flip_game.o: string/flip_game.cpp.o
 
@@ -5631,6 +5874,33 @@ tree/find_leaves_of_binary_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/find_leaves_of_binary_tree.cpp.s
 .PHONY : tree/find_leaves_of_binary_tree.cpp.s
 
+tree/flatten_binary_tree_to_linked_list.o: tree/flatten_binary_tree_to_linked_list.cpp.o
+
+.PHONY : tree/flatten_binary_tree_to_linked_list.o
+
+# target to build an object file
+tree/flatten_binary_tree_to_linked_list.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o
+.PHONY : tree/flatten_binary_tree_to_linked_list.cpp.o
+
+tree/flatten_binary_tree_to_linked_list.i: tree/flatten_binary_tree_to_linked_list.cpp.i
+
+.PHONY : tree/flatten_binary_tree_to_linked_list.i
+
+# target to preprocess a source file
+tree/flatten_binary_tree_to_linked_list.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.i
+.PHONY : tree/flatten_binary_tree_to_linked_list.cpp.i
+
+tree/flatten_binary_tree_to_linked_list.s: tree/flatten_binary_tree_to_linked_list.cpp.s
+
+.PHONY : tree/flatten_binary_tree_to_linked_list.s
+
+# target to generate assembly for a file
+tree/flatten_binary_tree_to_linked_list.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.s
+.PHONY : tree/flatten_binary_tree_to_linked_list.cpp.s
+
 tree/house_robber_3.o: tree/house_robber_3.cpp.o
 
 .PHONY : tree/house_robber_3.o
@@ -6183,6 +6453,9 @@ help:
 	@echo "... binary_search/divide_two_integers.o"
 	@echo "... binary_search/divide_two_integers.i"
 	@echo "... binary_search/divide_two_integers.s"
+	@echo "... binary_search/find_minimum_in_rotated_sorted_array.o"
+	@echo "... binary_search/find_minimum_in_rotated_sorted_array.i"
+	@echo "... binary_search/find_minimum_in_rotated_sorted_array.s"
 	@echo "... binary_search/first_bad_version.o"
 	@echo "... binary_search/first_bad_version.i"
 	@echo "... binary_search/first_bad_version.s"
@@ -6192,6 +6465,12 @@ help:
 	@echo "... binary_search/search_a_2d_matrix_2.o"
 	@echo "... binary_search/search_a_2d_matrix_2.i"
 	@echo "... binary_search/search_a_2d_matrix_2.s"
+	@echo "... binary_search/search_in_rotated_sorted_array.o"
+	@echo "... binary_search/search_in_rotated_sorted_array.i"
+	@echo "... binary_search/search_in_rotated_sorted_array.s"
+	@echo "... binary_search/search_in_rotated_sorted_array_2.o"
+	@echo "... binary_search/search_in_rotated_sorted_array_2.i"
+	@echo "... binary_search/search_in_rotated_sorted_array_2.s"
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.o"
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.i"
 	@echo "... binary_search/smallest_rectangle_enclosing_black_pixels.s"
@@ -6207,6 +6486,9 @@ help:
 	@echo "... bit_manipulation/single_number_3.o"
 	@echo "... bit_manipulation/single_number_3.i"
 	@echo "... bit_manipulation/single_number_3.s"
+	@echo "... design/add_and_search_words_data_structure_design.o"
+	@echo "... design/add_and_search_words_data_structure_design.i"
+	@echo "... design/add_and_search_words_data_structure_design.s"
 	@echo "... design/design_cd_function.o"
 	@echo "... design/design_cd_function.i"
 	@echo "... design/design_cd_function.s"
@@ -6246,6 +6528,9 @@ help:
 	@echo "... design/lru_cache.o"
 	@echo "... design/lru_cache.i"
 	@echo "... design/lru_cache.s"
+	@echo "... design/min_queue.o"
+	@echo "... design/min_queue.i"
+	@echo "... design/min_queue.s"
 	@echo "... design/min_stack.o"
 	@echo "... design/min_stack.i"
 	@echo "... design/min_stack.s"
@@ -6387,6 +6672,12 @@ help:
 	@echo "... dynamic_programming/russian_doll_envelopes.o"
 	@echo "... dynamic_programming/russian_doll_envelopes.i"
 	@echo "... dynamic_programming/russian_doll_envelopes.s"
+	@echo "... dynamic_programming/unique_path_2.o"
+	@echo "... dynamic_programming/unique_path_2.i"
+	@echo "... dynamic_programming/unique_path_2.s"
+	@echo "... dynamic_programming/unique_paths.o"
+	@echo "... dynamic_programming/unique_paths.i"
+	@echo "... dynamic_programming/unique_paths.s"
 	@echo "... dynamic_programming/word_break.o"
 	@echo "... dynamic_programming/word_break.i"
 	@echo "... dynamic_programming/word_break.s"
@@ -6504,6 +6795,9 @@ help:
 	@echo "... linked_list/reverse_linked_list.o"
 	@echo "... linked_list/reverse_linked_list.i"
 	@echo "... linked_list/reverse_linked_list.s"
+	@echo "... linked_list/reverse_linked_list_2.o"
+	@echo "... linked_list/reverse_linked_list_2.i"
+	@echo "... linked_list/reverse_linked_list_2.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
@@ -6594,6 +6888,9 @@ help:
 	@echo "... string/add_binary.o"
 	@echo "... string/add_binary.i"
 	@echo "... string/add_binary.s"
+	@echo "... string/count_and_say.o"
+	@echo "... string/count_and_say.i"
+	@echo "... string/count_and_say.s"
 	@echo "... string/flip_game.o"
 	@echo "... string/flip_game.i"
 	@echo "... string/flip_game.s"
@@ -6684,6 +6981,9 @@ help:
 	@echo "... tree/find_leaves_of_binary_tree.o"
 	@echo "... tree/find_leaves_of_binary_tree.i"
 	@echo "... tree/find_leaves_of_binary_tree.s"
+	@echo "... tree/flatten_binary_tree_to_linked_list.o"
+	@echo "... tree/flatten_binary_tree_to_linked_list.i"
+	@echo "... tree/flatten_binary_tree_to_linked_list.s"
 	@echo "... tree/house_robber_3.o"
 	@echo "... tree/house_robber_3.i"
 	@echo "... tree/house_robber_3.s"

@@ -3,10 +3,6 @@
 //
 
 /*
-    Total Accepted: 27645
-    Total Submissions: 94778
-    Difficulty: Easy
-    Contributors: Admin
     The API: int read4(char *buf) reads 4 characters at a time from a file.
 
     The return value is the actual number of characters read. For example, it returns
