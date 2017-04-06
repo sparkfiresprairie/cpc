@@ -74,3 +74,5 @@ public:
         return s1.empty() && s2.empty();
     }
 };
+
+// time: O(1)
