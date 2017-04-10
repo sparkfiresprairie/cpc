@@ -229,6 +229,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o"
   "CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o"
   "CMakeFiles/cpc.dir/design/min_queue.cpp.o"
+  "CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o"
   "cpc.pdb"
   "cpc"
 )

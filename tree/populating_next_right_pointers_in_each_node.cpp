@@ -35,18 +35,55 @@
 
 #include "Tree.h"
 
+//void connect(TreeLinkNode *root) {
+//    queue<TreeLinkNode*> q;
+//    if (root) q.push(root);
+//    while (!q.empty()) {
+//        int num = q.size();
+//        for (int i = 0; i < num; ++i) {
+//            TreeLinkNode* t = q.front();
+//            q.pop();
+//            if (i < num - 1) t->next = q.front();
+//            if (t->left) q.push(t->left);
+//            if (t->right) q.push(t->right);
+//        }
+//    }
+//    return;
+//}
+
 void connect(TreeLinkNode *root) {
-    queue<TreeLinkNode*> q;
-    if (root) q.push(root);
-    while (!q.empty()) {
-        int num = q.size();
-        for (int i = 0; i < num; ++i) {
-            TreeLinkNode* t = q.front();
-            q.pop();
-            if (i < num - 1) t->next = q.front();
-            if (t->left) q.push(t->left);
-            if (t->right) q.push(t->right);
+    TreeLinkNode* head = nullptr; // head of the next level
+    TreeLinkNode* pre = nullptr;  // leading node of next level
+    TreeLinkNode* cur = root;    // current node of current level;
+    while (cur) {
+        while (cur) {
+            if (cur->left) {
+                if (pre) {
+                    pre->next = cur->left;
+                } else {
+                    head = cur->left;
+                }
+                pre = cur->left;
+            }
+
+            if (cur->right) {
+                if (pre) {
+                    pre->next = cur->right;
+                } else {
+                    head = cur->right;
+                }
+                pre = cur->right;
+            }
+
+            cur = cur->next;
         }
+
+        // move to next level;
+        cur = head;
+        head = nullptr;
+        pre = nullptr;
     }
-    return;
 }
+
+// time: O(n)
+// space: O(1)

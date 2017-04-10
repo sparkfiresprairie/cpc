@@ -3174,6 +3174,33 @@ dynamic_programming/word_break.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/word_break.cpp.s
 .PHONY : dynamic_programming/word_break.cpp.s
 
+dynamic_programming/word_break_2.o: dynamic_programming/word_break_2.cpp.o
+
+.PHONY : dynamic_programming/word_break_2.o
+
+# target to build an object file
+dynamic_programming/word_break_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o
+.PHONY : dynamic_programming/word_break_2.cpp.o
+
+dynamic_programming/word_break_2.i: dynamic_programming/word_break_2.cpp.i
+
+.PHONY : dynamic_programming/word_break_2.i
+
+# target to preprocess a source file
+dynamic_programming/word_break_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.i
+.PHONY : dynamic_programming/word_break_2.cpp.i
+
+dynamic_programming/word_break_2.s: dynamic_programming/word_break_2.cpp.s
+
+.PHONY : dynamic_programming/word_break_2.s
+
+# target to generate assembly for a file
+dynamic_programming/word_break_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.s
+.PHONY : dynamic_programming/word_break_2.cpp.s
+
 greedy/create_maximum_number.o: greedy/create_maximum_number.cpp.o
 
 .PHONY : greedy/create_maximum_number.o
@@ -6681,6 +6708,9 @@ help:
 	@echo "... dynamic_programming/word_break.o"
 	@echo "... dynamic_programming/word_break.i"
 	@echo "... dynamic_programming/word_break.s"
+	@echo "... dynamic_programming/word_break_2.o"
+	@echo "... dynamic_programming/word_break_2.i"
+	@echo "... dynamic_programming/word_break_2.s"
 	@echo "... greedy/create_maximum_number.o"
 	@echo "... greedy/create_maximum_number.i"
 	@echo "... greedy/create_maximum_number.s"

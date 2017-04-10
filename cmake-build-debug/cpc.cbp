@@ -449,6 +449,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/word_break.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/dynamic_programming/word_break_2.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/greedy/Greedy.h">
 			<Option target="cpc"/>
 		</Unit>
