@@ -49,3 +49,20 @@ vector<int> maxSlidingWindow(vector<int>& nums, int k) {
 
 // time: O(n)
 // space: O(n)
+
+// The following algorithm doesn't work. st.erase can't erase element.
+// don't know why.
+//vector<int> maxSlidingWindow(vector<int>& nums, int k) {
+//    vector<int> ans;
+//    auto my_greater = [&](int idx1, int idx2) {
+//        return nums[idx1] >= nums[idx2];
+//    };
+//    set<int, decltype(my_greater)> st(my_greater);
+//    for (int i = 0; i < nums.size(); ++i) {
+//        st.insert(i);
+//        if (i < k - 1) continue;
+//        ans.push_back(nums[*st.begin()]);
+//        st.erase(i - (k - 1));
+//    }
+//    return ans;
+//}

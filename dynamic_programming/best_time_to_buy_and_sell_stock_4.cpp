@@ -20,7 +20,7 @@ int maxProfit(int k, vector<int>& prices) {
     if (k > n / 2){ // simple case
         int ans = 0;
         for (int i = 1; i < n; ++i){
-            ans += max(prices[i] - prices[i-1],0);
+            ans += max(prices[i] - prices[i - 1],0);
         }
         return ans;
     }
