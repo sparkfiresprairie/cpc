@@ -26,3 +26,7 @@ int minMeetingRooms(vector<Interval>& intervals) {
     }
     return ans;
 }
+
+
+// time: O(nlogn)
+// space: O(n)

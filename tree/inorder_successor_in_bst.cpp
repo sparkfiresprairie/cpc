@@ -32,3 +32,6 @@ TreeNode* inorderSuccessor(TreeNode* root, TreeNode* p) {
     }
 }
 
+// time: O(n)
+// space: O(1)
+
