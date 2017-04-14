@@ -46,3 +46,25 @@ vector<string> letterCombinations(string digits) {
 
 // time: O(4^n)
 // space: O(4^n)
+
+vector<string> letterCombinations(string digits) {
+    vector<string> ans;
+    if (digits.empty()) return ans;
+    string path;
+    help(digits, 0, path, ans);
+    return ans;
+}
+
+void help(string const& digits, int b, string& path, vector<string>& ans) {
+    unordered_map<int, string> map{{1, ""}, {2, "abc"}, {3, "def"}, {4, "ghi"}, {5, "jkl"}, {6, "mno"}, {7, "pqrs"}, {8, "tuv"}, {9, "wxyz"}, {0, ""}};
+    if (b >= digits.size()) {
+        ans.push_back(path);
+        return;
+    }
+
+    for (auto& c : map[digits[b] - '0']) {
+        path.push_back(c);
+        help(digits, b + 1, path, ans);
+        path.pop_back();
+    }
+}
