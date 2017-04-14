@@ -39,6 +39,9 @@ vector<string> binaryTreePaths(TreeNode* root) {
     return paths;
 }
 
+// time: O(n)
+// space: O(logn)
+
 //void help(TreeNode* root, string& path, vector<string>& paths) {
 //    if (!root) return;
 //    int sz = path.size();

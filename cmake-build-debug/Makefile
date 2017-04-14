@@ -2337,6 +2337,33 @@ dfs_bfs/word_ladder.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_ladder.cpp.s
 .PHONY : dfs_bfs/word_ladder.cpp.s
 
+dfs_bfs/word_search.o: dfs_bfs/word_search.cpp.o
+
+.PHONY : dfs_bfs/word_search.o
+
+# target to build an object file
+dfs_bfs/word_search.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o
+.PHONY : dfs_bfs/word_search.cpp.o
+
+dfs_bfs/word_search.i: dfs_bfs/word_search.cpp.i
+
+.PHONY : dfs_bfs/word_search.i
+
+# target to preprocess a source file
+dfs_bfs/word_search.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.i
+.PHONY : dfs_bfs/word_search.cpp.i
+
+dfs_bfs/word_search.s: dfs_bfs/word_search.cpp.s
+
+.PHONY : dfs_bfs/word_search.s
+
+# target to generate assembly for a file
+dfs_bfs/word_search.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.s
+.PHONY : dfs_bfs/word_search.cpp.s
+
 divide_and_conquer/count_of_range_sum.o: divide_and_conquer/count_of_range_sum.cpp.o
 
 .PHONY : divide_and_conquer/count_of_range_sum.o
@@ -3633,6 +3660,33 @@ hash_table/longest_substring_with_at_most_two_distinct_characters.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/longest_substring_with_at_most_two_distinct_characters.cpp.s
 .PHONY : hash_table/longest_substring_with_at_most_two_distinct_characters.cpp.s
 
+hash_table/longest_substring_without_repeating_characters.o: hash_table/longest_substring_without_repeating_characters.cpp.o
+
+.PHONY : hash_table/longest_substring_without_repeating_characters.o
+
+# target to build an object file
+hash_table/longest_substring_without_repeating_characters.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o
+.PHONY : hash_table/longest_substring_without_repeating_characters.cpp.o
+
+hash_table/longest_substring_without_repeating_characters.i: hash_table/longest_substring_without_repeating_characters.cpp.i
+
+.PHONY : hash_table/longest_substring_without_repeating_characters.i
+
+# target to preprocess a source file
+hash_table/longest_substring_without_repeating_characters.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.i
+.PHONY : hash_table/longest_substring_without_repeating_characters.cpp.i
+
+hash_table/longest_substring_without_repeating_characters.s: hash_table/longest_substring_without_repeating_characters.cpp.s
+
+.PHONY : hash_table/longest_substring_without_repeating_characters.s
+
+# target to generate assembly for a file
+hash_table/longest_substring_without_repeating_characters.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.s
+.PHONY : hash_table/longest_substring_without_repeating_characters.cpp.s
+
 hash_table/maximum_size_subarray_sum_equals_k.o: hash_table/maximum_size_subarray_sum_equals_k.cpp.o
 
 .PHONY : hash_table/maximum_size_subarray_sum_equals_k.o
@@ -3659,6 +3713,33 @@ hash_table/maximum_size_subarray_sum_equals_k.s: hash_table/maximum_size_subarra
 hash_table/maximum_size_subarray_sum_equals_k.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/maximum_size_subarray_sum_equals_k.cpp.s
 .PHONY : hash_table/maximum_size_subarray_sum_equals_k.cpp.s
+
+hash_table/minimum_window_substring.o: hash_table/minimum_window_substring.cpp.o
+
+.PHONY : hash_table/minimum_window_substring.o
+
+# target to build an object file
+hash_table/minimum_window_substring.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o
+.PHONY : hash_table/minimum_window_substring.cpp.o
+
+hash_table/minimum_window_substring.i: hash_table/minimum_window_substring.cpp.i
+
+.PHONY : hash_table/minimum_window_substring.i
+
+# target to preprocess a source file
+hash_table/minimum_window_substring.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.i
+.PHONY : hash_table/minimum_window_substring.cpp.i
+
+hash_table/minimum_window_substring.s: hash_table/minimum_window_substring.cpp.s
+
+.PHONY : hash_table/minimum_window_substring.s
+
+# target to generate assembly for a file
+hash_table/minimum_window_substring.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.s
+.PHONY : hash_table/minimum_window_substring.cpp.s
 
 hash_table/palindrome_pairs.o: hash_table/palindrome_pairs.cpp.o
 
@@ -5118,6 +5199,33 @@ string/flip_game.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/flip_game.cpp.s
 .PHONY : string/flip_game.cpp.s
 
+string/implement_strStr.o: string/implement_strStr.cpp.o
+
+.PHONY : string/implement_strStr.o
+
+# target to build an object file
+string/implement_strStr.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/implement_strStr.cpp.o
+.PHONY : string/implement_strStr.cpp.o
+
+string/implement_strStr.i: string/implement_strStr.cpp.i
+
+.PHONY : string/implement_strStr.i
+
+# target to preprocess a source file
+string/implement_strStr.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/implement_strStr.cpp.i
+.PHONY : string/implement_strStr.cpp.i
+
+string/implement_strStr.s: string/implement_strStr.cpp.s
+
+.PHONY : string/implement_strStr.s
+
+# target to generate assembly for a file
+string/implement_strStr.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/implement_strStr.cpp.s
+.PHONY : string/implement_strStr.cpp.s
+
 string/integer_to_english_words.o: string/integer_to_english_words.cpp.o
 
 .PHONY : string/integer_to_english_words.o
@@ -6252,6 +6360,33 @@ tree/verify_preorder_serialization_of_a_binary_tree.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/tree/verify_preorder_serialization_of_a_binary_tree.cpp.s
 .PHONY : tree/verify_preorder_serialization_of_a_binary_tree.cpp.s
 
+trie/word_search_2.o: trie/word_search_2.cpp.o
+
+.PHONY : trie/word_search_2.o
+
+# target to build an object file
+trie/word_search_2.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/trie/word_search_2.cpp.o
+.PHONY : trie/word_search_2.cpp.o
+
+trie/word_search_2.i: trie/word_search_2.cpp.i
+
+.PHONY : trie/word_search_2.i
+
+# target to preprocess a source file
+trie/word_search_2.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/trie/word_search_2.cpp.i
+.PHONY : trie/word_search_2.cpp.i
+
+trie/word_search_2.s: trie/word_search_2.cpp.s
+
+.PHONY : trie/word_search_2.s
+
+# target to generate assembly for a file
+trie/word_search_2.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/trie/word_search_2.cpp.s
+.PHONY : trie/word_search_2.cpp.s
+
 trie/word_squares.o: trie/word_squares.cpp.o
 
 .PHONY : trie/word_squares.o
@@ -6615,6 +6750,9 @@ help:
 	@echo "... dfs_bfs/word_ladder.o"
 	@echo "... dfs_bfs/word_ladder.i"
 	@echo "... dfs_bfs/word_ladder.s"
+	@echo "... dfs_bfs/word_search.o"
+	@echo "... dfs_bfs/word_search.i"
+	@echo "... dfs_bfs/word_search.s"
 	@echo "... divide_and_conquer/count_of_range_sum.o"
 	@echo "... divide_and_conquer/count_of_range_sum.i"
 	@echo "... divide_and_conquer/count_of_range_sum.s"
@@ -6759,9 +6897,15 @@ help:
 	@echo "... hash_table/longest_substring_with_at_most_two_distinct_characters.o"
 	@echo "... hash_table/longest_substring_with_at_most_two_distinct_characters.i"
 	@echo "... hash_table/longest_substring_with_at_most_two_distinct_characters.s"
+	@echo "... hash_table/longest_substring_without_repeating_characters.o"
+	@echo "... hash_table/longest_substring_without_repeating_characters.i"
+	@echo "... hash_table/longest_substring_without_repeating_characters.s"
 	@echo "... hash_table/maximum_size_subarray_sum_equals_k.o"
 	@echo "... hash_table/maximum_size_subarray_sum_equals_k.i"
 	@echo "... hash_table/maximum_size_subarray_sum_equals_k.s"
+	@echo "... hash_table/minimum_window_substring.o"
+	@echo "... hash_table/minimum_window_substring.i"
+	@echo "... hash_table/minimum_window_substring.s"
 	@echo "... hash_table/palindrome_pairs.o"
 	@echo "... hash_table/palindrome_pairs.i"
 	@echo "... hash_table/palindrome_pairs.s"
@@ -6924,6 +7068,9 @@ help:
 	@echo "... string/flip_game.o"
 	@echo "... string/flip_game.i"
 	@echo "... string/flip_game.s"
+	@echo "... string/implement_strStr.o"
+	@echo "... string/implement_strStr.i"
+	@echo "... string/implement_strStr.s"
 	@echo "... string/integer_to_english_words.o"
 	@echo "... string/integer_to_english_words.i"
 	@echo "... string/integer_to_english_words.s"
@@ -7050,6 +7197,9 @@ help:
 	@echo "... tree/verify_preorder_serialization_of_a_binary_tree.o"
 	@echo "... tree/verify_preorder_serialization_of_a_binary_tree.i"
 	@echo "... tree/verify_preorder_serialization_of_a_binary_tree.s"
+	@echo "... trie/word_search_2.o"
+	@echo "... trie/word_search_2.i"
+	@echo "... trie/word_search_2.s"
 	@echo "... trie/word_squares.o"
 	@echo "... trie/word_squares.i"
 	@echo "... trie/word_squares.s"

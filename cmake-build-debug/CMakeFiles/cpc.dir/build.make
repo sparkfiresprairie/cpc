@@ -5601,6 +5601,126 @@ CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o.provides: CMakeFiles/c
 CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o.provides.build: CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o
 
 
+CMakeFiles/cpc.dir/string/implement_strStr.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/string/implement_strStr.cpp.o: ../string/implement_strStr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Building CXX object CMakeFiles/cpc.dir/string/implement_strStr.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/string/implement_strStr.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/string/implement_strStr.cpp
+
+CMakeFiles/cpc.dir/string/implement_strStr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/string/implement_strStr.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/string/implement_strStr.cpp > CMakeFiles/cpc.dir/string/implement_strStr.cpp.i
+
+CMakeFiles/cpc.dir/string/implement_strStr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/string/implement_strStr.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/string/implement_strStr.cpp -o CMakeFiles/cpc.dir/string/implement_strStr.cpp.s
+
+CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.requires
+
+CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.provides: CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.provides
+
+CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.provides.build: CMakeFiles/cpc.dir/string/implement_strStr.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o: ../hash_table/minimum_window_substring.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_233) "Building CXX object CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/minimum_window_substring.cpp
+
+CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/minimum_window_substring.cpp > CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/minimum_window_substring.cpp -o CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o
+
+
+CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o: ../hash_table/longest_substring_without_repeating_characters.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_234) "Building CXX object CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/hash_table/longest_substring_without_repeating_characters.cpp
+
+CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/hash_table/longest_substring_without_repeating_characters.cpp > CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.i
+
+CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/hash_table/longest_substring_without_repeating_characters.cpp -o CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.s
+
+CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.requires
+
+CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.provides: CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.provides
+
+CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.provides.build: CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o
+
+
+CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o: ../dfs_bfs/word_search.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_235) "Building CXX object CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/word_search.cpp
+
+CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/word_search.cpp > CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.i
+
+CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/dfs_bfs/word_search.cpp -o CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.s
+
+CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.requires
+
+CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.provides: CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.provides
+
+CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.provides.build: CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o
+
+
+CMakeFiles/cpc.dir/trie/word_search_2.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/trie/word_search_2.cpp.o: ../trie/word_search_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_236) "Building CXX object CMakeFiles/cpc.dir/trie/word_search_2.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/trie/word_search_2.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/trie/word_search_2.cpp
+
+CMakeFiles/cpc.dir/trie/word_search_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/trie/word_search_2.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/trie/word_search_2.cpp > CMakeFiles/cpc.dir/trie/word_search_2.cpp.i
+
+CMakeFiles/cpc.dir/trie/word_search_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/trie/word_search_2.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/trie/word_search_2.cpp -o CMakeFiles/cpc.dir/trie/word_search_2.cpp.s
+
+CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.requires
+
+CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.provides: CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.provides
+
+CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.provides.build: CMakeFiles/cpc.dir/trie/word_search_2.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -5833,7 +5953,12 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o" \
 "CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o" \
 "CMakeFiles/cpc.dir/design/min_queue.cpp.o" \
-"CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o"
+"CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o" \
+"CMakeFiles/cpc.dir/string/implement_strStr.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o" \
+"CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o" \
+"CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o" \
+"CMakeFiles/cpc.dir/trie/word_search_2.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -6069,9 +6194,14 @@ cpc: CMakeFiles/cpc.dir/dynamic_programming/unique_path_2.cpp.o
 cpc: CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o
 cpc: CMakeFiles/cpc.dir/design/min_queue.cpp.o
 cpc: CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o
+cpc: CMakeFiles/cpc.dir/string/implement_strStr.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o
+cpc: CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o
+cpc: CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o
+cpc: CMakeFiles/cpc.dir/trie/word_search_2.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_232) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -6310,6 +6440,11 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/unique_path_
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/design/min_queue.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/string/implement_strStr.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

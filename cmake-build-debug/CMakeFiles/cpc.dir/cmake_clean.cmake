@@ -230,6 +230,11 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/tree/flatten_binary_tree_to_linked_list.cpp.o"
   "CMakeFiles/cpc.dir/design/min_queue.cpp.o"
   "CMakeFiles/cpc.dir/dynamic_programming/word_break_2.cpp.o"
+  "CMakeFiles/cpc.dir/string/implement_strStr.cpp.o"
+  "CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o"
+  "CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o"
+  "CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o"
+  "CMakeFiles/cpc.dir/trie/word_search_2.cpp.o"
   "cpc.pdb"
   "cpc"
 )
