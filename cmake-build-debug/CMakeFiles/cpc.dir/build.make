@@ -5721,6 +5721,54 @@ CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.provides: CMakeFiles/cpc.dir/trie/wo
 CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.provides.build: CMakeFiles/cpc.dir/trie/word_search_2.cpp.o
 
 
+CMakeFiles/cpc.dir/math/random_pick_index.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/math/random_pick_index.cpp.o: ../math/random_pick_index.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Building CXX object CMakeFiles/cpc.dir/math/random_pick_index.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/math/random_pick_index.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/math/random_pick_index.cpp
+
+CMakeFiles/cpc.dir/math/random_pick_index.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/math/random_pick_index.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/math/random_pick_index.cpp > CMakeFiles/cpc.dir/math/random_pick_index.cpp.i
+
+CMakeFiles/cpc.dir/math/random_pick_index.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/math/random_pick_index.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/math/random_pick_index.cpp -o CMakeFiles/cpc.dir/math/random_pick_index.cpp.s
+
+CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.requires
+
+CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.provides: CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.provides
+
+CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.provides.build: CMakeFiles/cpc.dir/math/random_pick_index.cpp.o
+
+
+CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o: CMakeFiles/cpc.dir/flags.make
+CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o: ../backtracking/sudoku_solver.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_238) "Building CXX object CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o -c /Users/Xingyuan/Documents/GitHub/cpc/backtracking/sudoku_solver.cpp
+
+CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/Xingyuan/Documents/GitHub/cpc/backtracking/sudoku_solver.cpp > CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.i
+
+CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/Xingyuan/Documents/GitHub/cpc/backtracking/sudoku_solver.cpp -o CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.s
+
+CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.requires:
+
+.PHONY : CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.requires
+
+CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.provides: CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.requires
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.provides.build
+.PHONY : CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.provides
+
+CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.provides.build: CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o
+
+
 # Object files for target cpc
 cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/main.cpp.o" \
@@ -5958,7 +6006,9 @@ cpc_OBJECTS = \
 "CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o" \
 "CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o" \
 "CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o" \
-"CMakeFiles/cpc.dir/trie/word_search_2.cpp.o"
+"CMakeFiles/cpc.dir/trie/word_search_2.cpp.o" \
+"CMakeFiles/cpc.dir/math/random_pick_index.cpp.o" \
+"CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o"
 
 # External object files for target cpc
 cpc_EXTERNAL_OBJECTS =
@@ -6199,9 +6249,11 @@ cpc: CMakeFiles/cpc.dir/hash_table/minimum_window_substring.cpp.o
 cpc: CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o
 cpc: CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o
 cpc: CMakeFiles/cpc.dir/trie/word_search_2.cpp.o
+cpc: CMakeFiles/cpc.dir/math/random_pick_index.cpp.o
+cpc: CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o
 cpc: CMakeFiles/cpc.dir/build.make
 cpc: CMakeFiles/cpc.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_237) "Linking CXX executable cpc"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/Xingyuan/Documents/GitHub/cpc/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_239) "Linking CXX executable cpc"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/cpc.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -6445,6 +6497,8 @@ CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/minimum_window_substr
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o.requires
 CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/trie/word_search_2.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/math/random_pick_index.cpp.o.requires
+CMakeFiles/cpc.dir/requires: CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o.requires
 
 .PHONY : CMakeFiles/cpc.dir/requires
 

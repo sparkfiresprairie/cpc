@@ -235,6 +235,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpc.dir/hash_table/longest_substring_without_repeating_characters.cpp.o"
   "CMakeFiles/cpc.dir/dfs_bfs/word_search.cpp.o"
   "CMakeFiles/cpc.dir/trie/word_search_2.cpp.o"
+  "CMakeFiles/cpc.dir/math/random_pick_index.cpp.o"
+  "CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o"
   "cpc.pdb"
   "cpc"
 )

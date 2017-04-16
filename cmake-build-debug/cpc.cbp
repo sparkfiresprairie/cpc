@@ -188,6 +188,9 @@
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/backtracking/palindrome_permutation_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/backtracking/sudoku_solver.cpp">
+			<Option target="cpc"/>
+		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/backtracking/word_pattern_2.cpp">
 			<Option target="cpc"/>
 		</Unit>
@@ -624,6 +627,9 @@
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/power_of_two.cpp">
+			<Option target="cpc"/>
+		</Unit>
+		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/random_pick_index.cpp">
 			<Option target="cpc"/>
 		</Unit>
 		<Unit filename="/Users/Xingyuan/Documents/GitHub/cpc/math/rectangle_area.cpp">

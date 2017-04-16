@@ -1041,6 +1041,33 @@ backtracking/palindrome_permutation_2.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/palindrome_permutation_2.cpp.s
 .PHONY : backtracking/palindrome_permutation_2.cpp.s
 
+backtracking/sudoku_solver.o: backtracking/sudoku_solver.cpp.o
+
+.PHONY : backtracking/sudoku_solver.o
+
+# target to build an object file
+backtracking/sudoku_solver.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.o
+.PHONY : backtracking/sudoku_solver.cpp.o
+
+backtracking/sudoku_solver.i: backtracking/sudoku_solver.cpp.i
+
+.PHONY : backtracking/sudoku_solver.i
+
+# target to preprocess a source file
+backtracking/sudoku_solver.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.i
+.PHONY : backtracking/sudoku_solver.cpp.i
+
+backtracking/sudoku_solver.s: backtracking/sudoku_solver.cpp.s
+
+.PHONY : backtracking/sudoku_solver.s
+
+# target to generate assembly for a file
+backtracking/sudoku_solver.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/backtracking/sudoku_solver.cpp.s
+.PHONY : backtracking/sudoku_solver.cpp.s
+
 backtracking/word_pattern_2.o: backtracking/word_pattern_2.cpp.o
 
 .PHONY : backtracking/word_pattern_2.o
@@ -4632,6 +4659,33 @@ math/power_of_two.cpp.s:
 	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/power_of_two.cpp.s
 .PHONY : math/power_of_two.cpp.s
 
+math/random_pick_index.o: math/random_pick_index.cpp.o
+
+.PHONY : math/random_pick_index.o
+
+# target to build an object file
+math/random_pick_index.cpp.o:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/random_pick_index.cpp.o
+.PHONY : math/random_pick_index.cpp.o
+
+math/random_pick_index.i: math/random_pick_index.cpp.i
+
+.PHONY : math/random_pick_index.i
+
+# target to preprocess a source file
+math/random_pick_index.cpp.i:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/random_pick_index.cpp.i
+.PHONY : math/random_pick_index.cpp.i
+
+math/random_pick_index.s: math/random_pick_index.cpp.s
+
+.PHONY : math/random_pick_index.s
+
+# target to generate assembly for a file
+math/random_pick_index.cpp.s:
+	$(MAKE) -f CMakeFiles/cpc.dir/build.make CMakeFiles/cpc.dir/math/random_pick_index.cpp.s
+.PHONY : math/random_pick_index.cpp.s
+
 math/rectangle_area.o: math/rectangle_area.cpp.o
 
 .PHONY : math/rectangle_area.o
@@ -6606,6 +6660,9 @@ help:
 	@echo "... backtracking/palindrome_permutation_2.o"
 	@echo "... backtracking/palindrome_permutation_2.i"
 	@echo "... backtracking/palindrome_permutation_2.s"
+	@echo "... backtracking/sudoku_solver.o"
+	@echo "... backtracking/sudoku_solver.i"
+	@echo "... backtracking/sudoku_solver.s"
 	@echo "... backtracking/word_pattern_2.o"
 	@echo "... backtracking/word_pattern_2.i"
 	@echo "... backtracking/word_pattern_2.s"
@@ -7005,6 +7062,9 @@ help:
 	@echo "... math/power_of_two.o"
 	@echo "... math/power_of_two.i"
 	@echo "... math/power_of_two.s"
+	@echo "... math/random_pick_index.o"
+	@echo "... math/random_pick_index.i"
+	@echo "... math/random_pick_index.s"
 	@echo "... math/rectangle_area.o"
 	@echo "... math/rectangle_area.i"
 	@echo "... math/rectangle_area.s"
